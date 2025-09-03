@@ -1,0 +1,26 @@
+Analysis for Goku (Ultra Instinct)
+Problem:
+
+Goku (Ultra Instinct) is significantly overpowered in multiple key areas, most notably in his high evasion chance, revival ability, and stat scaling (especially defense). His passive allows him to evade attacks at a great chance, resulting in high survivability, and his revival mechanic makes him extremely difficult to remove from the battlefield, while also granting him strong damage output through his high chance of critical hits and additional Super Attacks. These traits, when combined, make him disproportionately stronger compared to other meta units.
+Proposed Changes:
+
+    Evasion Chance: Great chance → High chance.
+
+        Rationale: The evasion mechanic is a defining characteristic, but "Great chance" is an extreme outlier. Changing it to "High chance" brings it in line with other units' evasion abilities.
+
+    Revival: Change revival condition from "revives with 70% HP" to "revives with 50% HP".
+
+        Rationale: The 70% HP revival makes Goku (Ultra Instinct) very difficult to handle and almost ensures that he remains a dominant presence on the battlefield. Reducing the revival to 50% HP makes it still impactful but less overpowering.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	24,290
+Attack	20,700	20,700	21,632
+Defense	14,525	14,525	13,573
+Super Attack	Colossal damage; high chance of crit for 1 turn	Colossal damage; high chance of crit for 1 turn	Colossal damage to mega-colossal
+Ultra Super Attack	Mega-colossal damage; high chance of crit for 1 turn	Mega-colossal damage; high chance of crit for 1 turn	Mega-colossal damage
+Evasion Chance (Passive)	Great chance	High chance	High chance
+Revival (Passive)	Revives with 70% HP (once only)	Revives with 50% HP (once only)	N/A
+Viability Check:
+
+After the proposed nerfs, Goku (Ultra Instinct) will still be a very powerful unit with strong offensive and defensive capabilities, but he will no longer be overdominant in most team compositions. He will remain competitive without overshadowing other units in terms of survivability and damage output.

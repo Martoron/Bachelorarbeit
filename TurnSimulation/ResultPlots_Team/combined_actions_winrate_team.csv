@@ -1,0 +1,12 @@
+Condition,ItemsUsed,HealsUsed,RevivesUsed,WinRate
+AGL_UI_adv,200,30,5,0.76
+AGL_UI_adv_LLM,200,38,18,0.71
+AGL_UI_no_adv,200,49,20,0.54
+AGL_UI_no_adv_LLM,199,42,39,0.43
+Baseline1,200,52,0,0.27
+Baseline2,200,44,0,0.34
+Baseline3,200,46,0,0.31
+INT_Vegeta_adv,200,43,20,0.75
+INT_Vegeta_adv_LLM,200,44,20,0.76
+INT_Vegeta_no_adv,200,50,36,0.52
+INT_Vegeta_no_adv_LLM,200,46,13,0.37

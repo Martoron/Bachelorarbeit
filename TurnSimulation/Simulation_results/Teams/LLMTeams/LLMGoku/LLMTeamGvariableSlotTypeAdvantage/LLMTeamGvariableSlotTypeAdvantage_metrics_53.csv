@@ -1,0 +1,30 @@
+RNG Seed: 95
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),6,129427,324777 (72%),745371,42754629 (98%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,34,324743 (71%),3811728,38942901 (90%)
+1,12114,Super Saiyan 2 Gohan (Youth),1,36,324707 (71%),2517314,36425587 (84%)
+2,11971,Caulifla,4,0,324707 (71%),155758,36269829 (83%)
+2,12009,Gohan (Teen),0,0,324707 (71%),1419156,34850673 (80%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,102507,222200 (49%),2160922,32689751 (75%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,11751,Gohan (Kid),3,44634,177566 (39%),128661,32561090 (75%)
+3,12031,Goku (Ultra Instinct),2,95,177471 (39%),7167759,25393331 (58%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,219,177252 (39%),4255601,21137730 (49%)
+4,11971,Caulifla,7,0,177252 (39%),23247,21114483 (49%)
+4,12009,Gohan (Teen),1,116,177136 (39%),1551941,19562542 (45%)
+4,12114,Super Saiyan 2 Gohan (Youth),0,0,177136 (39%),3893446,15669096 (36%)
+5,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11751,Gohan (Kid),4,123121,54015 (12%),779626,14889470 (34%)
+5,12031,Goku (Ultra Instinct),1,20916,33099 (7%),9188810,5700660 (13%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,56923,0 (0%),5683377,17283 (0%)
+5,12031,Goku (Ultra Instinct),revive,revive,317943 (70%),revive,revive
+6,11971,Caulifla,1,0,317943 (70%),26024,0 (0%)
+6,12009,Gohan (Teen),0,0,317943 (70%),0,0 (0%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,317943 (70%),0,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,22710.17
+Average damage dealt per turn:,7251456.83

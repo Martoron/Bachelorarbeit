@@ -1,0 +1,31 @@
+RNG Seed: 128
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,4,0,440463 (100%),158478,43341522 (100%)
+1,11029,Masked Saiyan,2,192,440271 (100%),1911017,41430505 (95%)
+1,11751,Gohan (Kid),2,21793,418478 (95%),709069,40721436 (94%)
+2,12009,Gohan (Teen),1,11,418467 (95%),544924,40176512 (92%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,270,418197 (95%),1415874,38760638 (89%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,331,417866 (95%),1855125,36905513 (85%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,5,0,417866 (95%),167193,36738320 (84%)
+3,12031,Goku (Ultra Instinct),1,0,417866 (95%),2579596,34158724 (79%)
+3,11029,Masked Saiyan,2,115,417751 (95%),1857945,32300779 (74%)
+4,11751,Gohan (Kid),4,67589,350162 (79%),799808,31500971 (72%)
+4,12009,Gohan (Teen),3,155,350007 (79%),1578882,29922089 (69%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,63,349944 (79%),1095637,28826452 (66%)
+5,11971,Caulifla,4,0,349944 (79%),177895,28648557 (66%)
+5,12031,Goku (Ultra Instinct),3,0,349944 (79%),618919,28029638 (64%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,34660,315284 (72%),2770284,25259354 (58%)
+6,11751,Gohan (Kid),3,122366,192918 (44%),804162,24455192 (56%)
+6,12009,Gohan (Teen),5,44627,148291 (34%),1724161,22731031 (52%)
+6,11029,Masked Saiyan,0,0,148291 (34%),1945354,20785677 (48%)
+7,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,2,0,148291 (34%),194035,20591642 (47%)
+7,12031,Goku (Ultra Instinct),3,111873,36418 (8%),4184557,16407085 (38%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,197587,0 (0%),5103626,11303459 (26%)
+Result:,Team defeated
+
+Average damage received per turn:,85947.43
+Average damage dealt per turn:,4599505.86

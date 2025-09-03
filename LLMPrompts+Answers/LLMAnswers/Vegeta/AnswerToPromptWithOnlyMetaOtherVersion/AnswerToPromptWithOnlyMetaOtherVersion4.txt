@@ -1,0 +1,61 @@
+Based on the dataset, we can identify that Super Saiyan God SS Evolved Vegeta (the overpowered unit) stands out in several key areas compared to the current top-tier meta units.
+⚖️ Meta Balance Evaluation
+
+Let’s look at the average values and effects across the 5 meta units:
+Stat / Trait	Meta Average	SSGSS Evolved Vegeta	Difference
+HP	23393	21688	-1705 (below avg)
+ATK	21572	19850	-1722 (below avg)
+DEF	12992	15719	+2727 (↑↑)
+Base Passive Buff (ATK/DEF)	~132%	150%	Above avg
+Damage Reduction	~15% (avg) + conditional	10% base + up to 30% more	Up to 40% total
+Revive Mechanic	Rare (0/5)	✅ Yes	Exclusive
+Crit Chance (Super/Ultra)	Mostly none	High chance on both	Stacked
+🔍 Identified Imbalances
+
+    Over-Stacked Defense:
+
+        DEF stat (15719) is 21% higher than meta average.
+
+        Combined with 40% total damage reduction, he becomes extremely tanky even against Red Zone content.
+
+    Super/Ultra Guaranteed Crit Chance:
+
+        Both Super and Ultra Super Attacks have a high chance (50%) of crit every turn, essentially making most attacks lethal regardless of type advantage.
+
+    Revival Mechanic:
+
+        Conditional Revive (70% HP) is very strong, and none of the meta units here have it.
+
+        Triggering this is not very difficult (just receive 7 hits and drop to ≤50% HP).
+
+    Multiple Scaling Layers:
+
+        Stacks Ki from attacks (+1 up to 5), stacks DR with hits received (+10% per hit, up to +30%), and has built-in additional SA chance.
+
+        These synergize too easily for both offensive and defensive power.
+
+🛠️ Rebalancing Suggestions
+
+The goal is to retain identity (a durable crit-focused unit with revive), while making the unit fairer.
+🔧 Suggested Nerfs:
+Aspect	Current	Rebalanced	Rationale
+DEF Stat	15719	13500	Closer to meta average
+Passive ATK & DEF Buff	150%	130%	In line with high-end meta
+Damage Reduction	10% + 10% per hit (up to 30%) = 40% total	10% base + 7% per hit (max 21%) = 31% total	More fair tankiness
+Crit Chance (SA/Ultra)	High chance on both	High chance on Ultra Super only	Reduces overkill potential
+Revive Condition	After 7 hits, HP ≤50%, unit or ally KO’d	After 8 hits, HP ≤40%, self KO only	Adds tension, makes revive harder
+Ki Gain Per Attack	+1 per attack (up to +5)	+1 per Super Attack (up to +3)	Slower ramp-up, rewards SA use
+📊 Final Comparison Table
+Unit	DEF	Base ATK/DEF Buff	DR	Revive	Crit Chance
+Meta Average	12992	~132%	~15%	❌	Mostly conditional
+SSGSS Vegeta (Now)	15719	150%	Up to 40%	✅ (easy)	High on SA & Ultra
+SSGSS Vegeta (Revised)	13500	130%	Up to 31%	✅ (harder)	High on Ultra only
+✅ Resulting Unit Identity
+
+    Still tankier than most, but not invincible.
+
+    Still crit-focused, but requires Ultra Super to do so reliably.
+
+    Revive remains unique, but now feels earned and not trivial to trigger.
+
+This rebalancing maintains the unit’s unique flavor while keeping it in check with top-tier meta power levels.

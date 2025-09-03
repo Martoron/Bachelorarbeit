@@ -1,0 +1,23 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+Evolved Vegeta exhibits excessive survivability and damage output through compounding damage reduction scaling (up to 40%), frequent crits (high chance on both SA and Ultra SA), consistent super chaining, and a forgiving revive condition. These combined traits make him statistically outlier-tier compared to current meta units in both defense sustainability and offensive reliability.
+Proposed Changes:
+
+    Passive Damage Reduction Scaling:
+    "Reduces damage received by 10%; plus an additional 10% within the same turn with each attack received (up to 30%)"
+    ➝ "Reduces damage received by 10%; plus an additional 8% within the same turn with each attack received (up to 24%)"
+
+    Super/Ultra Super Critical Hit Rate:
+    "High chance (50%) to perform a critical hit for 1 turn"
+    ➝ "Medium chance (30%) to perform a critical hit for 1 turn"
+
+Meta Comparison Table
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Damage Reduction (max scaling)	40% (10% base + 30%)	34% (10% base + 24%)	~20–30% (mostly flat, no scaling)
+Crit Chance on SA/Ultra SA	High Chance (50%)	Medium Chance (30%)	None to Medium (30%)
+Revival Condition	After 7 hits, <50% HP, then revive if anyone is KO’d	Unchanged	Rare; only 1 meta unit revives
+DEF Stat	15,719	Unchanged	13,792 avg (highest: 14,338)
+Viability Check:
+
+Post-nerf, Vegeta remains a top-tier tank and damage dealer with strong utility, but no longer hard-solos content through over-stacked mitigation and crit procs.

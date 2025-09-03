@@ -1,0 +1,29 @@
+RNG Seed: 115
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12031,Goku (Ultra Instinct),3,228092,241613 (51%),2462237,41037763 (94%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),5,342,241271 (51%),309188,40728575 (94%)
+1,12114,Super Saiyan 2 Gohan (Youth),0,0,241271 (51%),2059954,38668621 (89%)
+2,11971,Caulifla,4,0,241271 (51%),21537,38647084 (89%)
+2,12009,Gohan (Teen),3,283,240988 (51%),1430444,37216640 (86%)
+2,11879,Super Saiyan God SS Vegeta,1,68,240920 (51%),2199003,35017637 (81%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,12031,Goku (Ultra Instinct),7,16684,224236 (48%),3503765,31513872 (72%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,224236 (48%),4111871,27402001 (63%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,1366,222870 (47%),5156663,22245338 (51%)
+4,11971,Caulifla,3,0,222870 (47%),22041,22223297 (51%)
+4,12009,Gohan (Teen),2,81,222789 (47%),1571274,20652023 (47%)
+4,12114,Super Saiyan 2 Gohan (Youth),3,305,222484 (47%),737054,19914969 (46%)
+5,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,12031,Goku (Ultra Instinct),4,37731,184753 (39%),2343021,17571948 (40%)
+5,11879,Super Saiyan God SS Vegeta,3,105352,79401 (17%),2185176,15386772 (35%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,18897,60504 (13%),3240652,12146120 (28%)
+6,11971,Caulifla,3,0,60504 (13%),156736,11989384 (28%)
+6,12009,Gohan (Teen),3,82101,0 (0%),186346,11803038 (27%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,0 (0%),0,11803038 (27%)
+Result:,Team defeated
+
+Average damage received per turn:,81883.67
+Average damage dealt per turn:,5282827.00

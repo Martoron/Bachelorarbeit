@@ -1,0 +1,23 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+SSGSS Evolved Vegeta displays significant overperformance due to stacking conditional damage reduction (up to 40%) combined with a revival mechanic — a synergy no other meta unit possesses. His high-chance crits on both Supers, revival, and scaling tankiness make him statistically too durable and too offensively reliable, especially compared to units with more conditional or segmented utility.
+Proposed Changes:
+
+    Passive Damage Reduction Scaling:
+    From: “additional damage reduction of 10% within the same turn with each attack received (up to 30%)”
+    To: “additional damage reduction of 7% within the same turn with each attack received (up to 21%)”
+
+    High Chance Crit on Super:
+    From: “High chance of performing a critical hit for 1 turn” on both Supers
+    To: “Medium chance of performing a critical hit for 1 turn” on Ultra Super only
+
+Meta Comparison Table
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Base Damage Reduction	10% + up to 30% stacking (total 40%)	10% + up to 21% stacking (total 31%)	~30% (only one unit — Goku & Vegeta)
+Crit Chance on Super	High chance (50%) on both SA and USA	Medium chance (30%) on Ultra Super only	Most units lack innate crit chance
+Revival Condition	After 7 hits received + HP ≤ 50% + KO in same turn (70% heal)	Unchanged	Only unit with revive
+Defence (raw stat)	15,719	15,719	~13,992 avg
+Viability Check:
+
+Post-nerf, Vegeta retains his strong tanking and revival capabilities, but no longer trivializes difficult content with near-guaranteed crits and excessive stacking damage reduction.

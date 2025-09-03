@@ -1,0 +1,18 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+The OP unit’s passive provides an excessive combination of a very high flat ATK & DEF boost (+150%), stacking damage reduction up to 30% per turn (on top of a baseline 10%), a +5 Ki stack from attacks performed, and a revive with 70% HP recovery conditioned on multiple triggers—all contributing to inflated survivability and damage output far beyond meta averages. The high chance of critical hit on both super attacks compounds this, leading to extreme damage spikes unmatched by any meta unit.
+
+Proposed Changes:
+Damage reduction stacking: 10% base + up to 30% per turn → 10% base + up to 15% per turn (caps total damage reduction per turn at 25% instead of 40%).
+Revive HP recovery: 70% → 50% HP recovery upon revive (reduces sustain but keeps the revive relevant).
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive ATK & DEF Boost	+150%	+150%	~+115% (avg.)
+Damage Reduction	10% base + up to 30% stacking	10% base + up to 15% stacking	~30% flat total
+Ki Gain (from attacks)	+1 per attack (up to +5)	+1 per attack (up to +5)	+1 per attack (up to +5)
+Super Attack Crit Chance	High chance (both SA & ultra)	High chance (both SA & ultra)	Medium chance
+Revive HP Recovery	70% HP recovered	50% HP recovered	Usually 50% or less
+Viability Check:
+Post-nerf, the unit remains a powerful damage dealer with strong survivability and utility but loses its extreme sustain and damage immunity, preventing it from dominating the meta while still being highly viable in tough battles.

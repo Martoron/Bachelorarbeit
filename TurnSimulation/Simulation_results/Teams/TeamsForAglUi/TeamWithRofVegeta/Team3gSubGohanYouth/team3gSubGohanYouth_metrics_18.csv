@@ -1,0 +1,26 @@
+RNG Seed: 60
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12009,Gohan (Teen),2,26,435047 (100%),160922,43339078 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,101144,333903 (77%),263518,43075560 (99%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,111,333792 (77%),1922376,41153184 (95%)
+2,11971,Caulifla,2,0,333792 (77%),148831,41004353 (94%)
+2,12031,Goku (Ultra Instinct),2,0,333792 (77%),106327,40898026 (94%)
+2,11751,Gohan (Kid),4,175473,158319 (36%),665325,40232701 (92%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,12009,Gohan (Teen),4,201,158118 (36%),207794,40024907 (92%)
+3,11879,Super Saiyan God SS Vegeta,3,203,157915 (36%),927039,39097868 (90%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,30,157885 (36%),5236993,33860875 (78%)
+4,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,4,0,157885 (36%),13903,33846972 (78%)
+4,12031,Goku (Ultra Instinct),1,4464,153421 (35%),3294187,30552785 (70%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,214,153207 (35%),5992638,24560147 (56%)
+5,11751,Gohan (Kid),6,185656,0 (0%),784648,23775499 (55%)
+5,12009,Gohan (Teen),0,0,0 (0%),0,23775499 (55%)
+5,11879,Super Saiyan God SS Vegeta,0,0,0 (0%),0,23775499 (55%)
+Result:,Team defeated
+
+Average damage received per turn:,93504.40
+Average damage dealt per turn:,3944900.20

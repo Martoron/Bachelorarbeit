@@ -1,0 +1,30 @@
+RNG Seed: 101
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,4,0,446755 (100%),144099,43355901 (100%)
+1,12009,Gohan (Teen),2,205,446550 (100%),1411849,41944052 (96%)
+1,11029,Masked Saiyan,2,30,446520 (100%),1772415,40171637 (92%)
+2,12034,Super Saiyan God SS Evolved Vegeta,4,329,446191 (100%),99272,40072365 (92%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,25600,420591 (94%),911405,39160960 (90%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,420591 (94%),2256046,36904914 (85%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,3,0,420591 (94%),18422,36886492 (85%)
+3,12009,Gohan (Teen),4,2197,418394 (94%),1574832,35311660 (81%)
+3,11751,Gohan (Kid),1,22332,396062 (89%),697138,34614522 (80%)
+4,12034,Super Saiyan God SS Evolved Vegeta,3,144,395918 (89%),1241076,33373446 (77%)
+4,11029,Masked Saiyan,4,217,395701 (89%),191879,33181567 (76%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,100619,295082 (66%),2256889,30924678 (71%)
+5,11971,Caulifla,5,0,295082 (66%),161960,30762718 (71%)
+5,12009,Gohan (Teen),2,150,294932 (66%),1728155,29034563 (67%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,21876,273056 (61%),2441961,26592602 (61%)
+6,11751,Gohan (Kid),5,130262,142794 (32%),777011,25815591 (59%)
+6,12034,Super Saiyan God SS Evolved Vegeta,2,5860,136934 (31%),1574869,24240722 (56%)
+6,11029,Masked Saiyan,1,27244,109690 (25%),195980,24044742 (55%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,2,0,109690 (25%),174342,23870400 (55%)
+7,12009,Gohan (Teen),3,244,109446 (24%),1871857,21998543 (51%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,174751,0 (0%),7875623,14122920 (32%)
+Result:,Team defeated
+
+Average damage received per turn:,73151.43
+Average damage dealt per turn:,4196725.71

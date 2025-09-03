@@ -1,0 +1,29 @@
+RNG Seed: 50
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),2,45914,404916 (90%),112769,43387231 (100%)
+1,12031,Goku (Ultra Instinct),4,97,404819 (90%),561624,42825607 (98%)
+1,11029,Masked Saiyan,2,221,404598 (90%),1751402,41074205 (94%)
+2,11971,Caulifla,3,0,404598 (90%),142034,40932171 (94%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,120189,284409 (63%),1983833,38948338 (90%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,17805,266604 (59%),2496503,36451835 (84%)
+3,Item,used,for,40,percent,damage,reduction
+3,11751,Gohan (Kid),5,45116,221488 (49%),125626,36326209 (84%)
+3,12031,Goku (Ultra Instinct),1,0,221488 (49%),2319078,34007131 (78%)
+3,12114,Super Saiyan 2 Gohan (Youth),2,140,221348 (49%),3376140,30630991 (70%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,5,0,221348 (49%),26998,30603993 (70%)
+4,11029,Masked Saiyan,2,233,221115 (49%),2002407,28601586 (66%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,48,221067 (49%),5152146,23449440 (54%)
+5,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11751,Gohan (Kid),6,123452,97615 (22%),782197,22667243 (52%)
+5,12031,Goku (Ultra Instinct),1,0,97615 (22%),3350973,19316270 (44%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,29752,67863 (15%),6060397,13255873 (30%)
+6,11971,Caulifla,5,0,67863 (15%),181991,13073882 (30%)
+6,11029,Masked Saiyan,2,155,67708 (15%),2209295,10864587 (25%)
+6,12114,Super Saiyan 2 Gohan (Youth),1,191709,0 (0%),2654790,8209797 (19%)
+Result:,Team defeated
+
+Average damage received per turn:,95805.17
+Average damage dealt per turn:,5881700.50

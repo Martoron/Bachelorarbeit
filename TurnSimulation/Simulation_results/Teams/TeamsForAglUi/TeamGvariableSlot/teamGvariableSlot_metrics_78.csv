@@ -1,0 +1,33 @@
+RNG Seed: 120
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,5,0,454204 (100%),137948,43362052 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,195,454009 (100%),2639585,40722467 (94%)
+1,12114,Super Saiyan 2 Gohan (Youth),1,86,453923 (100%),5232507,35489960 (82%)
+2,11751,Gohan (Kid),2,44985,408938 (90%),771917,34718043 (80%)
+2,12031,Goku (Ultra Instinct),3,124,408814 (90%),2038319,32679724 (75%)
+2,12009,Gohan (Teen),3,199,408615 (90%),1352507,31327217 (72%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,4,0,408615 (90%),23953,31303264 (72%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,22,408593 (90%),2255051,29048213 (67%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,17179,391414 (86%),2029520,27018693 (62%)
+4,11751,Gohan (Kid),3,21932,369482 (81%),772295,26246398 (60%)
+4,12031,Goku (Ultra Instinct),3,9,369473 (81%),1700642,24545756 (56%)
+4,12114,Super Saiyan 2 Gohan (Youth),2,219,369254 (81%),2757625,21788131 (50%)
+5,11971,Caulifla,1,0,369254 (81%),168446,21619685 (50%)
+5,12009,Gohan (Teen),1,36,369218 (81%),1578979,20040706 (46%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),6,56394,312824 (69%),4713414,15327292 (35%)
+6,11751,Gohan (Kid),4,63389,249435 (55%),763211,14564081 (33%)
+6,12031,Goku (Ultra Instinct),3,0,249435 (55%),3332863,11231218 (26%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,35930,213505 (47%),3119162,8112056 (19%)
+7,11971,Caulifla,3,0,213505 (47%),25656,8086400 (19%)
+7,12009,Gohan (Teen),2,132,213373 (47%),1709835,6376565 (15%)
+7,12114,Super Saiyan 2 Gohan (Youth),3,159001,54372 (12%),2837769,3538796 (8%)
+8,11751,Gohan (Kid),heal,heal,454204 (100%),heal,heal
+8,11751,Gohan (Kid),4,125219,328985 (72%),1756466,1782330 (4%)
+8,12031,Goku (Ultra Instinct),0,0,328985 (72%),2912329,0 (0%)
+8,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,328985 (72%),0,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,15652.38
+Average damage dealt per turn:,5578749.88

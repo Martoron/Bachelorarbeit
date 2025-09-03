@@ -1,0 +1,1701 @@
+Simulation Seed: 52
+boss sa multiplier: 2.8
+
+=== Start of Turn 1 ===
+Boss HP: 43500000(100%), Team Total HP: 460496(100%)
+Boss Attack Distribution: {1: 2, 3: 2, 5: 2, 7: 2}
+
+=== Rotation Manager Initialized ===
+All Units: [1, 2, 3, 4, 5, 6, 7]
+Unit Priorities: ['1(P:5)', '2(P:4)', '3(P:1)', '4(P:3)', '5(P:2)', '6(P:6)', '7(P:5)']
+
+=== Turn 1 ===
+Rotation History: []
+Selecting 3 random units from initial pool
+Selected: [7, 4, 2]
+Remaining Pool: [1, 3, 5, 6]
+
+Pre-sort units: [7, 4, 2]
+Effective priorities: ['4(P:3)', '2(P:4)', '7(P:5)']
+
+Current Units: ['Super Saiyan God SS Evolved Vegeta', 'Gohan (Teen)', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)']
+
+Final Rotation: [_, 4, _, 2, _, 7, _]
+Cooldown Tracking:
+- Slot 2 (Unit 4): 1 turn
+- Slot 4 (Unit 2): 1 turn
+- Slot 6 (Unit 7): No cooldown
+Gohan (Teen) does not have a transformation passive.
+Active Buffs and Debuffs:
+ Super Saiyan God SS Evolved Vegeta's Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 21
+ Super Saiyan God SS Evolved Vegeta's Ki after Ki Collection: 24
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}]}
+Checking active skill condition: HP <= 50% and Turn 4
+Current HP: 1.0, Current Turn: 1
+Active skill condition not fulfilled: HP must be as per condition 0.5.
+Active skill condition not fulfilled: It must be Turn 4.
+Super Saiyan God SS Evolved Vegeta cannot use the active skill!
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 99 turns), def_buff (150%, 99 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Gohan (Teen)'s Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 8
+ Gohan (Teen)'s Ki after Ki Collection: 12
+All in the Family link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Super Saiyan God SS Evolved Vegeta, Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}]}
+Gohan (Teen): atk_buff (140%, 99 turns), def_buff (140%, 99 turns), ki_buff ((1, 99) turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 1
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki after Ki Collection: 9
+All in the Family link activated with Gohan (Teen):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 1.0, Current Turn: 1
+Active skill condition not fulfilled: HP must be as per condition 0.59.
+Active skill condition not fulfilled: It must be Turn 3.
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) cannot use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 99 turns), def_buff (58%, 99 turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Fierce Battle
+Using item!
+Current boss super cooldown: 0
+Attack pattern: [('boss', 'normal', 4), ('boss', 'normal', 4), ('4', 'attacks', 'boss'), ('boss', 'normal', 4), ('boss', 'super', 4), ('2', 'attacks', 'boss'), ('boss', 'normal', 2), ('boss', 'normal', 2), ('7', 'attacks', 'boss'), ('boss', 'normal', 7), ('boss', 'normal', 7)]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0187524022030152 * (1 - 0) * (1 - 0.5) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 10%
+Super Saiyan God SS Evolved Vegeta's damage reduction increased to 20%!
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 71 damage!
+Team Total HP: 460425 (99%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.012480023977791 * (1 - 0) * (1 - 0.6000000000000001) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 20%
+Super Saiyan God SS Evolved Vegeta's damage reduction increased to 30%!
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 118 damage!
+Team Total HP: 460307 (99%)
+Calculating effective stats for Super Saiyan God SS Evolved Vegeta...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 570%: 3345466
+Super Saiyan God SS Evolved Vegeta launches an Ultra Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 99, 'is_sot': True}]}
+Damage calculation without crit: (3345466 *2.25* 1.0185634031657598 - 60000) * (1 - 0.64)
+Super Saiyan God SS Evolved Vegeta attacks the Boss for 2738531 damage!
+Boss HP: 40761469 (93%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0118504879633732 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 123 damage!
+Team Total HP: 460184 (99%)
+Bosses effective attack: BaseAttack: 230000 * (SA Multi: 2.8 + SA ATK Buff: 0) - SA ATK Debuff: 0 = 644000.0
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for Super and Item used: (644000.0 *0.85* 1.0163111319687077 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a super attack, causing 27 damage!
+Team Total HP: 460157 (99%)
+Calculating effective stats for Gohan (Teen)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 505%: 1667151
+Effective Defense after applying sa effect of 50%: 189906
+Gohan (Teen) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.5, Permanent Defense Buff: 0.5
+Gohan (Teen) raised the perm_sa_atk_boost by 50% for 99 turns!
+Gohan (Teen) raised the perm_sa_def_boost by 50% for 99 turns!
+Gohan (Teen)'s effective defense is now 189906
+{'atk_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 99, 'is_sot': False}]}
+Damage calculation without crit: (1667151 *2.25* 1.0200949366085463 - 60000) * (1 - 0.64)
+Gohan (Teen) attacks the Boss for 1355928 damage!
+Boss HP: 39405541 (90%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for normals and Item used: (230000 *0.65* 1.0096645670796598 * (1 - 0) * (1 - 0.4) - 189906.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 109 damage!
+Team Total HP: 460048 (99%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for normals and Item used: (230000 *0.65* 1.0196969207485713 * (1 - 0) * (1 - 0.4) - 189906.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 63 damage!
+Team Total HP: 459985 (99%)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 197526
+Total additional_atk_boost boost: 10%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 116952
+Total additional_def_boost boost: 10%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki is now 10
+Total additional_ki_boost boost: 1
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}]}
+Damage calculation without crit: (179569 *2.25* 1.0060559252659125 - 60000) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 124731 damage!
+Boss HP: 39280810 (90%)
+
+additional_attack_ki: 12
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an additional Super attack!
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 475%: 938248
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the temp_sa_atk_boost by 50% for 1 turns!
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 217278
+Total additional_atk_boost boost: 20%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 128647
+Total additional_def_boost boost: 20%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki is now 13
+Total additional_ki_boost boost: 2
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Damage calculation without crit: (938248 *2.25* 1.0144564446337563 - 60000) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 749367 damage!
+Boss HP: 38531443 (88%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0216983313389052 * (1 - 0) * (1 - 0.4) - 128647.20000000003) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 106 damage!
+Team Total HP: 459879 (99%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0038564181247416 * (1 - 0) * (1 - 0.4) - 128647.20000000003) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 85 damage!
+Team Total HP: 459794 (99%)
+
+=== End of Turn 1===
+Active Buffs and Debuffs:
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 98 turns), def_buff (150%, 98 turns), None
+Gohan (Teen): atk_buff (140%, 98 turns), def_buff (140%, 98 turns), ki_buff ((1, 98) turns), perm_sa_def_boost (50%, 98 turns), None
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 98 turns), def_buff (58%, 98 turns), additional_atk_boost (20%, 98 turns), additional_def_boost (20%, 98 turns), additional_ki_boost ((2, 98) turns), None
+Champa: None, None
+Boss HP: 38531443(88%), Team Total HP: 459794(99%)
+
+=== Start of Turn 2 ===
+Boss HP: 38531443(88%), Team Total HP: 459794(99%)
+Boss Attack Distribution: {1: 1, 3: 5, 5: 1, 7: 1}
+
+=== Turn 2 ===
+Rotation History: [[4, 2, 7]]
+Selecting 3 units from remaining pool
+Selected: [3, 5, 6]
+Leftover Unit: 1
+
+Pre-sort units: [3, 5, 6]
+Effective priorities: ['3(P:1)', '5(P:2)', '6(P:6)']
+
+Current Units: ['Caulifla', 'Gohan (Kid)', 'Super Saiyan 2 Gohan (Youth)']
+Applying special rule: Gohan (Kid) forced to slot 6
+New order: ['Caulifla', 'Super Saiyan 2 Gohan (Youth)', 'Gohan (Kid)']
+
+Final Rotation: [_, 3, _, 6, _, 5, _]
+Cooldown Tracking:
+- Slot 2 (Unit 3): No cooldown
+- Slot 4 (Unit 6): No cooldown
+- Slot 6 (Unit 5): No cooldown
+Active Buffs and Debuffs:
+ Caulifla's Ki before Ki Collection: 0 = From Leaderskill:0 + From Links:0 + From passives:0
+Random Ki: 11
+ Caulifla's Ki after Ki Collection: 11
+Saiyan Warrior Race link activated with Super Saiyan 2 Gohan (Youth):   Adding 10 to ATK. total_atk: 10
+Checking conditional_additional_atk: Initial limit is None
+Condition: when there is an ally whose name includes "Kale" attacking in the same turn, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_additional_atk, buff will not be applied.
+Checking conditional_evasion: Initial limit is None
+Condition: +8% per "Universe 6" or "Peppy Gals" Category ally on the team; evades enemy's attack (including Super Attack) when there is a "Universe Survival Saga" or "Pure Saiyans" Category enemy, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_evasion, buff will not be applied.
+{'atk_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}]}
+Caulifla: atk_buff (80%, 99 turns), def_buff (80%, 99 turns), None
+Before SuperAttack:
+
+Active link Skills: Saiyan Warrior Race
+ Super Saiyan 2 Gohan (Youth)'s Ki before Ki Collection: 8 = From Leaderskill:6 + From Links:2 + From passives:0
+Random Ki: 3
+Random ki doubled due to per ki sphere buff.
+ Super Saiyan 2 Gohan (Youth)'s Ki after Ki Collection: 14
+Gaze of Respect link activated with Gohan (Kid):    Adding 2 to KI. total_ki: 2
+Gaze of Respect link activated with Gohan (Kid):   Adding 10 to DEF. total_def: 10
+Saiyan Warrior Race link activated with Caulifla:   Adding 10 to ATK. total_atk: 10
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 99 turns), def_buff (58%, 99 turns), atk_per_ki_sphere (21%, 1 turns), def_per_ki_sphere (21%, 1 turns), ki_per_ki_sphere (300%, 1 turns), None
+Before SuperAttack:
+
+Active link Skills: Gaze of Respect, Saiyan Warrior Race
+ Gohan (Kid)'s Ki before Ki Collection: 8 = From Leaderskill:6 + From Links:2 + From passives:0
+Random Ki: 18
+ Gohan (Kid)'s Ki after Ki Collection: 12
+Gaze of Respect link activated with Super Saiyan 2 Gohan (Youth):    Adding 2 to KI. total_ki: 2
+Gaze of Respect link activated with Super Saiyan 2 Gohan (Youth):   Adding 10 to DEF. total_def: 10
+Checking conditional_atk_buffs_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.3, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_atk_buffs_slot_1, buff will not be applied.
+Checking conditional_evasion_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.5, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_evasion_slot_1, buff will not be applied.
+Checking conditional_atk_buffs_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_atk_buffs_slot_2, buff will not be applied.
+Checking conditional_evasion_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.3, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_evasion_slot_2, buff will not be applied.
+Checking conditional_atk_buffs_HP: Initial limit is 1
+Condition: HP <= 30%, Value: 2, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_atk_buffs_HP, buff will not be applied.
+Checking conditional_ki_boost_slot_1: Initial limit is None
+Condition: Slot 1, Value: 3, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_ki_boost_slot_1, buff will not be applied.
+Checking conditional_ki_boost_slot_2: Initial limit is None
+Condition: Slot 2, Value: 1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_ki_boost_slot_2, buff will not be applied.
+Checking conditional_crit: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_crit, buff will not be applied.
+Checking conditional_recover_hp: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_recover_hp, buff will not be applied.
+{'atk_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}]}
+Gohan (Kid): atk_buff (120%, 99 turns), def_buff (120%, 99 turns), ki_buff ((1, 99) turns), None
+Before SuperAttack:
+
+Active link Skills: Gaze of Respect
+Item effect active (1 turns remaining)
+Current boss super cooldown: 4
+Attack pattern: [('boss', 'normal', 3), ('3', 'attacks', 'boss'), ('boss', 'normal', 3), ('boss', 'normal', 3), ('boss', 'normal', 3), ('boss', 'normal', 3), ('boss', 'normal', 3), ('6', 'attacks', 'boss'), ('boss', 'normal', 6), ('5', 'attacks', 'boss'), ('boss', 'normal', 5)]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Caulifla launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}]}
+{'atk_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 99, 'is_sot': True}]}
+Damage calculation without crit: (27948 *2.25* 1.0060399672559035 - 60000) * (1 - 0.64)
+Caulifla attacks the Boss for 1174 damage!
+Boss HP: 38530269 (88%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Super Saiyan 2 Gohan (Youth)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 455%: 1359367
+Effective Defense after applying sa effect of 30%: 125265
+Super Saiyan 2 Gohan (Youth) launches a Super Attack!
+Defense Debuff: 0.5, Attack Debuff: 0
+Temporary Attack Buff: 0.3, Temporary Defense Buff: 0.3
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan 2 Gohan (Youth) lowered the def_debuff of Champa by 50% for 3 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_atk_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_def_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth)'s effective defense is now 125265
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 3, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 3, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}]}
+AttackStatAfterSa 1359367, Modifier: 2.25, Variance: 1.0121745018012802, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 30000.0
+Damage calculation without crit: (1359367 *2.25* 1.0121745018012802 - 30000.0) * (1 - 0.64)
+Super Saiyan 2 Gohan (Youth) attacks the Boss for 1103692 damage!
+Boss HP: 37426577 (86%)
+
+Super Saiyan 2 Gohan (Youth) launches an additional Super Attack!
+Calculating effective stats for Super Saiyan 2 Gohan (Youth)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 455%: 1359367
+Effective Defense after applying sa effect of 30%: 162845
+Super Saiyan 2 Gohan (Youth) launches a Super Attack!
+Defense Debuff: 0.5, Attack Debuff: 0
+Temporary Attack Buff: 0.3, Temporary Defense Buff: 0.3
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan 2 Gohan (Youth) lowered the def_debuff of Champa by 50% for 3 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_atk_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_def_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth)'s effective defense is now 162845
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 3, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}, {'value': 0.3, 'duration': 1, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.21000000000000002, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 3, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}, {'value': 0.3, 'duration': 1, 'is_sot': False}]}
+AttackStatAfterSa 1359367, Modifier: 2.25, Variance: 1.0031822183145, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (1359367 *2.25* 1.0031822183145 - 15000.0) * (1 - 0.64)
+Super Saiyan 2 Gohan (Youth) attacks the Boss for 1099191 damage!
+Boss HP: 36327386 (83%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan 2 Gohan (Youth) evasion check returned FALSE!
+Super Saiyan 2 Gohan (Youth) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0112685766444032 * (1 - 0) * (1 - 0.4) - 162845.02000000002) * 0.5
+Boss attacks Super Saiyan 2 Gohan (Youth) with a normal attack, causing 117 damage!
+Team Total HP: 459677 (99%)
+Calculating effective stats for Gohan (Kid)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 430%: 689130
+Gohan (Kid) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 99, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 99, 'is_sot': True}]}
+AttackStatAfterSa 689130, Modifier: 2.25, Variance: 1.0045246524290972, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (689130 *2.25* 1.0045246524290972 - 15000.0) * (1 - 0.64)
+Gohan (Kid) attacks the Boss for 555320 damage!
+Boss HP: 35772066 (82%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned FALSE!
+Gohan (Kid) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0013858107148308 * (1 - 0) * (1 - 0.4) - 77744) * 0.5
+Boss attacks Gohan (Kid) with a normal attack, causing 19859 damage!
+Team Total HP: 439818 (95%)
+Super Saiyan 2 Gohan (Youth)'s atk_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s def_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s ki_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s temp_sa_def_boost has expired.
+
+=== End of Turn 2===
+Active Buffs and Debuffs:
+Caulifla: atk_buff (80%, 98 turns), def_buff (80%, 98 turns), None
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 98 turns), def_buff (58%, 98 turns), None
+Gohan (Kid): atk_buff (120%, 98 turns), def_buff (120%, 98 turns), ki_buff ((1, 98) turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns)
+Boss HP: 35772066(82%), Team Total HP: 439818(95%)
+
+=== Start of Turn 3 ===
+Boss HP: 35772066(82%), Team Total HP: 439818(95%)
+Boss Attack Distribution: {1: 1, 3: 5, 5: 2, 7: 0}
+
+=== Turn 3 ===
+Rotation History: [[4, 2, 7], [3, 6, 5]]
+Using first 2 from Turn 1 + leftover unit
+First two from Turn 1: [4, 2]
+Added leftover unit: 1
+
+Pre-sort units: [4, 2, 1]
+Effective priorities: ['4(P:3)', '2(P:4)', '1(P:5)']
+
+Current Units: ['Super Saiyan God SS Evolved Vegeta', 'Gohan (Teen)', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)']
+
+Final Rotation: [_, 4, _, 2, _, 1, _]
+Cooldown Tracking:
+- Slot 2 (Unit 4): 1 turn
+- Slot 4 (Unit 2): 1 turn
+- Slot 6 (Unit 1): No cooldown
+Gohan (Teen) does not have a transformation passive.
+Active Buffs and Debuffs:
+ Super Saiyan God SS Evolved Vegeta's Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 5
+ Super Saiyan God SS Evolved Vegeta's Ki after Ki Collection: 13
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}]}
+Checking active skill condition: HP <= 50% and Turn 4
+Current HP: 0.955096244049894, Current Turn: 3
+Active skill condition not fulfilled: HP must be as per condition 0.5.
+Active skill condition not fulfilled: It must be Turn 4.
+Super Saiyan God SS Evolved Vegeta cannot use the active skill!
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 97 turns), def_buff (150%, 97 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Gohan (Teen)'s Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 16
+ Gohan (Teen)'s Ki after Ki Collection: 12
+All in the Family link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Super Saiyan God SS Evolved Vegeta, Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 97, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 97, 'is_sot': False}]}
+Gohan (Teen): atk_buff (140%, 97 turns), def_buff (140%, 97 turns), ki_buff ((1, 97) turns), perm_sa_def_boost (50%, 97 turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 2
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki after Ki Collection: 10
+All in the Family link activated with Gohan (Teen):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 0.955096244049894, Current Turn: 3
+Active skill condition not fulfilled: HP must be as per condition 0.59.
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) cannot use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid): atk_buff (58%, 99 turns), def_buff (58%, 99 turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Fierce Battle
+Using item!
+Current boss super cooldown: 0
+Attack pattern: [('boss', 'normal', 4), ('4', 'attacks', 'boss'), ('boss', 'normal', 4), ('boss', 'normal', 4), ('boss', 'normal', 4), ('boss', 'normal', 4), ('boss', 'normal', 4), ('2', 'attacks', 'boss'), ('boss', 'normal', 2), ('boss', 'normal', 2), ('1', 'attacks', 'boss')]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0088502242436903 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 30 damage!
+Team Total HP: 439788 (95%)
+Calculating effective stats for Super Saiyan God SS Evolved Vegeta...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 425%: 2037114
+Super Saiyan God SS Evolved Vegeta launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 97, 'is_sot': True}]}
+AttackStatAfterSa 2037114, Modifier: 2.25, Variance: 1.007751830612043, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (2037114 *2.25* 1.007751830612043 - 15000.0) * (1 - 0.64)
+Super Saiyan God SS Evolved Vegeta attacks the Boss for 1657453 damage!
+Boss HP: 34114613 (78%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0014406111821834 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 104 damage!
+Team Total HP: 439684 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.028053162686324 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 42 damage!
+Team Total HP: 439642 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.012941041071141 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 95 damage!
+Team Total HP: 439547 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0194577223074561 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 83 damage!
+Team Total HP: 439464 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.017990220865723 * (1 - 0) * (1 - 0.7) - 176052) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 70 damage!
+Team Total HP: 439394 (95%)
+Calculating effective stats for Gohan (Teen)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 555%: 1832215
+Effective Defense after applying sa effect of 50%: 284859
+Gohan (Teen) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.5, Permanent Defense Buff: 0.5
+Gohan (Teen) raised the perm_sa_atk_boost by 50% for 99 turns!
+Gohan (Teen) raised the perm_sa_def_boost by 50% for 99 turns!
+Gohan (Teen)'s effective defense is now 284859
+{'atk_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 97, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 97, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 97, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 97, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 97, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 1832215, Modifier: 2.25, Variance: 1.0196693012372273, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (1832215 *2.25* 1.0196693012372273 - 15000.0) * (1 - 0.64)
+Gohan (Teen) attacks the Boss for 1507885 damage!
+Boss HP: 32606728 (74%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for normals and Item used: (230000 *0.65* 1.0034877455572109 * (1 - 0) * (1 - 0.4) - 284859.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 66 damage!
+Team Total HP: 439328 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for normals and Item used: (230000 *0.65* 1.0212755384431964 * (1 - 0) * (1 - 0.4) - 284859.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 42 damage!
+Team Total HP: 439286 (95%)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective attack is now 197526
+Total additional_atk_boost boost: 10%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective defense is now 116952
+Total additional_def_boost boost: 10%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki is now 11
+Total additional_ki_boost boost: 1
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 179569, Modifier: 2.25, Variance: 1.0182709516401438, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (179569 *2.25* 1.0182709516401438 - 15000.0) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) attacks the Boss for 142708 damage!
+Boss HP: 32464020 (74%)
+
+additional_attack_ki: 12
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches an additional Super attack!
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 475%: 938248
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the temp_sa_atk_boost by 50% for 1 turns!
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective attack is now 217278
+Total additional_atk_boost boost: 20%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective defense is now 128647
+Total additional_def_boost boost: 20%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki is now 13
+Total additional_ki_boost boost: 2
+{'atk_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 99, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 938248, Modifier: 2.25, Variance: 1.0079003987851731, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (938248 *2.25* 1.0079003987851731 - 15000.0) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) attacks the Boss for 760585 damage!
+Boss HP: 31703435 (72%)
+
+
+=== End of Turn 3===
+Active Buffs and Debuffs:
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 96 turns), def_buff (150%, 96 turns), None
+Gohan (Teen): atk_buff (140%, 96 turns), def_buff (140%, 96 turns), ki_buff ((1, 96) turns), perm_sa_def_boost (100%, 98 turns), None
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid): atk_buff (58%, 98 turns), def_buff (58%, 98 turns), additional_atk_boost (20%, 98 turns), additional_def_boost (20%, 98 turns), additional_ki_boost ((2, 98) turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns)
+Boss HP: 31703435(72%), Team Total HP: 439286(95%)
+
+=== Start of Turn 4 ===
+Boss HP: 31703435(72%), Team Total HP: 439286(95%)
+Boss Attack Distribution: {1: 2, 3: 3, 5: 2, 7: 1}
+
+=== Turn 4 ===
+Rotation History: [[4, 2, 7], [3, 6, 5], [4, 2, 1]]
+Cycling pattern: first two from (n-2) + last from (n-3)
+First two from Turn 2: [3, 6]
+Last from Turn 1: 7
+
+Pre-sort units: [3, 6, 7]
+Effective priorities: ['3(P:1)', '7(P:5)', '6(P:6)']
+
+Current Units: ['Caulifla', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 'Super Saiyan 2 Gohan (Youth)']
+
+Final Rotation: [_, 3, _, 7, _, 6, _]
+Cooldown Tracking:
+- Slot 2 (Unit 3): No cooldown
+- Slot 4 (Unit 7): No cooldown
+- Slot 6 (Unit 6): 2 turns
+Active Buffs and Debuffs:
+ Caulifla's Ki before Ki Collection: 0 = From Leaderskill:0 + From Links:0 + From passives:0
+Random Ki: 2
+ Caulifla's Ki after Ki Collection: 2
+Fierce Battle link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to ATK. total_atk: 20
+Checking conditional_additional_atk: Initial limit is None
+Condition: when there is an ally whose name includes "Kale" attacking in the same turn, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_additional_atk, buff will not be applied.
+Checking conditional_evasion: Initial limit is None
+Condition: +8% per "Universe 6" or "Peppy Gals" Category ally on the team; evades enemy's attack (including Super Attack) when there is a "Universe Survival Saga" or "Pure Saiyans" Category enemy, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_evasion, buff will not be applied.
+{'atk_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}]}
+Caulifla: atk_buff (80%, 97 turns), def_buff (80%, 97 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki before Ki Collection: 10 = From Leaderskill:8 + From Links:0 + From passives:2
+Random Ki: 13
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki after Ki Collection: 23
+Super Saiyan link activated with Super Saiyan 2 Gohan (Youth):   Adding 15 to ATK. total_atk: 15
+ki used: 23, so condition met
+Legendary Power link activated with Super Saiyan 2 Gohan (Youth):  Condition met. Adding 15 to ATK. total_atk: 30
+All in the Family link activated with Super Saiyan 2 Gohan (Youth):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Caulifla:   Adding 20 to ATK. total_atk: 50
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 0.9539409679997221, Current Turn: 4
+Active skill condition not fulfilled: HP must be as per condition 0.59.
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) cannot use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 96 turns), def_buff (58%, 96 turns), additional_atk_boost (20%, 96 turns), additional_def_boost (20%, 96 turns), additional_ki_boost ((2, 96) turns), None
+Before SuperAttack:
+
+Active link Skills: Super Saiyan, Legendary Power, All in the Family, Fierce Battle
+ Super Saiyan 2 Gohan (Youth)'s Ki before Ki Collection: 6 = From Leaderskill:6 + From Links:0 + From passives:0
+Random Ki: 16
+Random ki doubled due to per ki sphere buff.
+ Super Saiyan 2 Gohan (Youth)'s Ki after Ki Collection: 24
+All in the Family link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to DEF. total_def: 20
+ki used: 24, so condition met
+Legendary Power link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):  Condition met. Adding 15 to ATK. total_atk: 15
+Super Saiyan link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 15 to ATK. total_atk: 30
+{'atk_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 16, 'duration': 1, 'is_sot': True}]}
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 97 turns), def_buff (58%, 97 turns), atk_per_ki_sphere (112%, 1 turns), def_per_ki_sphere (112%, 1 turns), ki_per_ki_sphere (1600%, 1 turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Legendary Power, Super Saiyan
+Item effect active (1 turns remaining)
+Current boss super cooldown: 0
+Attack pattern: [('boss', 'super', 3), ('boss', 'normal', 3), ('3', 'attacks', 'boss'), ('boss', 'normal', 3), ('boss', 'normal', 3), ('boss', 'normal', 3), ('7', 'attacks', 'boss'), ('boss', 'normal', 7), ('boss', 'normal', 7), ('6', 'attacks', 'boss'), ('boss', 'normal', 6)]
+Bosses effective attack: BaseAttack: 230000 * (SA Multi: 2.8 + SA ATK Buff: 0) - SA ATK Debuff: 0 = 644000.0
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Caulifla launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}]}
+{'atk_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 97, 'is_sot': True}]}
+AttackStatAfterSa 30489, Modifier: 2.25, Variance: 1.007950935159962, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (30489 *2.25* 1.007950935159962 - 15000.0) * (1 - 0.64)
+Caulifla attacks the Boss for 19492 damage!
+Boss HP: 31683943 (72%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 620%: 3270388
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an Ultra Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the temp_sa_atk_boost by 50% for 1 turns!
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 580230
+Total additional_atk_boost boost: 30%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 140342
+Total additional_def_boost boost: 30%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki is now 24
+Total additional_ki_boost boost: 3
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 3270388, Modifier: 2.25, Variance: 1.0273144570173707, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (3270388 *2.25* 1.0273144570173707 - 15000.0) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 2715970 damage!
+Boss HP: 28967973 (66%)
+
+additional_attack_ki: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an additional attack!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 638253
+Total additional_atk_boost boost: 40%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 154377
+Total additional_def_boost boost: 40%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki is now 1
+Total additional_ki_boost boost: 4
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 580230.2000000001, Modifier: 2.25, Variance: 1.0007435531204134, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 15000.0
+Damage calculation without crit: (580230.2000000001 *2.25* 1.0007435531204134 - 15000.0) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 464935 damage!
+Boss HP: 28503038 (65%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0173639924498543 * (1 - 0) * (1 - 0.4) - 154376.64000000004) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 42 damage!
+Team Total HP: 439244 (95%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0291592984168594 * (1 - 0) * (1 - 0.4) - 154376.64000000004) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 105 damage!
+Team Total HP: 439139 (95%)
+Calculating effective stats for Super Saiyan 2 Gohan (Youth)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 570%: 3834606
+Effective Defense after applying sa effect of 30%: 206125
+Super Saiyan 2 Gohan (Youth) launches an Ultra Super Attack!
+Defense Debuff: 0.8, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0.3
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan 2 Gohan (Youth) lowered the def_debuff of Champa by 80% for 3 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_def_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth)'s effective defense is now 206125
+{'atk_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 16, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 16, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+AttackStatAfterSa 3834606, Modifier: 2.25, Variance: 1.0004045296829158, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 2999.9999999999995
+Damage calculation without crit: (3834606 *2.25* 1.0004045296829158 - 2999.9999999999995) * (1 - 0.64)
+Super Saiyan 2 Gohan (Youth) attacks the Boss for 3106207 damage!
+Boss HP: 25396831 (58%)
+
+Super Saiyan 2 Gohan (Youth) launches an additional Super Attack!
+Calculating effective stats for Super Saiyan 2 Gohan (Youth)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 455%: 3060957
+Effective Defense after applying sa effect of 30%: 267963
+Super Saiyan 2 Gohan (Youth) launches a Super Attack!
+Defense Debuff: 0.5, Attack Debuff: 0
+Temporary Attack Buff: 0.3, Temporary Defense Buff: 0.3
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan 2 Gohan (Youth) lowered the def_debuff of Champa by 50% for 3 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_atk_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_def_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth)'s effective defense is now 267963
+{'atk_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 16, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}, {'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 97, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 1.12, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 16, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}, {'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+AttackStatAfterSa 3060957, Modifier: 2.25, Variance: 1.0126776649145257, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 1499.9999999999998
+Damage calculation without crit: (3060957 *2.25* 1.0126776649145257 - 1499.9999999999998) * (1 - 0.64)
+Super Saiyan 2 Gohan (Youth) attacks the Boss for 2510267 damage!
+Boss HP: 22886564 (52%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan 2 Gohan (Youth) evasion check returned FALSE!
+Super Saiyan 2 Gohan (Youth) guard check returned FALSE!
+Damage calculation for normals and Item used: (230000 *0.85* 1.0284754564071465 * (1 - 0) * (1 - 0.4) - 267963.02) * 0.5
+Boss attacks Super Saiyan 2 Gohan (Youth) with a normal attack, causing 51 damage!
+Team Total HP: 439088 (95%)
+Super Saiyan 2 Gohan (Youth)'s atk_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s def_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s ki_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s temp_sa_def_boost has expired.
+Super Saiyan 2 Gohan (Youth)'s additional_atk_boost_on_18_ki_super has expired.
+
+=== End of Turn 4===
+Active Buffs and Debuffs:
+Caulifla: atk_buff (80%, 96 turns), def_buff (80%, 96 turns), None
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 95 turns), def_buff (58%, 95 turns), additional_atk_boost (40%, 98 turns), additional_def_boost (40%, 98 turns), additional_ki_boost ((4, 98) turns), None
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 96 turns), def_buff (58%, 96 turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns), def_debuff (80%, 3 turns), def_debuff (50%, 3 turns)
+Boss HP: 22886564(52%), Team Total HP: 439088(95%)
+
+=== Start of Turn 5 ===
+Boss HP: 22886564(52%), Team Total HP: 439088(95%)
+Boss Attack Distribution: {1: 2, 3: 1, 5: 0, 7: 5}
+
+=== Turn 5 ===
+Rotation History: [[4, 2, 7], [3, 6, 5], [4, 2, 1], [3, 7, 6]]
+Cycling pattern: first two from (n-2) + last from (n-3)
+First two from Turn 3: [4, 2]
+Last from Turn 2: 5
+
+Pre-sort units: [4, 2, 5]
+Effective priorities: ['5(P:2)', '4(P:3)', '2(P:4)']
+
+Current Units: ['Gohan (Kid)', 'Super Saiyan God SS Evolved Vegeta', 'Gohan (Teen)']
+
+Final Rotation: [_, 5, _, 4, _, 2, _]
+Cooldown Tracking:
+- Slot 2 (Unit 5): No cooldown
+- Slot 4 (Unit 4): 1 turn
+- Slot 6 (Unit 2): No cooldown
+Gohan (Teen) does not have a transformation passive.
+Active Buffs and Debuffs:
+ Gohan (Kid)'s Ki before Ki Collection: 6 = From Leaderskill:6 + From Links:0 + From passives:0
+Random Ki: 16
+ Gohan (Kid)'s Ki after Ki Collection: 12
+Fierce Battle link activated with Super Saiyan God SS Evolved Vegeta:   Adding 20 to ATK. total_atk: 20
+Checking conditional_atk_buffs_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.3, Duration: 1, Limit: None, sot: True
+Applied conditional_atk_buffs_slot_1 with value 0.3 (no limit)
+Checking conditional_evasion_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.5, Duration: 1, Limit: None, sot: True
+Applied conditional_evasion_slot_1 with value 0.5 (no limit)
+Checking conditional_atk_buffs_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_atk_buffs_slot_2, buff will not be applied.
+Checking conditional_evasion_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.3, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_evasion_slot_2, buff will not be applied.
+Checking conditional_atk_buffs_HP: Initial limit is 1
+Condition: HP <= 30%, Value: 2, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_atk_buffs_HP, buff will not be applied.
+Checking conditional_ki_boost_slot_1: Initial limit is None
+Condition: Slot 1, Value: 3, Duration: 1, Limit: None, sot: True
+Applied conditional_ki_boost_slot_1 with value 3 (no limit)
+Checking conditional_ki_boost_slot_2: Initial limit is None
+Condition: Slot 2, Value: 1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_ki_boost_slot_2, buff will not be applied.
+Checking conditional_crit: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_crit, buff will not be applied.
+Checking conditional_recover_hp: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_recover_hp, buff will not be applied.
+{'atk_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 96, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+Gohan (Kid): atk_buff (120%, 96 turns), def_buff (120%, 96 turns), ki_buff ((1, 96) turns), conditional_atk_buffs_slot_1 (30%, 1 turns), conditional_evasion_slot_1 (50%, 1 turns), conditional_ki_boost_slot_1 (300%, 1 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Super Saiyan God SS Evolved Vegeta's Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 20
+ Super Saiyan God SS Evolved Vegeta's Ki after Ki Collection: 24
+Fierce Battle link activated with Gohan (Kid), Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}]}
+Checking active skill condition: HP <= 50% and Turn 4
+Current HP: 0.9535109968381918, Current Turn: 5
+Active skill condition not fulfilled: HP must be as per condition 0.5.
+Super Saiyan God SS Evolved Vegeta cannot use the active skill!
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 95 turns), def_buff (150%, 95 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Gohan (Teen)'s Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 20
+ Gohan (Teen)'s Ki after Ki Collection: 12
+Fierce Battle link activated with Super Saiyan God SS Evolved Vegeta:   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 95, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 95, 'is_sot': False}, {'value': 0.5, 'duration': 97, 'is_sot': False}]}
+Gohan (Teen): atk_buff (140%, 95 turns), def_buff (140%, 95 turns), ki_buff ((1, 95) turns), perm_sa_def_boost (100%, 97 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+Current boss super cooldown: 1
+Attack pattern: [('boss', 'normal', 5), ('boss', 'normal', 5), ('5', 'attacks', 'boss'), ('boss', 'normal', 5), ('4', 'attacks', 'boss'), ('2', 'attacks', 'boss'), ('boss', 'normal', 2), ('boss', 'normal', 2), ('boss', 'normal', 2), ('boss', 'super', 2), ('boss', 'normal', 2)]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned TRUE!
+Gohan (Kid) evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned FALSE!
+Gohan (Kid) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0257060255561117 * (1 - 0) * (1 - 0) -70677) * 0.5
+Boss attacks Gohan (Kid) with a normal attack, causing 64924 damage!
+Team Total HP: 374164 (81%)
+Calculating effective stats for Gohan (Kid)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 430%: 939722
+Gohan (Kid) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 96, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 96, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 96, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+AttackStatAfterSa 939722, Modifier: 2.25, Variance: 1.0279378342344416, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 1499.9999999999998
+Damage calculation without crit: (939722 *2.25* 1.0279378342344416 - 1499.9999999999998) * (1 - 0.64)
+Gohan (Kid) attacks the Boss for 781900 damage!
+Boss HP: 22104664 (50%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned TRUE!
+Gohan (Kid) evaded the attack!
+Calculating effective stats for Super Saiyan God SS Evolved Vegeta...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 570%: 3345466
+Super Saiyan God SS Evolved Vegeta launches an Ultra Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 95, 'is_sot': True}]}
+AttackStatAfterSa 3345466, Modifier: 2.25, Variance: 1.02511641233711, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 1499.9999999999998
+Damage calculation without crit: (3345466 *2.25* 1.02511641233711 - 1499.9999999999998) * (1 - 0.64)
+Super Saiyan God SS Evolved Vegeta attacks the Boss for 2777348 damage!
+Boss HP: 19327316 (44%)
+
+Calculating effective stats for Gohan (Teen)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 605%: 1997280
+Effective Defense after applying sa effect of 50%: 316512
+Gohan (Teen) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.5, Permanent Defense Buff: 0.5
+Gohan (Teen) raised the perm_sa_atk_boost by 50% for 99 turns!
+Gohan (Teen) raised the perm_sa_def_boost by 50% for 99 turns!
+Gohan (Teen)'s effective defense is now 316512
+{'atk_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 95, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 95, 'is_sot': False}, {'value': 0.5, 'duration': 97, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 95, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 95, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 95, 'is_sot': False}, {'value': 0.5, 'duration': 97, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 1997280, Modifier: 2.25, Variance: 1.0160724554585447, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 1499.9999999999998
+Damage calculation without crit: (1997280 *2.25* 1.0160724554585447 - 1499.9999999999998) * (1 - 0.64)
+Gohan (Teen) attacks the Boss for 1643258 damage!
+Boss HP: 17684058 (40%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damgae calculation for normals: (230000 *0.65* 1.021944911433619 * (1 - 0) * (1 - 0) -316512.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 9 damage!
+Team Total HP: 374155 (81%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damgae calculation for normals: (230000 *0.65* 1.0281499720280831 * (1 - 0) * (1 - 0) -316512.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 71 damage!
+Team Total HP: 374084 (81%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damgae calculation for normals: (230000 *0.65* 1.0059350160629088 * (1 - 0) * (1 - 0) -316512.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 116 damage!
+Team Total HP: 373968 (81%)
+Bosses effective attack: BaseAttack: 230000 * (SA Multi: 2.8 + SA ATK Buff: 0) - SA ATK Debuff: 0 = 644000.0
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for Super: (644000.0 *0.65* 1.0140846084550483 * (1 - 0) * (1 - 0) - 316512.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a super attack, causing 53991 damage!
+Team Total HP: 319977 (69%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damgae calculation for normals: (230000 *0.65* 1.0036704206007871 * (1 - 0) * (1 - 0) -316512.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 122 damage!
+Team Total HP: 319855 (69%)
+Gohan (Kid)'s conditional_atk_buffs_slot_1 has expired.
+Gohan (Kid)'s conditional_evasion_slot_1 has expired.
+Gohan (Kid)'s conditional_ki_boost_slot_1 has expired.
+
+=== End of Turn 5===
+Active Buffs and Debuffs:
+Gohan (Kid): atk_buff (120%, 95 turns), def_buff (120%, 95 turns), ki_buff ((1, 95) turns), None
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 94 turns), def_buff (150%, 94 turns), None
+Gohan (Teen): atk_buff (140%, 94 turns), def_buff (140%, 94 turns), ki_buff ((1, 94) turns), perm_sa_def_boost (150%, 98 turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns), def_debuff (80%, 3 turns), def_debuff (50%, 3 turns)
+Boss HP: 17684058(40%), Team Total HP: 319855(69%)
+
+=== Start of Turn 6 ===
+Boss HP: 17684058(40%), Team Total HP: 319855(69%)
+Boss Attack Distribution: {1: 1, 3: 2, 5: 2, 7: 3}
+
+=== Turn 6 ===
+Rotation History: [[3, 6, 5], [4, 2, 1], [3, 7, 6], [5, 4, 2]]
+Cycling pattern: first two from (n-2) + last from (n-3)
+First two from Turn 4: [3, 7]
+Last from Turn 3: 1
+
+Pre-sort units: [3, 7, 1]
+Effective priorities: ['3(P:1)', '7(P:5)', '1(P:5)']
+
+Current Units: ['Caulifla', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)']
+
+Final Rotation: [_, 3, _, 7, _, 1, _]
+Cooldown Tracking:
+- Slot 2 (Unit 3): No cooldown
+- Slot 4 (Unit 7): No cooldown
+- Slot 6 (Unit 1): No cooldown
+Active Buffs and Debuffs:
+ Caulifla's Ki before Ki Collection: 0 = From Leaderskill:0 + From Links:0 + From passives:0
+Random Ki: 15
+ Caulifla's Ki after Ki Collection: 12
+Fierce Battle link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to ATK. total_atk: 20
+Checking conditional_additional_atk: Initial limit is None
+Condition: when there is an ally whose name includes "Kale" attacking in the same turn, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_additional_atk, buff will not be applied.
+Checking conditional_evasion: Initial limit is None
+Condition: +8% per "Universe 6" or "Peppy Gals" Category ally on the team; evades enemy's attack (including Super Attack) when there is a "Universe Survival Saga" or "Pure Saiyans" Category enemy, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_evasion, buff will not be applied.
+{'atk_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}]}
+Caulifla: atk_buff (80%, 95 turns), def_buff (80%, 95 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki before Ki Collection: 12 = From Leaderskill:8 + From Links:0 + From passives:4
+Random Ki: 4
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki after Ki Collection: 16
+Fierce Battle link activated with Caulifla:   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 0.6945880094506792, Current Turn: 6
+Active skill condition not fulfilled: HP must be as per condition 0.59.
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) cannot use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 94 turns), def_buff (58%, 94 turns), additional_atk_boost (40%, 97 turns), additional_def_boost (40%, 97 turns), additional_ki_boost ((4, 97) turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki before Ki Collection: 10 = From Leaderskill:8 + From Links:0 + From passives:2
+Random Ki: 3
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki after Ki Collection: 13
+Fierce Battle link activated with Caulifla:   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 0.6945880094506792, Current Turn: 6
+Active skill condition not fulfilled: HP must be as per condition 0.59.
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) cannot use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid): atk_buff (58%, 96 turns), def_buff (58%, 96 turns), additional_atk_boost (20%, 96 turns), additional_def_boost (20%, 96 turns), additional_ki_boost ((2, 96) turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+Current boss super cooldown: 7
+Attack pattern: [('boss', 'normal', 3), ('3', 'attacks', 'boss'), ('boss', 'normal', 3), ('boss', 'normal', 3), ('7', 'attacks', 'boss'), ('boss', 'normal', 7), ('boss', 'normal', 7), ('1', 'attacks', 'boss'), ('boss', 'normal', 1), ('boss', 'normal', 1), ('boss', 'normal', 1)]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Caulifla...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 430%: 183541
+Effective Defense after applying sa effect of 30%: 22534
+Caulifla launches a Super Attack!
+Defense Debuff: 0.4, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.3, Permanent Defense Buff: 0.3
+Caulifla lowered the def_debuff of Champa by 40% for 3 turns!
+Caulifla raised the perm_sa_atk_boost by 30% for 99 turns!
+Caulifla raised the perm_sa_def_boost by 30% for 99 turns!
+Caulifla's effective defense is now 22534
+{'atk_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.3, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 95, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.3, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 183541, Modifier: 2.25, Variance: 1.000305945605323, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (183541 *2.25* 1.000305945605323 - 899.9999999999999) * (1 - 0.64)
+Caulifla attacks the Boss for 148389 damage!
+Boss HP: 17535669 (40%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 475%: 1990216
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the temp_sa_atk_boost by 50% for 1 turns!
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 460892
+Total additional_atk_boost boost: 50%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 136444
+Total additional_def_boost boost: 50%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki is now 17
+Total additional_ki_boost boost: 5
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 1990216, Modifier: 2.25, Variance: 1.0161559312872481, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (1990216 *2.25* 1.0161559312872481 - 899.9999999999999) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 1637795 damage!
+Boss HP: 15897874 (36%)
+
+additional_attack_ki: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an additional attack!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Limit reached
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 506982
+Total additional_atk_boost boost: 60%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 150088
+Total additional_def_boost boost: 60%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 150088
+• Max for additional ki boost reached at 5
+
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 94, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 94, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 460892.30000000005, Modifier: 2.25, Variance: 1.0283266700629121, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (460892.30000000005 *2.25* 1.0283266700629121 - 899.9999999999999) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 383573 damage!
+Boss HP: 15514301 (35%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0295696628515172 * (1 - 0) * (1 - 0) -150088.40000000002) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 25596 damage!
+Team Total HP: 294259 (63%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0292621282645067 * (1 - 0) * (1 - 0) -150088.40000000002) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) with a normal attack, causing 25566 damage!
+Team Total HP: 268693 (58%)
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 475%: 1577959
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the temp_sa_atk_boost by 50% for 1 turns!
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective attack is now 365422
+Total additional_atk_boost boost: 30%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective defense is now 116952
+Total additional_def_boost boost: 30%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki is now 14
+Total additional_ki_boost boost: 3
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 1577959, Modifier: 2.25, Variance: 1.0032001358893157, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (1577959 *2.25* 1.0032001358893157 - 899.9999999999999) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) attacks the Boss for 1281913 damage!
+Boss HP: 14232388 (32%)
+
+additional_attack_ki: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches an additional attack!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) launches a normal attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective attack is now 401964
+Total additional_atk_boost boost: 40%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s effective defense is now 128647
+Total additional_def_boost boost: 40%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) gained 1 additional Ki for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)'s Ki is now 1
+Total additional_ki_boost boost: 4
+{'atk_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 96, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 96, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 96, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}, {'value': 1, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 365422.2, Modifier: 2.25, Variance: 1.0122763216664339, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (365422.2 *2.25* 1.0122763216664339 - 899.9999999999999) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) attacks the Boss for 299301 damage!
+Boss HP: 13933087 (32%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0118441572955297 * (1 - 0) * (1 - 0) -128647.20000000003) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) with a normal attack, causing 34584 damage!
+Team Total HP: 234109 (50%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0285214515363095 * (1 - 0) * (1 - 0) -128647.20000000003) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) with a normal attack, causing 36214 damage!
+Team Total HP: 197895 (42%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) evasion check returned FALSE!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0114812078181605 * (1 - 0) * (1 - 0) -128647.20000000003) * 0.5
+Boss attacks Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) with a normal attack, causing 34548 damage!
+Team Total HP: 163347 (35%)
+
+=== End of Turn 6===
+Active Buffs and Debuffs:
+Caulifla: atk_buff (80%, 94 turns), def_buff (80%, 94 turns), perm_sa_def_boost (30%, 98 turns), None
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 93 turns), def_buff (58%, 93 turns), additional_atk_boost (60%, 98 turns), additional_def_boost (60%, 98 turns), additional_ki_boost ((5, 98) turns), None
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid): atk_buff (58%, 95 turns), def_buff (58%, 95 turns), additional_atk_boost (40%, 98 turns), additional_def_boost (40%, 98 turns), additional_ki_boost ((4, 98) turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns), def_debuff (80%, 3 turns), def_debuff (50%, 3 turns), def_debuff (40%, 3 turns)
+Boss HP: 13933087(32%), Team Total HP: 163347(35%)
+
+=== Start of Turn 7 ===
+Boss HP: 13933087(32%), Team Total HP: 163347(35%)
+Boss Attack Distribution: {1: 2, 3: 1, 5: 4, 7: 1}
+
+=== Turn 7 ===
+Rotation History: [[4, 2, 1], [3, 7, 6], [5, 4, 2], [3, 7, 1]]
+Cycling pattern: first two from (n-2) + last from (n-3)
+First two from Turn 5: [5, 4]
+Last from Turn 4: 6
+
+Pre-sort units: [5, 4, 6]
+Effective priorities: ['5(P:2)', '4(P:3)', '6(P:6)']
+
+Current Units: ['Gohan (Kid)', 'Super Saiyan God SS Evolved Vegeta', 'Super Saiyan 2 Gohan (Youth)']
+
+Final Rotation: [_, 5, _, 4, _, 6, _]
+Cooldown Tracking:
+- Slot 2 (Unit 5): No cooldown
+- Slot 4 (Unit 4): 1 turn
+- Slot 6 (Unit 6): 2 turns
+Active Buffs and Debuffs:
+ Gohan (Kid)'s Ki before Ki Collection: 6 = From Leaderskill:6 + From Links:0 + From passives:0
+Random Ki: 11
+ Gohan (Kid)'s Ki after Ki Collection: 12
+Fierce Battle link activated with Super Saiyan God SS Evolved Vegeta:   Adding 20 to ATK. total_atk: 20
+Checking conditional_atk_buffs_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.3, Duration: 1, Limit: None, sot: True
+Applied conditional_atk_buffs_slot_1 with value 0.3 (no limit)
+Checking conditional_evasion_slot_1: Initial limit is None
+Condition: Slot 1, Value: 0.5, Duration: 1, Limit: None, sot: True
+Applied conditional_evasion_slot_1 with value 0.5 (no limit)
+Checking conditional_atk_buffs_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_atk_buffs_slot_2, buff will not be applied.
+Checking conditional_evasion_slot_2: Initial limit is None
+Condition: Slot 2, Value: 0.3, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_evasion_slot_2, buff will not be applied.
+Checking conditional_atk_buffs_HP: Initial limit is 1
+Condition: HP <= 30%, Value: 2, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_atk_buffs_HP, buff will not be applied.
+Checking conditional_ki_boost_slot_1: Initial limit is None
+Condition: Slot 1, Value: 3, Duration: 1, Limit: None, sot: True
+Applied conditional_ki_boost_slot_1 with value 3 (no limit)
+Checking conditional_ki_boost_slot_2: Initial limit is None
+Condition: Slot 2, Value: 1, Duration: 1, Limit: None, sot: True
+Condition not met for conditional_ki_boost_slot_2, buff will not be applied.
+Checking conditional_crit: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_crit, buff will not be applied.
+Checking conditional_recover_hp: Initial limit is 1
+Condition: HP <= 30%, Value: 1, Duration: 1, Limit: 1, sot: True
+Condition not met for conditional_recover_hp, buff will not be applied.
+{'atk_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 94, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+Gohan (Kid): atk_buff (120%, 94 turns), def_buff (120%, 94 turns), ki_buff ((1, 94) turns), conditional_atk_buffs_slot_1 (30%, 1 turns), conditional_evasion_slot_1 (50%, 1 turns), conditional_ki_boost_slot_1 (300%, 1 turns), None
+Before SuperAttack:
+
+Active link Skills: Fierce Battle
+ Super Saiyan God SS Evolved Vegeta's Ki before Ki Collection: 8 = From Leaderskill:8 + From Links:0 + From passives:0
+Random Ki: 15
+ Super Saiyan God SS Evolved Vegeta's Ki after Ki Collection: 23
+ki used: 23, so condition met
+Legendary Power link activated with Super Saiyan 2 Gohan (Youth):  Condition met. Adding 15 to ATK. total_atk: 15
+Prepared for Battle link activated with Super Saiyan 2 Gohan (Youth):   Adding 5 to ATK. total_atk: 20
+Prepared for Battle link activated with Super Saiyan 2 Gohan (Youth):   Adding 5 to DEF. total_def: 5
+Fierce Battle link activated with Gohan (Kid):   Adding 20 to ATK. total_atk: 40
+{'atk_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}]}
+Super Saiyan God SS Evolved Vegeta's revive is now active because hp is under 50%.
+Checking active skill condition: HP <= 50% and Turn 4
+Current HP: 0.3547196935478267, Current Turn: 7
+Super Saiyan God SS Evolved Vegeta can use the active skill!
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 93 turns), def_buff (150%, 93 turns), None
+Before SuperAttack:
+
+Active link Skills: Legendary Power, Prepared for Battle, Fierce Battle
+ Super Saiyan 2 Gohan (Youth)'s Ki before Ki Collection: 6 = From Leaderskill:6 + From Links:0 + From passives:0
+Random Ki: 10
+Random ki doubled due to per ki sphere buff.
+ Super Saiyan 2 Gohan (Youth)'s Ki after Ki Collection: 24
+ki used: 24, so condition met
+Legendary Power link activated with Super Saiyan God SS Evolved Vegeta:  Condition met. Adding 15 to ATK. total_atk: 15
+Prepared for Battle link activated with Super Saiyan God SS Evolved Vegeta:   Adding 5 to ATK. total_atk: 20
+Prepared for Battle link activated with Super Saiyan God SS Evolved Vegeta:   Adding 5 to DEF. total_def: 5
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 10, 'duration': 1, 'is_sot': True}]}
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 94 turns), def_buff (58%, 94 turns), atk_per_ki_sphere (70%, 1 turns), def_per_ki_sphere (70%, 1 turns), ki_per_ki_sphere (1000%, 1 turns), None
+Before SuperAttack:
+
+Active link Skills: Legendary Power, Prepared for Battle
+Current boss super cooldown: 0
+Attack pattern: [('boss', 'normal', 5), ('boss', 'super', 5), ('5', 'attacks', 'boss'), ('boss', 'normal', 5), ('4', 'attacks', 'boss'), ('boss', 'normal', 4), ('boss', 'normal', 4), ('boss', 'normal', 4), ('boss', 'normal', 4), ('6', 'attacks', 'boss'), ('boss', 'normal', 6)]
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned TRUE!
+Gohan (Kid) evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * (SA Multi: 2.8 + SA ATK Buff: 0) - SA ATK Debuff: 0 = 644000.0
+Gohan (Kid) evasion check returned TRUE!
+Gohan (Kid) evaded the attack!
+Calculating effective stats for Gohan (Kid)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 430%: 939722
+Gohan (Kid) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 94, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 1.2, 'duration': 94, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 94, 'is_sot': True}], 'conditional_atk_buffs_slot_1': [{'value': 0.3, 'duration': 1, 'is_sot': True}], 'conditional_evasion_slot_1': [{'value': 0.5, 'duration': 1, 'is_sot': True}], 'conditional_ki_boost_slot_1': [{'value': 3, 'duration': 1, 'is_sot': True}]}
+AttackStatAfterSa 939722, Modifier: 2.25, Variance: 1.015878253197382, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (939722 *2.25* 1.015878253197382 - 899.9999999999999) * (1 - 0.64)
+Gohan (Kid) attacks the Boss for 772936 damage!
+Boss HP: 13160151 (30%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Kid) evasion check returned TRUE!
+Gohan (Kid) evaded the attack!
+Calculating effective stats for Super Saiyan God SS Evolved Vegeta...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 570%: 3837986
+Super Saiyan God SS Evolved Vegeta launches an Ultra Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+{'atk_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}]}
+{'atk_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 1.5, 'duration': 93, 'is_sot': True}]}
+AttackStatAfterSa 3837986, Modifier: 2.25, Variance: 1.023732060055196, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 899.9999999999999
+Damage calculation without crit: (3837986 *2.25* 1.023732060055196 - 899.9999999999999) * (1 - 0.64)
+Super Saiyan God SS Evolved Vegeta attacks the Boss for 3182222 damage!
+Boss HP: 9977929 (22%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0025901923119633 * (1 - 0) * (1 - 0.3) -184854) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 90 damage!
+Team Total HP: 163257 (35%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0042293935938222 * (1 - 0) * (1 - 0.3) -184854) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 97 damage!
+Team Total HP: 163160 (35%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.022346178110438 * (1 - 0) * (1 - 0.3) -184854) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 125 damage!
+Team Total HP: 163035 (35%)
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan God SS Evolved Vegeta evasion check returned FALSE!
+Super Saiyan God SS Evolved Vegeta guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.0049029196135104 * (1 - 0) * (1 - 0.3) -184854) * 0.5
+Super Saiyan God SS Evolved Vegeta has a damage reduction of 30%
+Boss attacks Super Saiyan God SS Evolved Vegeta with a normal attack, causing 57 damage!
+Team Total HP: 162978 (35%)
+Calculating effective stats for Super Saiyan 2 Gohan (Youth)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 570%: 2989023
+Effective Defense after applying sa effect of 30%: 152302
+Super Saiyan 2 Gohan (Youth) launches an Ultra Super Attack!
+Defense Debuff: 0.8, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0.3
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan 2 Gohan (Youth) lowered the def_debuff of Champa by 80% for 3 turns!
+Super Saiyan 2 Gohan (Youth) raised the temp_sa_def_boost by 30% for 1 turns!
+Super Saiyan 2 Gohan (Youth)'s effective defense is now 152303
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 10, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 94, 'is_sot': True}], 'atk_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'def_per_ki_sphere': [{'value': 0.7000000000000001, 'duration': 1, 'is_sot': True}], 'ki_per_ki_sphere': [{'value': 10, 'duration': 1, 'is_sot': True}], 'temp_sa_def_boost': [{'value': 0.3, 'duration': 1, 'is_sot': False}], 'additional_atk_boost_on_18_ki_super': [{'value': 0.58, 'duration': 1, 'is_sot': False}]}
+AttackStatAfterSa 2989023, Modifier: 2.25, Variance: 1.0213924513884145, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 179.99999999999994
+Damage calculation without crit: (2989023 *2.25* 1.0213924513884145 - 179.99999999999994) * (1 - 0.64)
+Super Saiyan 2 Gohan (Youth) attacks the Boss for 2472837 damage!
+Boss HP: 7505092 (17%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Super Saiyan 2 Gohan (Youth) evasion check returned FALSE!
+Super Saiyan 2 Gohan (Youth) guard check returned FALSE!
+Damgae calculation for normals: (230000 *0.85* 1.004761142320535 * (1 - 0) * (1 - 0) -152302.80000000002) * 0.5
+Boss attacks Super Saiyan 2 Gohan (Youth) with a normal attack, causing 22064 damage!
+Team Total HP: 140914 (30%)
+Gohan (Kid)'s conditional_atk_buffs_slot_1 has expired.
+Gohan (Kid)'s conditional_evasion_slot_1 has expired.
+Gohan (Kid)'s conditional_ki_boost_slot_1 has expired.
+Super Saiyan 2 Gohan (Youth)'s atk_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s def_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s ki_per_ki_sphere has expired.
+Super Saiyan 2 Gohan (Youth)'s temp_sa_def_boost has expired.
+Super Saiyan 2 Gohan (Youth)'s additional_atk_boost_on_18_ki_super has expired.
+
+=== End of Turn 7===
+Active Buffs and Debuffs:
+Gohan (Kid): atk_buff (120%, 93 turns), def_buff (120%, 93 turns), ki_buff ((1, 93) turns), None
+Super Saiyan God SS Evolved Vegeta: atk_buff (150%, 92 turns), def_buff (150%, 92 turns), None
+Super Saiyan 2 Gohan (Youth): atk_buff (58%, 93 turns), def_buff (58%, 93 turns), None
+Champa: None, def_debuff (50%, 3 turns), def_debuff (50%, 3 turns), def_debuff (80%, 3 turns), def_debuff (50%, 3 turns), def_debuff (40%, 3 turns), def_debuff (80%, 3 turns)
+Boss HP: 7505092(17%), Team Total HP: 140914(30%)
+
+=== Start of Turn 8 ===
+Boss HP: 7505092(17%), Team Total HP: 140914(30%)
+Boss Attack Distribution: {1: 1, 3: 2, 5: 2, 7: 3}
+
+=== Turn 8 ===
+Rotation History: [[3, 7, 6], [5, 4, 2], [3, 7, 1], [5, 4, 6]]
+Cycling pattern: first two from (n-2) + last from (n-3)
+First two from Turn 6: [3, 7]
+Last from Turn 5: 2
+
+Pre-sort units: [3, 7, 2]
+Effective priorities: ['3(P:1)', '2(P:4)', '7(P:5)']
+
+Current Units: ['Caulifla', 'Gohan (Teen)', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)']
+
+Final Rotation: [_, 3, _, 2, _, 7, _]
+Cooldown Tracking:
+- Slot 2 (Unit 3): No cooldown
+- Slot 4 (Unit 2): 1 turn
+- Slot 6 (Unit 7): No cooldown
+Gohan (Teen) does not have a transformation passive.
+Active Buffs and Debuffs:
+ Caulifla's Ki before Ki Collection: 2 = From Leaderskill:0 + From Links:2 + From passives:0
+Random Ki: 22
+ Caulifla's Ki after Ki Collection: 12
+The Saiyan Lineage link activated with Gohan (Teen):    Adding 2 to KI. total_ki: 2
+The Saiyan Lineage link activated with Gohan (Teen):   Adding 5 to ATK. total_atk: 5
+The Saiyan Lineage link activated with Gohan (Teen):   Adding 5 to DEF. total_def: 5
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 25
+Checking conditional_additional_atk: Initial limit is None
+Condition: when there is an ally whose name includes "Kale" attacking in the same turn, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_additional_atk, buff will not be applied.
+Checking conditional_evasion: Initial limit is None
+Condition: +8% per "Universe 6" or "Peppy Gals" Category ally on the team; evades enemy's attack (including Super Attack) when there is a "Universe Survival Saga" or "Pure Saiyans" Category enemy, Value: None, Duration: 1, Limit: None, sot: False
+Condition not met for conditional_evasion, buff will not be applied.
+{'atk_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.3, 'duration': 97, 'is_sot': False}]}
+Caulifla: atk_buff (80%, 93 turns), def_buff (80%, 93 turns), perm_sa_def_boost (30%, 97 turns), None
+Before SuperAttack:
+
+Active link Skills: The Saiyan Lineage, Fierce Battle
+ Gohan (Teen)'s Ki before Ki Collection: 10 = From Leaderskill:8 + From Links:2 + From passives:0
+Random Ki: 7
+ Gohan (Teen)'s Ki after Ki Collection: 12
+The Saiyan Lineage link activated with Caulifla:    Adding 2 to KI. total_ki: 2
+The Saiyan Lineage link activated with Caulifla:   Adding 5 to ATK. total_atk: 5
+The Saiyan Lineage link activated with Caulifla:   Adding 5 to DEF. total_def: 5
+All in the Family link activated with Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to DEF. total_def: 25
+Fierce Battle link activated with Caulifla, Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend):   Adding 20 to ATK. total_atk: 25
+{'atk_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 92, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 92, 'is_sot': False}, {'value': 0.5, 'duration': 94, 'is_sot': False}, {'value': 0.5, 'duration': 96, 'is_sot': False}]}
+Gohan (Teen): atk_buff (140%, 92 turns), def_buff (140%, 92 turns), ki_buff ((1, 92) turns), perm_sa_def_boost (150%, 96 turns), None
+Before SuperAttack:
+
+Active link Skills: The Saiyan Lineage, All in the Family, Fierce Battle
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki before Ki Collection: 13 = From Leaderskill:8 + From Links:0 + From passives:5
+Random Ki: 19
+ Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s Ki after Ki Collection: 24
+All in the Family link activated with Gohan (Teen):   Adding 20 to DEF. total_def: 20
+Fierce Battle link activated with Gohan (Teen):   Adding 20 to ATK. total_atk: 20
+{'atk_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+Checking active skill condition: HP <= 59% and Turn 3
+Current HP: 0.30600482957506686, Current Turn: 8
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) can use the active skill!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend): atk_buff (58%, 92 turns), def_buff (58%, 92 turns), additional_atk_boost (60%, 97 turns), additional_def_boost (60%, 97 turns), additional_ki_boost ((5, 97) turns), None
+Before SuperAttack:
+
+Active link Skills: All in the Family, Fierce Battle
+Current boss super cooldown: 2
+Attack pattern: [('7', 'active', 'boss'), ('2', 'active', 'boss'), ('3', 'active', 'boss'), ('boss', 'normal', 3), ('3', 'attacks', 'boss'), ('boss', 'normal', 3), ('boss', 'normal', 3), ('2', 'attacks', 'boss'), ('boss', 'normal', 2), ('boss', 'super', 2), ('7', 'attacks', 'boss'), ('boss', 'normal', 7), ('boss', 'normal', 7), ('boss', 'normal', 7)]
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an Active Skill!
+Active damage multiplier: 6.5 -> Super Attack Stat: 3735030.0
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Limit reached
+{'atk_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 632082
+Total additional_atk_boost boost: 70%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 187123
+Total additional_def_boost boost: 70%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 187123
+• Max for additional ki boost reached at 5
+
+{'atk_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+AttackStatAfterSa 3735030.0, Modifier: 2.25, Variance: 1.0267401928619382, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 179.99999999999994
+Damage calculation without crit: (3735030.0 *2.25* 1.0267401928619382 - 179.99999999999994) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 3106208 damage!
+Boss HP: 4398884 (10%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Caulifla...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 460%: 204534
+Effective Defense after applying sa effect of 30%: 30758
+Caulifla launches a Super Attack!
+Defense Debuff: 0.4, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.3, Permanent Defense Buff: 0.3
+Caulifla lowered the def_debuff of Champa by 40% for 3 turns!
+Caulifla raised the perm_sa_atk_boost by 30% for 99 turns!
+Caulifla raised the perm_sa_def_boost by 30% for 99 turns!
+Caulifla's effective defense is now 30758
+{'atk_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.3, 'duration': 97, 'is_sot': False}, {'value': 0.3, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'def_buff': [{'value': 0.8, 'duration': 93, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.3, 'duration': 97, 'is_sot': False}, {'value': 0.3, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 204534, Modifier: 2.25, Variance: 1.0015828393825266, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 107.99999999999996
+Damage calculation without crit: (204534 *2.25* 1.0015828393825266 - 107.99999999999996) * (1 - 0.64)
+Caulifla attacks the Boss for 165895 damage!
+Boss HP: 4232989 (9%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Caulifla evasion check returned TRUE!
+Caulifla evaded the attack!
+Calculating effective stats for Gohan (Teen)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 655%: 2252440
+Effective Defense after applying sa effect of 50%: 494550
+Gohan (Teen) launches a Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0, Temporary Defense Buff: 0
+Permanent Attack Buff: 0.5, Permanent Defense Buff: 0.5
+Gohan (Teen) raised the perm_sa_atk_boost by 50% for 99 turns!
+Gohan (Teen) raised the perm_sa_def_boost by 50% for 99 turns!
+Gohan (Teen)'s effective defense is now 494550
+{'atk_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 92, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 92, 'is_sot': False}, {'value': 0.5, 'duration': 94, 'is_sot': False}, {'value': 0.5, 'duration': 96, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+{'atk_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 1.4, 'duration': 92, 'is_sot': True}], 'ki_buff': [{'value': 1, 'duration': 92, 'is_sot': True}], 'perm_sa_def_boost': [{'value': 0.5, 'duration': 92, 'is_sot': False}, {'value': 0.5, 'duration': 94, 'is_sot': False}, {'value': 0.5, 'duration': 96, 'is_sot': False}, {'value': 0.5, 'duration': 99, 'is_sot': False}]}
+AttackStatAfterSa 2252440, Modifier: 2.25, Variance: 1.0090646158938459, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 107.99999999999996
+Damage calculation without crit: (2252440 *2.25* 1.0090646158938459 - 107.99999999999996) * (1 - 0.64)
+Gohan (Teen) attacks the Boss for 1840975 damage!
+Boss HP: 2392014 (5%)
+
+Bosses effective attack: BaseAttack: 230000 * Normal ATK Buff: 1 = 230000
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damgae calculation for normals: (230000 *0.65* 1.0248797027118581 * (1 - 0) * (1 - 0) -494550.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a normal attack, causing 131 damage!
+Team Total HP: 140783 (30%)
+Bosses effective attack: BaseAttack: 230000 * (SA Multi: 2.8 + SA ATK Buff: 0) - SA ATK Debuff: 0 = 644000.0
+Gohan (Teen) evasion check returned FALSE!
+Gohan (Teen) guard check returned TRUE!
+Damage calculation for Super: (644000.0 *0.65* 1.006475049704544 * (1 - 0) * (1 - 0) - 494550.0) * 0.5
+Gohan (Teen) activated guard!
+Gohan (Teen)'s attack goes up by 40% because of guard 
+Boss attacks Gohan (Teen) with a super attack, causing 65 damage!
+Team Total HP: 140718 (30%)
+Calculating effective stats for Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)...
+Stats After SuperAttack:
+
+Effective Attack after applying sa multiplier of 620%: 3918908
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) launches an Ultra Super Attack!
+Defense Debuff: 0, Attack Debuff: 0
+Temporary Attack Buff: 0.5, Temporary Defense Buff: 0
+Permanent Attack Buff: 0, Permanent Defense Buff: 0
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the temp_sa_atk_boost by 50% for 1 turns!
+Limit reached
+{'atk_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_atk_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective attack is now 695290
+Total additional_atk_boost boost: 80%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 205836
+Total additional_def_boost boost: 80%
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) raised the additional_def_boost by 10% for 99 turns!
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)'s effective defense is now 205836
+• Max for additional ki boost reached at 5
+
+{'atk_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'def_buff': [{'value': 0.58, 'duration': 92, 'is_sot': True}], 'additional_atk_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_def_boost': [{'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 92, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 95, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 97, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}, {'value': 0.1, 'duration': 99, 'is_sot': False}], 'additional_ki_boost': [{'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 92, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 95, 'is_sot': False}, {'value': 1, 'duration': 97, 'is_sot': False}]}
+AttackStatAfterSa 3918908, Modifier: 2.25, Variance: 1.0211525726867334, EnemyDefense: 60000, EnemyDamageReduction: 64
+Champa's defense after applying debuffs: 107.99999999999996
+Damage calculation without crit: (3918908 *2.25* 1.0211525726867334 - 107.99999999999996) * (1 - 0.64)
+Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) attacks the Boss for 3241421 damage!
+Boss HP: -849407 (-2%)
+
+The Boss has been defeated!
+Boss Defeated!
+SIM ENTRY: ('item used', 1)
+SIM ENTRY: [1, '12034', 'Super Saiyan God SS Evolved Vegeta', 4, 339, 2738531]
+SIM ENTRY: [1, '12009', 'Gohan (Teen)', 2, 172, 1355928]
+SIM ENTRY: [1, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 2, 191, 874098]
+SIM ENTRY: [2, '11971', 'Caulifla', 6, 0, 1174]
+SIM ENTRY: [2, '12114', 'Super Saiyan 2 Gohan (Youth)', 1, 117, 2202883]
+SIM ENTRY: [2, '11751', 'Gohan (Kid)', 1, 19859, 555320]
+SIM ENTRY: ('item used', 3)
+SIM ENTRY: [3, '12034', 'Super Saiyan God SS Evolved Vegeta', 6, 424, 1657453]
+SIM ENTRY: [3, '12009', 'Gohan (Teen)', 2, 108, 1507885]
+SIM ENTRY: [3, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)', 0, 0, 903293]
+SIM ENTRY: [4, '11971', 'Caulifla', 5, 0, 19492]
+SIM ENTRY: [4, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 2, 147, 3180905]
+SIM ENTRY: [4, '12114', 'Super Saiyan 2 Gohan (Youth)', 1, 51, 5616474]
+SIM ENTRY: [5, '11751', 'Gohan (Kid)', 3, 64924, 781900]
+SIM ENTRY: [5, '12034', 'Super Saiyan God SS Evolved Vegeta', 0, 0, 2777348]
+SIM ENTRY: [5, '12009', 'Gohan (Teen)', 5, 54309, 1643258]
+SIM ENTRY: [6, '11971', 'Caulifla', 3, 0, 148389]
+SIM ENTRY: [6, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 2, 51162, 2021368]
+SIM ENTRY: [6, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)', 3, 105346, 1581214]
+SIM ENTRY: ['active skill', '12034', 'Super Saiyan God SS Evolved Vegeta']
+SIM ENTRY: [7, '11751', 'Gohan (Kid)', 3, 0, 772936]
+SIM ENTRY: [7, '12034', 'Super Saiyan God SS Evolved Vegeta', 4, 369, 3182222]
+SIM ENTRY: [7, '12114', 'Super Saiyan 2 Gohan (Youth)', 1, 22064, 2472837]
+SIM ENTRY: ['active skill', '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)']
+SIM ENTRY: [8, '11971', 'Caulifla', 3, 0, 165895]
+SIM ENTRY: [8, '12009', 'Gohan (Teen)', 2, 196, 1840975]
+SIM ENTRY: [8, '11681', 'Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend)', 0, 0, 6347629]
+Metrics for run 10 saved to Simulation_results\Teams\TEST\LLMTeamVvariableSlotTypeAdvantage_metrics_10.csv
+Simulation Over!

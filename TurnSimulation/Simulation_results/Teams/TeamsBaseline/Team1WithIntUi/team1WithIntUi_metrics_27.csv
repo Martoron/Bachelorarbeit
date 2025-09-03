@@ -1,0 +1,33 @@
+RNG Seed: 69
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),4,48384,392140 (89%),744393,42755607 (98%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,125,392015 (89%),3120591,39635016 (91%)
+1,12114,Super Saiyan 2 Gohan (Youth),2,147,391868 (89%),4744438,34890578 (80%)
+2,11971,Caulifla,3,0,391868 (89%),156694,34733884 (80%)
+2,12009,Gohan (Teen),3,243,391625 (89%),1421431,33312453 (77%)
+2,11354,Goku (Ultra Instinct -Sign-),2,91062,300563 (68%),96875,33215578 (76%)
+3,Item,used,for,40,percent,damage,reduction
+3,11751,Gohan (Kid),4,182624,117939 (27%),773095,32442483 (75%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,108,117831 (27%),2562571,29879912 (69%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,17817,100014 (23%),3259387,26620525 (61%)
+4,11971,Caulifla,4,0,100014 (23%),25193,26595332 (61%)
+4,12009,Gohan (Teen),2,215,99799 (23%),1562612,25032720 (58%)
+4,12114,Super Saiyan 2 Gohan (Youth),2,18745,81054 (18%),4786381,20246339 (47%)
+5,11751,Gohan (Kid),heal,heal,440524 (100%),heal,heal
+5,11751,Gohan (Kid),6,65095,375429 (85%),299650,19946689 (46%)
+5,41355,Goku (Ultra Instinct) int,1,0,375429 (85%),1196662,18750027 (43%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,23690,351739 (80%),5126805,13623222 (31%)
+6,11971,Caulifla,4,0,351739 (80%),168968,13454254 (31%)
+6,12009,Gohan (Teen),2,45,351694 (80%),1725907,11728347 (27%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,41686,310008 (70%),2981603,8746744 (20%)
+7,11751,Gohan (Kid),3,0,310008 (70%),132412,8614332 (20%)
+7,41355,Goku (Ultra Instinct) int,3,0,310008 (70%),1196726,7417606 (17%)
+7,12114,Super Saiyan 2 Gohan (Youth),2,59,309949 (70%),4920761,2496845 (6%)
+8,11971,Caulifla,3,0,309949 (70%),26396,2470449 (6%)
+8,12009,Gohan (Teen),2,127,309822 (70%),1837414,633035 (1%)
+8,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,309822 (70%),2750126,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,16337.75
+Average damage dealt per turn:,5702136.38

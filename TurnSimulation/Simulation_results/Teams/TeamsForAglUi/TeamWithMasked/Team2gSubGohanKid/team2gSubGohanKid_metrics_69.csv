@@ -1,0 +1,45 @@
+RNG Seed: 111
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12031,Goku (Ultra Instinct),4,22,475073 (100%),93982,43406018 (100%)
+1,11029,Masked Saiyan,1,111,474962 (100%),1904963,41501055 (95%)
+1,12114,Super Saiyan 2 Gohan (Youth),3,238,474724 (100%),2085822,39415233 (91%)
+2,11971,Caulifla,5,0,474724 (100%),149690,39265543 (90%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,6311,468413 (99%),926042,38339501 (88%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,116458,351955 (74%),2120317,36219184 (83%)
+3,Item,used,for,40,percent,damage,reduction
+3,12031,Goku (Ultra Instinct),5,12882,339073 (71%),961843,35257341 (81%)
+3,12009,Gohan (Teen),1,92,338981 (71%),1422443,33834898 (78%)
+3,11029,Masked Saiyan,2,143,338838 (71%),1876610,31958288 (73%)
+4,11971,Caulifla,4,0,338838 (71%),24400,31933888 (73%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,163,338675 (71%),3032767,28901121 (66%)
+4,12114,Super Saiyan 2 Gohan (Youth),1,25,338650 (71%),1519911,27381210 (63%)
+5,12031,Goku (Ultra Instinct),4,45966,292684 (62%),2475640,24905570 (57%)
+5,12009,Gohan (Teen),1,106,292578 (62%),1515146,23390424 (54%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,65193,227385 (48%),2594928,20795496 (48%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11971,Caulifla,5,0,227385 (48%),181259,20614237 (47%)
+6,11029,Masked Saiyan,2,112,227273 (48%),2136402,18477835 (42%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,17695,209578 (44%),4413666,14064169 (32%)
+7,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,12031,Goku (Ultra Instinct),2,247831,0 (0%),0,14064169 (32%)
+7,12009,Gohan (Teen),0,0,0 (0%),0,14064169 (32%)
+7,12114,Super Saiyan 2 Gohan (Youth),0,0,0 (0%),0,14064169 (32%)
+7,12031,Goku (Ultra Instinct),revive,revive,332566 (70%),revive,revive
+8,11971,Caulifla,4,0,332567 (70%),28195,14035974 (32%)
+8,11029,Masked Saiyan,3,252,332315 (70%),2206944,11829030 (27%)
+8,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,22950,309365 (65%),2982107,8846923 (20%)
+9,12031,Goku (Ultra Instinct),4,49805,259560 (55%),1259850,7587073 (17%)
+9,12009,Gohan (Teen),3,273,259287 (55%),182376,7404697 (17%)
+9,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,170779,88508 (19%),3697121,3707576 (9%)
+10,11971,Caulifla,6,0,88508 (19%),195158,3512418 (8%)
+10,11029,Masked Saiyan,2,174,88334 (19%),226225,3286193 (8%)
+10,12114,Super Saiyan 2 Gohan (Youth),0,0,88334 (19%),148240,3137953 (7%)
+11,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+11,12031,Goku (Ultra Instinct),0,0,88334 (19%),1487910,1650043 (4%)
+11,12009,Gohan (Teen),0,0,88334 (19%),0,1650043 (4%)
+11,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,88334 (19%),2785262,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,35160.09
+Average damage dealt per turn:,4057747.18

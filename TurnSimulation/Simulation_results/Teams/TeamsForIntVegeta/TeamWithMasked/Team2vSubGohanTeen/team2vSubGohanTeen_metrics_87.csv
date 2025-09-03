@@ -1,0 +1,29 @@
+RNG Seed: 129
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,5,0,457122 (100%),8263,43491737 (100%)
+1,12034,Super Saiyan God SS Evolved Vegeta,2,137,456985 (100%),2498593,40993144 (94%)
+1,11029,Masked Saiyan,1,6520,450465 (99%),178313,40814831 (94%)
+2,11751,Gohan (Kid),2,24263,426202 (93%),745678,40069153 (92%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,130766,295436 (65%),3026424,37042729 (85%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,12089,283347 (62%),3170236,33872493 (78%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,4,0,283347 (62%),7990,33864503 (78%)
+3,12034,Super Saiyan God SS Evolved Vegeta,1,92,283255 (62%),1057584,32806919 (75%)
+3,12114,Super Saiyan 2 Gohan (Youth),3,68063,215192 (47%),4405510,28401409 (65%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11751,Gohan (Kid),5,45660,169532 (37%),171871,28229538 (65%)
+4,11029,Masked Saiyan,1,48,169484 (37%),2197691,26031847 (60%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,114,169370 (37%),5816750,20215097 (46%)
+5,12034,Super Saiyan God SS Evolved Vegeta,active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11971,Caulifla,4,0,169370 (37%),28152,20186945 (46%)
+5,12034,Super Saiyan God SS Evolved Vegeta,4,632,168738 (37%),3349723,16837222 (39%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,168738 (37%),5835978,11001244 (25%)
+6,11751,Gohan (Kid),2,240128,0 (0%),0,11001244 (25%)
+6,11029,Masked Saiyan,0,0,0 (0%),0,11001244 (25%)
+6,12114,Super Saiyan 2 Gohan (Youth),0,0,0 (0%),0,11001244 (25%)
+Result:,Team defeated
+
+Average damage received per turn:,88085.33
+Average damage dealt per turn:,5416459.33

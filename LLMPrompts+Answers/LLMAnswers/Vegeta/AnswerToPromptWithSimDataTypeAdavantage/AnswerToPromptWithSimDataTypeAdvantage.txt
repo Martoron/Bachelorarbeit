@@ -1,0 +1,14 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s passive provides an unusually high cumulative damage reduction up to 30% per turn (on top of a base 10%), combined with a strong 150% ATK & DEF boost, and a potent revive mechanic that triggers easily (after 7 attacks received). These defensive and sustain aspects significantly outpace meta units, enabling prolonged dominance without much risk.
+
+Proposed Changes:
+Damage reduction per attack received: 10% (up to 30%) → 5% (up to 15%)
+Revive trigger condition: After 7 attacks received → After 10 attacks received
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive ATK & DEF boost	+150%	+150%	~+120%
+Base Damage Reduction	10%	10%	~10%
+Additional Damage Reduction	10% per attack (max 30%)	5% per attack (max 15%)	None or negligible
+Revive trigger condition	After 7 attacks received	After 10 attacks received	After ~10+ attacks or none
+Viability Check: The nerfs reduce the OP unit’s extreme survivability while maintaining solid offensive power and revive utility, keeping it strong but no longer the uncontested tank and damage sponge dominating the meta.

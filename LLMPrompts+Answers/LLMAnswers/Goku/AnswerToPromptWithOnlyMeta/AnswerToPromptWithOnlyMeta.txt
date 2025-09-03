@@ -1,0 +1,33 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) has an extremely high level of survivability and offense due to his evasion, critical hit chances, revival mechanic, and high base stats. The combination of these traits allows him to outperform other units by a significant margin, leading to an overpowered status. Specifically, his high evasion chance, revival mechanic, and ATK & DEF boost contribute to excessive power and durability.
+
+Proposed Changes:
+
+    Evasion Chance:
+    Current: Great chance[4] of evading enemy's attack (including Super Attack).
+    Adjusted: Medium chance[3] of evading enemy's attack (including Super Attack).
+    Reason: The high evasion chance is a major contributor to Goku's overperformance, particularly his ability to evade key enemy supers, giving him too much survivability and reliability in battle.
+
+    Revival Mechanic Condition:
+    Current: Revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only).
+    Adjusted: Revives with 50% HP recovered when the character or an ally attacking in the same turn is KO'd (once only).
+    Reason: The revival mechanic makes him exceptionally hard to defeat, ensuring his persistence in long battles. Reducing the revival threshold will make him more balanced without diminishing his survivability completely.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	24,000
+Attack	20,700	20,700	21,600
+Defense	14,525	14,525	13,000
+Super Attack	Causes colossal damage; high chance of crit	Causes colossal damage; medium chance of crit	N/A
+Ultra Super Attack	Causes mega-colossal damage; high chance of crit	Causes mega-colossal damage; medium chance of crit	N/A
+Passive - Evasion	Great chance[4] of evading attacks	Medium chance[3] of evading attacks	N/A
+Passive - Ki Gain	Ki +1 (up to +5) with each attack evaded	Ki +1 (up to +5) with each attack evaded	N/A
+Passive - Additional Super	Medium chance[5] of launching additional Super	Medium chance[5] of launching additional Super	N/A
+Revival Mechanic	Revives with 70% HP if KO'd (once only)	Revives with 50% HP if KO'd (once only)	N/A
+Active Skill	Greatly raises ATK and causes ultimate damage	Greatly raises ATK and causes ultimate damage	N/A
+Active Skill Condition	HP 50% or more, starting from 4th turn	HP 50% or more, starting from 4th turn	N/A
+
+Viability Check:
+After these adjustments, Goku (Ultra Instinct) will remain a strong unit but will no longer dominate in every situation. He will still retain his role as a powerful offensive and defensive unit, but his survivability will be more in line with the other meta units, ensuring a fairer balance in competitive play.

@@ -1,0 +1,68 @@
+Thanks for providing detailed data — this is a solid case for balance review. Let’s break it down and see where Super Saiyan God SS Evolved Vegeta stands out too far from the meta units, and then propose reasonable adjustments that preserve his identity but prevent power creep or gameplay imbalance.
+⚖️ Step 1: Quick Meta Unit Stat & Effect Average
+
+Let’s calculate averages for meta units to get a baseline.
+Stat / Effect	Meta Average (5 Units)
+HP	23393
+Attack	21572
+Defense	12912
+ATK & DEF % Passive Boost	133%
+Damage Reduction	6% (only 2 units have it)
+Additional Supers (medium chance)	4/5 units have it
+Ki Mechanics	All units have Ki scaling/gains
+Revive Mechanic	None (Vegeta is the only one)
+Crit Chance on SA	None do it reliably
+Mass AOE Damage	Only Vegeta (others are single target)
+⚠️ Step 2: What Makes Vegeta OP?
+Category	SSBE Vegeta	Meta Units Comparison
+DEF stat	15719	12912 avg → ~22% higher
+Passive ATK/DEF Boost	150%	133% avg
+Damage Reduction	10% + up to 30% (total 40%)	Only 2 meta units have 30% (one transformed)
+Crit Chance	High chance (50%) on both Supers	Almost none in base forms
+Revive	✅ Yes (rare and powerful)	❌ None of the meta units
+Ki Gain	+1 per attack, up to +5	Common
+AOE Active Skill	Yes	❌ Rare (none of the 5 have AOE active)
+Transformed Form?	❌ None	Most meta units have one
+
+🧨 Core Issues Identified:
+
+    Too Much Damage Reduction (40%) + High DEF (15.7K) — makes him overly tanky even without dodge or heal stacking.
+
+    Always-on Crit Chance via Supers — invalidates defense-based units and makes him shred enemies too consistently.
+
+    Revive Mechanic on a unit already loaded with tankiness and crits is excessive.
+
+    AOE Active Skill + Mega-Colossal — too effective in World Tournament or multi-enemy fights.
+
+    No transformation — gets everything upfront, unlike meta units that must wait/meet conditions to reach full power.
+
+✅ Step 3: Rebalance Proposal
+🔧 Suggested Adjustments
+Attribute	Current	Suggested Change	Reason
+DEF Stat	15719	14000	Still top-tier, but no longer unmatched
+Passive ATK & DEF	+150%	+130%	In line with meta average
+Damage Reduction	10% base, up to +30% (stackable)	10% base, +5% per hit (up to +20%)	Caps at 30%, fairer with stacking
+Crit Chance on Supers	High chance on both	Medium chance (30%) on Ultra Super only	Prevents constant crit spam
+Revive Mechanic	Revives after 7 hits + KO condition	Remove revive OR require 9 hits taken + 30% HP or less	Make it harder to trigger or optional
+Active Skill	AOE, mega-colossal	Colossal OR make it single-target	Tone down sweeping potential
+📊 Summary Table
+Attribute	SSBE Vegeta (Current)	Meta Avg / Balance Range	SSBE Vegeta (Proposed)
+HP	21688	~23,400	21688 (unchanged)
+Attack	19850	~21,500	19850 (unchanged)
+Defence	15719	~12900	14000
+ATK & DEF % Passive	150%	~133%	130%
+Damage Reduction	10% + up to 30%	0–30% (rare)	10% + up to 20%
+Crit Chance on SA	High chance (x2)	None (normally)	Medium on Ultra only
+Revive Mechanic	Yes (70% HP)	None	Optional: remove or nerf
+AOE Active Skill	Mega-Colossal AOE	None	Colossal OR single-target
+🎯 Final Thoughts
+
+SSBE Vegeta has:
+
+    Too many high-impact effects combined, and
+
+    No delayed transformation, which front-loads all power early on.
+
+The proposed nerfs preserve his strong identity (a tanky, offensive juggernaut), but tone down his over-tuned survivability and critical dominance without making him irrelevant.
+
+Let me know if you want a version of this rebalance that includes a transformation path instead of toning everything down.

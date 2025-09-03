@@ -1,0 +1,218 @@
+Role: Act as a competitive game balance designer for Dokkan Battle, specializing in statistical meta-analysis and ability tuning.
+Task: Analyze the JSON data below for 6 units (5 meta + 1 OP) + Boss and propose balanced nerfs to the Overpowered unit. Proposed nerfs must be based on statistical outliers or significant overperformance, and must retain the unit’s general viability without allowing continued dominance.
+Use standard Dokkan Battle definitions for terms like 'Immense damage' or 'High Chance'.
+
+Additional Context:
+The overpowered unit was integrated into a standard team of 7 units and tested in 100 simulations against the boss described below. Key performance metrics are provided for comparison.
+Note: Simulation results reflect team-level and unit-level performance data aggregated across 100 full runs. Metrics such as "Avg Dmg/App" and "Dmg/Hit" represent statistical averages, not deterministic outcomes.
+
+Simulation Results:
+
+Battle Outcome Metrics:
+------------------------------------------------------------------------------------------
+Team defeated: 46 times (46.0%)
+Boss defeated: 54 times (54.0%)
+
+Special Actions Triggered:
+------------------------------------------------------------------------------------------
+Active Skill: 195 times
+Heal: 49 times (49.0% of simulations)
+Revive: 20 times (20.0% of simulations)
+Item Used: 200 times
+
+Weighted Averages (Total Damage/Total Turns):
+------------------------------------------------------------------------------------------
+Total turns: 757
+Avg damage received per turn: 85247.87
+Avg damage dealt per turn: 5034428.87
+
+Unweighted Averages (Per Simulation):
+------------------------------------------------------------------------------------------
+Avg turns per simulation: 7.6
+Avg damage received per simulation: 87674.81
+Avg damage dealt per simulation: 5023737.18
+
+Unit Offensive Performance:
+------------------------------------------------------------------------------------------
+Unit ID  | Unit Name            |  Avg Dmg/App |    Total Dmg |  Appearances
+------------------------------------------------------------------------------------------
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) |   3047513.00 | 886826283.00 |          291
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) |   2938512.40 | 852168597.00 |          290
+12114    | Super Saiyan 2 Gohan (Youth) |   2329763.93 | 605738622.00 |          260
+12031    | Goku (Ultra Instinct) |   1995532.35 | 736351438.00 |          369
+12009    | Gohan (Teen)         |   1299132.23 | 446901487.00 |          344
+11751    | Gohan (Kid)          |    733211.44 | 256624005.00 |          350
+11971    | Caulifla             |     72076.90 |  26452221.00 |          367
+
+Unit Defensive Performance:
+------------------------------------------------------------------------------------------
+Unit ID  | Unit Name            |    Dmg/Hit |   Hits/App |    Dmg/App |    Total Dmg |   Total Hits |  Appearances
+------------------------------------------------------------------------------------------
+11971    | Caulifla             |       0.00 |       4.04 |       0.00 |         0.00 |         1482 |          367
+12009    | Gohan (Teen)         |    2856.98 |       1.94 |    5539.55 |   1905605.00 |          667 |          344
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) |   14699.87 |       1.88 |   27631.71 |   8040827.00 |          547 |          291
+12031    | Goku (Ultra Instinct) |   15529.97 |       2.04 |   31649.15 |  11678536.00 |          752 |          369
+12114    | Super Saiyan 2 Gohan (Youth) |   16673.70 |       1.88 |   31423.51 |   8170113.00 |          490 |          260
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) |   16995.02 |       1.64 |   27953.88 |   8106625.00 |          477 |          290
+11751    | Gohan (Kid)          |   20789.18 |       3.66 |   76088.39 |  26630935.00 |         1281 |          350
+
+Metrics Interpretation Guide:
+------------------------------------------------------------------------------------------
+Offensive Metrics:
+Avg Dmg/App - Average damage dealt per appearance (higher = better)
+Total Dmg   - Total damage dealt across all appearances
+
+Defensive Metrics:
+Dmg/Hit     - Damage taken per hit (lower = better defense)
+Hits/App    - Hits taken per appearance (higher = more targeted)
+Dmg/App     - Damage taken per appearance
+Total Dmg   - Total damage taken across all appearances
+Total Hits  - Total hits taken across all appearances
+
+Provided Data:
+
+{
+    "meta_units": [
+        {
+            "name": "Gogeta",
+            "superAttack": "Raises ATK[1] and causes colossal damage to enemy",
+            "ultraSuperAttack": "Raises ATK[1] and causes mega-colossal damage to enemy",
+            "passive": "ATK & DEF +70%; Ki +3 and launches an additional attack that has a medium chance[4] of becoming a Super Attack when attacking; high chance[5] of evading enemy's attack (including Super Attack) as the 3rd attacker in a turn; Transforms when conditions are met",
+            "activeSkill": "Greatly raises ATK temporarily[8] and causes ultimate damage to enemy",
+            "activeSkillCondition": "Can be activated when facing only 1 enemy, whose HP is 50% or less, starting from next attacking turn (once only)",
+            "transformationCondition": "Transforms starting from the 4th turn from the start of battle",
+            "HP": 24025,
+            "Attack": 22630,
+            "Defence": 11175,
+            "transformations": [
+                {
+                    "transformedName": "Super Saiyan God SS Gogeta",
+                    "transformedSuperAttack": "Raises ATK & DEF for 1 turn[1] and causes colossal damage to enemy",
+                    "transformedUltraSuperAttack": "Raises DEF for 1 turn[3] and causes mega-colossal damage to enemy",
+                    "transformedPassive": "ATK & DEF +77%; Ki +5, launches an additional attack, plus an additional ATK & DEF +7% (up to 77%) with each attack performed and attacks effective against all Types as the 1st or 2nd attacker in a turn; launches an additional Super Attack and high chance[5] of evading enemy's attack (including Super Attack) as the 3rd attacker in a turn",
+                    "transformedActiveSkill": "Greatly raises ATK temporarily[8] and causes ultimate damage to enemy",
+                    "transformedActiveSkillCondition": "Can be activated when facing only 1 enemy, whose HP is 50% or less, starting from next attacking turn (once only)"
+                }
+            ]
+        },
+        {
+            "name": "Goku & Vegeta (Angel)",
+            "superAttack": "Raises ATK & DEF for 1 turn[1] and causes colossal damage to enemy",
+            "ultraSuperAttack": "Raises ATK & DEF for 1 turn[1] and causes mega-colossal damage to enemy",
+            "passive": "ATK & DEF +120%; reduces damage received by 30%; plus an additional Ki +1 per Type Ki Sphere obtained; medium chance[4] of launching an additional Super Attack",
+            "activeSkill": "Performs Potara Fusion; Can be activated when HP is 77% or less starting from the 4th turn from the start of battle (once only)",
+            "HP": 25300,
+            "Attack": 21650,
+            "Defence": 11600,
+            "transformations": [
+                {
+                    "transformedName": "Super Vegito",
+                    "transformedSuperAttack": "Raises ATK & DEF for 1 turn[1] and causes colossal damage to enemy",
+                    "transformedUltraSuperAttack": "Raises ATK & DEF for 1 turn[1] and causes mega-colossal damage to enemy",
+                    "transformedPassive": "Recovers 50% HP (once only); ATK & DEF +150% and medium chance[3] of performing a critical hit; counters normal attacks with tremendous power; plus an additional Ki +1 per Ki Sphere obtained; Ki +5 and foresees enemy's Super Attack for 10 turns from the character's entry turn"
+                }
+            ]
+        },
+        {
+            "name": "Majin Buu (Gotenks)",
+            "superAttack": "Raises ATK[1] and causes colossal damage to enemy",
+            "ultraSuperAttack": "Raises DEF[4] and causes mega-colossal damage to enemy",
+            "passive": "Recovers 12% HP at start of turn; ATK & DEF +120%; plus an additional Ki +1 per Type Ki Sphere obtained; medium chance[7] of launching an additional Super Attack",
+            "activeSkill": "Absorbs Ultimate Gohan; Can be activated when HP is 50% or more starting from the 4th turn from start of battle (once only)",
+            "HP": 25063,
+            "Attack": 19975,
+            "Defence": 14256,
+            "transformations": [
+                {
+                    "transformedName": "Majin Buu (Ultimate Gohan)",
+                    "transformedSuperAttack": "Raises ATK for 1 turn[1] and causes colossal damage to enemy",
+                    "transformedUltraSuperAttack": "Raises ATK for 1 turn[1] and causes mega-colossal damage to enemy",
+                    "transformedPassive": "Recovers 10% HP at start of turn; ATK & DEF +150%; launches an additional attack that has a medium chance[3] of becoming a Super Attack; plus an additional Ki +1 per Ki Sphere obtained; Ki +5 for 5 turns from start of turn; seals the attacked enemy's Super Attack for 5 turns (once only)"
+                }
+            ]
+        },
+        {
+            "name": "Super Saiyan 2 Gohan (Youth)",
+            "superAttack": "Raises ATK & DEF for 1 turn[1], causes colossal damage to enemy and greatly lowers DEF[2]",
+            "ultraSuperAttack": "Raises DEF for 1 turn[3], causes mega-colossal damage to enemy and massively lowers DEF[4]",
+            "passive": "ATK & DEF +58%; plus an additional Ki +1 per Ki Sphere obtained; plus an additional ATK & DEF +7% per Ki Sphere obtained; plus an additional ATK +58% when performing an Ultra Super Attack; medium chance[5] of launching an additional Super Attack; plus an additional ATK +59% and attack becomes a critical hit when performing an Ultra Super Attack if HP is 58% or less with a \"Movie Heroes\" Category ally whose name includes \"Goku\" (Youth excluded) on the team starting from the 5th turn from the start of battle (once only)",
+            "activeSkill": "Ki +12 and ATK +59% for 1 turn",
+            "activeSkillCondition": "Can be activated when HP is 58% or less with a \"Movie Heroes\" Category ally whose name includes \"Goku\" (Youth excluded) on the team, starting from the 5th turn from the start of battle (once only)",
+            "HP": 21713,
+            "Attack": 21780,
+            "Defence": 13594,
+            "transformations": []
+        },
+        {
+            "name": "Jiren (Full Power)",
+            "superAttack": "Causes colossal damage to enemy and greatly lowers DEF[1]",
+            "ultraSuperAttack": "Causes mega-colossal damage and massively lowers DEF[3] with a medium chance[4] of stunning the enemy",
+            "passive": "ATK & DEF +200%; Ki +1 with each attack received (up to +5); attacks effective against all Types when the target enemy is in \"ATK Down\" or \"DEF Down\" status; performs a critical hit when the target enemy is stunned",
+            "activeSkill": "ATK & DEF +30%, all enemies' ATK & DEF -30% and stuns all enemies for 1 turn",
+            "activeSkillCondition": "Can be activated after the character receives attack 5 or more times in battle (once only)",
+            "HP": 20863,
+            "Attack": 21525,
+            "Defence": 14338,
+            "transformations": []
+        }
+    ],
+    "overpowered_unit": {
+        "name": "Goku (Ultra Instinct)",
+	"type": "Agl",
+	"class": "Super",
+        "superAttack": "Causes colossal damage to enemy; high chance of performing a critical hit for 1 turn",
+        "ultraSuperAttack": "Causes mega-colossal damage to enemy; high chance of performing a critical hit for 1 turn",
+        "passive": "ATK & DEF +150%; great chance[4] of evading enemy's attack (including Super Attack); Ki +1 (up to +5) with each attack evaded (including Super Attack); plus an additional DEF +30% within the same turn after evading an attack; medium chance[5] of launching an additional Super Attack; if HP is 50% or less at start of character's attacking turn after the character receives attack 3 or more times in battle, revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)",
+        "activeSkill": "Greatly raises ATK temporarily[6] and causes ultimate damage to enemy",
+        "activeSkillCondition": "Can be activated when HP is 50% or more starting from the 4th turn from the start of battle (once only)",
+        "HP": 22350,
+        "Attack": 20700,
+        "Defence": 14525,
+        "transformations": []
+    },
+    "boss":{
+         "name": "Champa",
+         "class": "Extreme",
+         "type": "AGL",
+         "HP": 43500000 ,
+         "Attack": 230000 ,
+         "Defence": 60000 ,
+         "damageReduction": 64 ,
+         "atk/turn": 8 ,
+         "sa-multi": "Immense",
+         "sa-effect": "DEF -40%",
+         "sa-atk": 644000 ,
+         "sa-percent": 18.39,
+         "sa/turn": 1 ,
+         "cooldown": 8 ,
+         "passive" : "None",
+         "stunImmun": 1 ,
+         "sealImmun": 1 ,
+         "atkReductionImmun": 1 ,
+         "defReductionImmun": 0 
+}
+
+Requirements:
+
+Problem Identification: Compare the OP unit’s stats/skills to the 5 meta units. Highlight numerical outliers.
+
+Proposed Changes: Target 1–2 key imbalances with exact before/after values.
+
+Meta Comparison: Use this table format to show your suggested changes. 
+Only fill in stats that are relevant based on your analysis:
+
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+
+
+Viability Check: Briefly note how the unit fits post-nerf.
+
+Output Format:
+
+Analysis for [OP Unit Name]  
+Problem: [1–2 sentences].  
+
+Proposed Changes:  
+[Skill/Stat]: [Current] → [Adjusted].  
+
+Meta Comparison Table: [As above].  
+Viability Check: [1 sentence].

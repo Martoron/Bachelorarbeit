@@ -1,0 +1,26 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) exhibits significant overperformance in both offensive and defensive capabilities. His combination of high evasion, damage, and revival makes him a dominating force in simulations. Specifically, his passive ability to dodge and increase defense after dodging, combined with a high chance of launching additional Super Attacks and a revive mechanic, creates an imbalance when compared to the meta units.
+
+Proposed Changes:
+
+    Evasion: "Great chance" to evade → "Medium chance" to evade.
+
+    Passive DEF Boost: Add "DEF +30% after evading an attack" → Remove this DEF boost from his passive entirely.
+
+    Revive Mechanic: Change the revival mechanic to be conditional on more restrictive criteria, e.g., "If HP is 50% or less and 5 or more attacks are received" (currently at 3).
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	23,050
+Attack	20,700	20,700	21,720
+Defense	14,525	14,525	13,634
+Super Attack	Colossal damage, High crit chance	Colossal damage, Medium crit chance	Mega-Colossal, Medium Crit Chance
+Ultra Super Attack	Mega-Colossal damage, High crit chance	Mega-Colossal damage, Medium crit chance	Mega-Colossal, Medium Crit Chance
+Passive	ATK & DEF +150%, Great chance to evade, Additional DEF after evading, Additional Super Attack	ATK & DEF +150%, Medium chance to evade, No additional DEF boost after evading, No revive mechanic	ATK & DEF +70%–150%, No evasion (or reduced), No revive mechanic
+Active Skill	Greatly raises ATK, Ultimate damage	Greatly raises ATK, Ultimate damage	Greatly raises ATK, Ultimate damage
+Revival Mechanic	Revives with 70% HP after 3 attacks	Revives with 70% HP after 5 attacks and a stricter condition	No Revival Mechanic
+
+Viability Check:
+After these changes, Goku (Ultra Instinct) will remain a potent unit with high offensive potential, but his reliance on evasion and revival will be reduced, ensuring he doesn’t dominate the team. His overall performance will be more in line with other meta units.

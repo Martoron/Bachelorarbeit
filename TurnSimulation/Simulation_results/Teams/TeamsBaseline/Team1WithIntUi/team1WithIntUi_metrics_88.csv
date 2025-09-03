@@ -1,0 +1,29 @@
+RNG Seed: 130
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,440524 (100%),142587,43357413 (100%)
+1,12009,Gohan (Teen),3,44707,395817 (90%),1411598,41945815 (96%)
+1,11751,Gohan (Kid),3,68334,327483 (74%),697769,41248046 (95%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,5870,321613 (73%),2017160,39230886 (90%)
+2,12114,Super Saiyan 2 Gohan (Youth),3,174,321439 (73%),3479296,35751590 (82%)
+2,11354,Goku (Ultra Instinct -Sign-),2,80522,240917 (55%),84002,35667588 (82%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,11971,Caulifla,4,0,240917 (55%),23639,35643949 (82%)
+3,12009,Gohan (Teen),3,146,240771 (55%),1543479,34100470 (78%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,16,240755 (55%),3933224,30167246 (69%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11751,Gohan (Kid),4,48381,192374 (44%),769612,29397634 (68%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,290,192084 (44%),3240750,26156884 (60%)
+4,12114,Super Saiyan 2 Gohan (Youth),1,87628,104456 (24%),2212226,23944658 (55%)
+5,11971,Caulifla,3,0,104456 (24%),170559,23774099 (55%)
+5,41355,Goku (Ultra Instinct) int,3,0,104456 (24%),1166470,22607629 (52%)
+5,12009,Gohan (Teen),2,229,104227 (24%),181997,22425632 (52%)
+6,11751,Gohan (Kid),heal,heal,440524 (100%),heal,heal
+6,11751,Gohan (Kid),3,309913,130611 (30%),1731114,20694518 (48%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,130611 (30%),2867269,17827249 (41%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),5,148933,0 (0%),2710174,15117075 (35%)
+Result:,Team defeated
+
+Average damage received per turn:,76474.33
+Average damage dealt per turn:,4730487.50

@@ -1,0 +1,79 @@
+Thanks for the detailed dataset—this gives us a strong foundation to assess the balance of Super Saiyan God SS Evolved Vegeta (the "OP unit") compared to other top-tier meta units.
+🔍 Quick Diagnosis: Why is Evolved Vegeta Overpowered?
+
+Evolved Vegeta stands out due to a stacked passive, damage reduction scaling, and early-access revival mechanic—all packed without transformation or other trade-offs. Here's a breakdown of the imbalances:
+✅ What Makes Him Overpowered
+Trait	Issue
+Base ATK/DEF Buff	Starts at 150% ATK & DEF, above meta average (~120%).
+Damage Reduction	Scales to 40% DR after just 3 hits (10% base + 10% x 3), while many units cap at 30% or require strict conditions.
+Ki Scaling	Gains +5 Ki passively, leading to very consistent supers.
+Revival Mechanic	No transformation, only 7 hits received, and HP ≤ 50% — then revive even if an ally dies, making it extremely flexible.
+Critical Chance	Both super and ultra super grant high crit chance — no other unit in the list has both attacks granting this.
+No Real Tradeoff	No transformation condition, cooldown, HP cost, or category restriction.
+📊 Comparison Table
+Stat/Effect	Meta Average	SSGSS Evolved Vegeta	Issue?
+Base ATK & DEF Buff	~120%	150%	✅ High
+Damage Reduction	0–30% (static)	10–40% scaling	✅ Too high for base form
+Ki Gain	+1 per orb / fixed +3	+1 per attack, up to +5	⚠️ Slightly strong
+Super Attack Bonus	ATK or DEF buff	High chance to crit	✅ Always critting is too reliable
+Revival Condition	Rare, strict (e.g. UI Goku)	Easy: 7 hits + HP ≤ 50% + ally KO	✅ Too flexible
+Active Skill	Conditional, enemy HP, etc.	AOE mega-colossal with easy activation	⚠️ Very strong AOE
+🛠 Suggested Rebalancing
+
+The goal is to keep the unit viable and strong, but prevent it from overshadowing transformed or conditional units.
+🔧 Adjusted Passive (rebalanced):
+
+ATK & DEF +150%; 
+- reduces damage received by 10%; 
+- plus an additional damage reduction of 10% within the same turn with each attack received (up to 30%);
+
++ reduces damage received by 5%; 
++ plus an additional damage reduction of 10% within the same turn with each attack received (up to 25%);
+
+    ✅ Max DR reduced from 40% → 30%, more in line with tankier units like Vegito.
+
+    ✅ Initial DR lowered, rewarding stacking instead of immediate tanking.
+
+🔧 Ki Gain:
+
+Ki +1 with each attack performed (up to +5);
+→ Ki +1 with each Super Attack performed (up to +3);
+
+    ⚖️ Adjusted to slow down Ki gain slightly and reward actual Supers, not just any attack.
+
+🔧 Super/Ultra Crit Chance:
+
+Causes [colossal/mega-colossal] damage to enemy;
+- high chance of performing a critical hit for 1 turn
+
+→ medium chance of performing a critical hit for 1 turn
+
+    ✅ Reduces guaranteed crit spam, brings him closer to units like Jiren or Gohan.
+
+🔧 Revival Mechanic:
+
+if HP is 50% or less at start of character's attacking turn after the character receives attack 7 or more times in battle, revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)
+
+→ if HP is 30% or less after receiving 7 or more attacks and **this character is KO'd**, revives with 70% HP (once only)
+
+    ✅ Makes the revival dependent on Vegeta dying, not just any ally — balancing against powerful team-wide survival.
+
+🔧 Active Skill:
+
+Active Skill Condition: Can be activated when HP is 50% or more starting from the 4th turn from the start of battle (once only)
+
+→ Can be activated when HP is 50% or less starting from the 6th turn (once only)
+
+    ✅ AOE damage is potent, so access should be slightly harder and used as a comeback tool, not a steamroll.
+
+✅ Final Thoughts
+
+These changes:
+
+    Preserve Vegeta’s role as a durable hard-hitter with comeback mechanics
+
+    Bring him in line with units like Goku & Vegeta (Angel) or Jiren, who have strong passives but also transformation, stricter revival, or counterplay
+
+    Make his revival and crit synergy still desirable but not dominant
+
+Let me know if you want the rebalanced version rewritten in full for testing or implementation!

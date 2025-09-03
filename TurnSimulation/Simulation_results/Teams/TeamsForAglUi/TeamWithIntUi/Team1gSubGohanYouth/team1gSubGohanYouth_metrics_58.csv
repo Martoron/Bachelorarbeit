@@ -1,0 +1,31 @@
+RNG Seed: 100
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),3,23962,418855 (95%),758639,42741361 (98%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,6107,412748 (93%),1410444,41330917 (95%)
+1,11354,Goku (Ultra Instinct -Sign-),4,341499,71249 (16%),990195,40340722 (93%)
+2,11971,Caulifla,2,0,71249 (16%),144294,40196428 (92%)
+2,12009,Gohan (Teen),4,356,70893 (16%),1399908,38796520 (89%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,153,70740 (16%),3322262,35474258 (82%)
+3,11751,Gohan (Kid),heal,heal,442817 (100%),heal,heal
+3,Item,used,for,40,percent,damage,reduction
+3,11751,Gohan (Kid),5,0,442817 (100%),1750319,33723939 (78%)
+3,12031,Goku (Ultra Instinct),0,0,442817 (100%),1936570,31787369 (73%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,123,442694 (100%),1924749,29862620 (69%)
+4,11971,Caulifla,4,0,442694 (100%),161977,29700643 (68%)
+4,12009,Gohan (Teen),3,226,442468 (100%),1569404,28131239 (65%)
+4,11354,Goku (Ultra Instinct -Sign-),1,10674,431794 (98%),90628,28040611 (64%)
+5,11751,Gohan (Kid),4,0,431794 (98%),766621,27273990 (63%)
+5,12031,Goku (Ultra Instinct),1,0,431794 (98%),698269,26575721 (61%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,105836,325958 (74%),4516120,22059601 (51%)
+6,11971,Caulifla,2,0,325958 (74%),18518,22041083 (51%)
+6,12009,Gohan (Teen),3,333,325625 (74%),1701566,20339517 (47%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,206007,119618 (27%),2978081,17361436 (40%)
+7,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11751,Gohan (Kid),3,121811,0 (0%),125093,17236343 (40%)
+7,12031,Goku (Ultra Instinct),0,0,0 (0%),0,17236343 (40%)
+7,41355,Goku (Ultra Instinct) int,0,0,0 (0%),0,17236343 (40%)
+Result:,Team defeated
+
+Average damage received per turn:,63572.86
+Average damage dealt per turn:,3751951.00

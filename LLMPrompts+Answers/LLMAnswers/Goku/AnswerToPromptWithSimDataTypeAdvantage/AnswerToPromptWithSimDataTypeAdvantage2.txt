@@ -1,0 +1,30 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) significantly outperforms the other units in both offense and defense. His high chance of evading attacks, combined with additional defensive boosts from evasion and a strong revive mechanic, make him an overwhelming presence. His offense is further amplified by the high chance of critical hits and medium chance for additional Super Attacks, leading to much higher damage output compared to the meta units. These factors allow him to dominate in simulations, especially with his 70% revival mechanic.
+
+Proposed Changes:
+
+    Passive Evasion Chance:
+    Current: Great chance to evade enemy attacks → Adjusted: Medium chance to evade enemy attacks.
+
+    Revival Mechanic:
+    Current: Revives with 70% HP when conditions are met (once only) → Adjusted: Revives with 50% HP when conditions are met (once only).
+
+    Additional Defensive Boost:
+    Current: Additional DEF +30% within the same turn after evading an attack → Adjusted: Additional DEF +20% within the same turn after evading an attack.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	22,085
+Attack	20,700	20,700	21,120
+Defense	14,525	14,525	12,600
+Super Attack	Colossal (high chance crit)	Colossal (medium chance crit)	Colossal (medium crit)
+Ultra Super Attack	Mega-Colossal (high chance crit)	Mega-Colossal (medium chance crit)	Mega-Colossal (medium crit)
+Passive (Evasion)	Great chance of evading	Medium chance of evading	Medium chance
+Passive (DEF Boost)	DEF +30% after evasion	DEF +20% after evasion	None
+Revival (HP)	70% HP (once only)	50% HP (once only)	50% HP (once only)
+Additional Super Attack	Medium chance of launching	Medium chance of launching	Medium chance
+Viability Check:
+
+After the nerfs, Goku (Ultra Instinct) retains his strong offensive potential but becomes more balanced in terms of defense and survivability, aligning closer to other high-tier meta units without dominating.

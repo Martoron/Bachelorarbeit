@@ -1,0 +1,30 @@
+RNG Seed: 62
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,5,0,475095 (100%),144443,43355557 (100%)
+1,12009,Gohan (Teen),2,27795,447300 (94%),1413238,41942319 (96%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,66,447234 (94%),280368,41661951 (96%)
+2,12031,Goku (Ultra Instinct),3,0,447234 (94%),2099754,39562197 (91%)
+2,11029,Masked Saiyan,3,238,446996 (94%),1771670,37790527 (87%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,119836,327160 (69%),3371883,34418644 (79%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,3,0,327160 (69%),18133,34400511 (79%)
+3,12009,Gohan (Teen),2,175,326985 (69%),1569333,32831178 (75%)
+3,12114,Super Saiyan 2 Gohan (Youth),3,148,326837 (69%),1558824,31272354 (72%)
+4,12031,Goku (Ultra Instinct),3,8567,318270 (67%),2493611,28778743 (66%)
+4,11029,Masked Saiyan,2,242,318028 (67%),1851825,26926918 (62%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,209,317819 (67%),3022354,23904564 (55%)
+5,11971,Caulifla,3,0,317819 (67%),166747,23737817 (55%)
+5,12009,Gohan (Teen),3,208,317611 (67%),1708863,22028954 (51%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,44292,273319 (58%),4033003,17995951 (41%)
+6,12031,Goku (Ultra Instinct),3,38762,234557 (49%),981669,17014282 (39%)
+6,11029,Masked Saiyan,3,43740,190817 (40%),215087,16799195 (39%)
+6,12114,Super Saiyan 2 Gohan (Youth),2,86972,103845 (22%),834116,15965079 (37%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,4,0,103845 (22%),25981,15939098 (37%)
+7,12009,Gohan (Teen),0,0,103845 (22%),1843457,14095641 (32%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,179264,0 (0%),5288600,8807041 (20%)
+Result:,Team defeated
+
+Average damage received per turn:,78644.86
+Average damage dealt per turn:,4956137.00

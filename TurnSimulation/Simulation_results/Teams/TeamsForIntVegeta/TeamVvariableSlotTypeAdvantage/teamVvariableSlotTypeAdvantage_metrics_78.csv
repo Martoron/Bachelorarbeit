@@ -1,0 +1,31 @@
+RNG Seed: 120
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,5,0,460496 (100%),137948,43362052 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,195,460301 (100%),2639585,40722467 (94%)
+1,12114,Super Saiyan 2 Gohan (Youth),1,86,460215 (100%),5232507,35489960 (82%)
+2,11751,Gohan (Kid),2,48518,411697 (89%),771917,34718043 (80%)
+2,12034,Super Saiyan God SS Evolved Vegeta,3,189,411508 (89%),3515729,31202314 (72%)
+2,12009,Gohan (Teen),3,319,411189 (89%),1357128,29845186 (69%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,3,0,411189 (89%),160082,29685104 (68%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,103898,307291 (67%),2556827,27128277 (62%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,22712,284579 (62%),3145811,23982466 (55%)
+4,11751,Gohan (Kid),0,0,284579 (62%),768065,23214401 (53%)
+4,12034,Super Saiyan God SS Evolved Vegeta,4,212,284367 (62%),2912241,20302160 (47%)
+4,12114,Super Saiyan 2 Gohan (Youth),4,103441,180926 (39%),1370691,18931469 (44%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11971,Caulifla,5,0,180926 (39%),25922,18905547 (43%)
+5,12009,Gohan (Teen),1,61819,119107 (26%),1563426,17342121 (40%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,968,118139 (26%),7957638,9384483 (22%)
+6,11751,Gohan (Kid),heal,heal,460496 (100%),heal,heal
+6,11751,Gohan (Kid),3,0,460496 (100%),1723510,7660973 (18%)
+6,12034,Super Saiyan God SS Evolved Vegeta,3,111,460385 (100%),4035609,3625364 (8%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,67321,393064 (85%),2938802,686562 (2%)
+7,11971,Caulifla,4,0,393064 (85%),25556,661006 (2%)
+7,12009,Gohan (Teen),0,0,393064 (85%),1735301,0 (0%)
+7,12114,Super Saiyan 2 Gohan (Youth),0,0,393064 (85%),0,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,9633.14
+Average damage dealt per turn:,6367756.43

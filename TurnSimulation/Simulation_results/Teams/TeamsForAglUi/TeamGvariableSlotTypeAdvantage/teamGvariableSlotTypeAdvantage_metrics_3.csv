@@ -1,0 +1,29 @@
+RNG Seed: 45
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12031,Goku (Ultra Instinct),2,117,454087 (100%),229468,43270532 (99%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,129448,324639 (71%),3996138,39274394 (90%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,11917,312722 (69%),2566038,36708356 (84%)
+2,11971,Caulifla,4,0,312722 (69%),125823,36582533 (84%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,104674,208048 (46%),1104135,35478398 (82%)
+2,11751,Gohan (Kid),2,40997,167051 (37%),567035,34911363 (80%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,12031,Goku (Ultra Instinct),5,199,166852 (37%),9308668,25602695 (59%)
+3,12009,Gohan (Teen),2,211,166641 (37%),174131,25428564 (58%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,80460,86181 (19%),4827132,20601432 (47%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,5,0,86181 (19%),157360,20444072 (47%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,192,85989 (19%),5092666,15351406 (35%)
+4,12114,Super Saiyan 2 Gohan (Youth),0,0,85989 (19%),3174591,12176815 (28%)
+5,11751,Gohan (Kid),heal,heal,454204 (100%),heal,heal
+5,11751,Gohan (Kid),6,62911,391293 (86%),1741061,10435754 (24%)
+5,12031,Goku (Ultra Instinct),2,30,391263 (86%),6205553,4230201 (10%)
+5,12009,Gohan (Teen),0,0,391263 (86%),1368102,2862099 (7%)
+6,11971,Caulifla,4,0,391263 (86%),24107,2837992 (7%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,391263 (86%),2996342,0 (0%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,391263 (86%),0,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,10490.17
+Average damage dealt per turn:,7276391.67

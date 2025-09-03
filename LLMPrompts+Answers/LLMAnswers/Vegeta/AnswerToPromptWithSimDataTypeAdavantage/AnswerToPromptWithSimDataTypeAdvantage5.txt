@@ -1,0 +1,14 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: This unit significantly outperforms meta counterparts due to a stacked damage reduction mechanic that can reach 40% total per turn (10% base + up to 30% stacked), plus a revive with 70% HP condition that triggers reliably under standard conditions. His ATK & DEF boost of +150% is on the high end relative to other meta units, enhancing his overall survivability and damage output beyond typical bounds.
+
+Proposed Changes:
+Damage reduction stacking: 10% base + up to 30% stacked → 10% base + up to 20% stacked (reduces max total damage reduction from 40% to 30%)
+Revive HP recovery: 70% → 50% (reduces the sustainability of the revive effect)
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Damage Reduction	10% base + up to 30% stacked	10% base + up to 20% stacked	~30% (e.g. Super Vegito 30%)
+Revive HP Recovery	70%	50%	Typically 50% or less
+ATK & DEF Boost	+150%	+150% (unchanged)	120-150%
+Viability Check:
+The unit remains a top-tier fighter with strong damage and survivability but loses excessive damage mitigation and a highly sustaining revive, reducing his dominance while keeping him competitive.

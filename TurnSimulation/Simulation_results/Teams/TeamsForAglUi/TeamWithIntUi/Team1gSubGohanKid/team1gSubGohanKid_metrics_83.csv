@@ -1,0 +1,29 @@
+RNG Seed: 125
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12009,Gohan (Teen),5,65883,411566 (86%),533688,42966312 (99%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,177,411389 (86%),3296642,39669670 (91%)
+1,11354,Goku (Ultra Instinct -Sign-),0,0,411389 (86%),987702,38681968 (89%)
+2,11971,Caulifla,3,0,411389 (86%),4724,38677244 (89%)
+2,12031,Goku (Ultra Instinct),3,0,411389 (86%),1005887,37671357 (87%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,139,411250 (86%),1249421,36421936 (84%)
+3,Item,used,for,40,percent,damage,reduction
+3,12009,Gohan (Teen),2,62,411188 (86%),599319,35822617 (82%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,176,411012 (86%),2750000,33072617 (76%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,103956,307056 (64%),287280,32785337 (75%)
+4,11971,Caulifla,4,0,307056 (64%),15683,32769654 (75%)
+4,12031,Goku (Ultra Instinct),0,0,307056 (64%),860564,31909090 (73%)
+4,11354,Goku (Ultra Instinct -Sign-),4,230586,76470 (16%),1252375,30656715 (70%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,12009,Gohan (Teen),7,587,75883 (16%),250752,30405963 (70%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,75883 (16%),2516151,27889812 (64%)
+5,12114,Super Saiyan 2 Gohan (Youth),1,120,75763 (16%),3666353,24223459 (56%)
+6,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11971,Caulifla,1,0,75763 (16%),161405,24062054 (55%)
+6,12031,Goku (Ultra Instinct),3,0,75763 (16%),2969920,21092134 (48%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,85167,0 (0%),6172855,14919279 (34%)
+Result:,Team defeated
+
+Average damage received per turn:,81142.17
+Average damage dealt per turn:,4763453.50

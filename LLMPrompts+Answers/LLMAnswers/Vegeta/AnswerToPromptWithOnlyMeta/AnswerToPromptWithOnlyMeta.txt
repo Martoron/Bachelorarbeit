@@ -1,0 +1,18 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+SSGSS Evolved Vegeta significantly overperforms due to excessive effective damage mitigation stacking (up to 40% total), high DEF stat (15,719)—the highest among all units—and a crit chance baked into both Super Attacks with no preconditions. Additionally, his revival mechanic triggers more reliably than meta standards, creating a survivability loop that exceeds other units.
+Proposed Changes:
+
+    Damage Reduction Cap: Adjust cumulative damage reduction from 10% base + 30% stacked → to 5% base + 20% stacked (max 25%).
+
+    Critical Hit Chance on Super Attacks: Change High Chance (50%) → to Medium Chance (30%).
+
+Meta Comparison Table
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+DEF	15,719	—	13,192
+Damage Reduction	10% + 10% per hit (30% max)	5% + 10% per hit (20% max)	30% flat (best-case, Goku & Vegeta)
+Crit Chance (per Super Attack)	High Chance (50%)	Medium Chance (30%)	Medium to High (conditional)
+Viability Check:
+
+Post-nerf, Vegeta retains strong tanking and offensive performance through scaling mechanics, but no longer dominates in both survivability and burst without condition, bringing him in line with top-tier meta units.

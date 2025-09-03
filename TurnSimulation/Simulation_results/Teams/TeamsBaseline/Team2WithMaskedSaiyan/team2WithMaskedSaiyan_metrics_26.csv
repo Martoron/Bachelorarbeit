@@ -1,0 +1,31 @@
+RNG Seed: 68
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,438170 (100%),143499,43356501 (100%)
+1,12009,Gohan (Teen),2,157,438013 (100%),1401931,41954570 (96%)
+1,11751,Gohan (Kid),4,67892,370121 (84%),697122,41257448 (95%)
+2,11029,Masked Saiyan,3,19289,350832 (80%),1709685,39547763 (91%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,94,350738 (80%),336832,39210931 (90%)
+2,12114,Super Saiyan 2 Gohan (Youth),4,51822,298916 (68%),3436903,35774028 (82%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,3,0,298916 (68%),168736,35605292 (82%)
+3,12009,Gohan (Teen),3,247,298669 (68%),1564413,34040879 (78%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,103013,195656 (45%),2290691,31750188 (73%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11751,Gohan (Kid),3,21733,173923 (40%),173306,31576882 (73%)
+4,11029,Masked Saiyan,3,164,173759 (40%),2317179,29259703 (67%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,94794,78965 (18%),6840100,22419603 (52%)
+5,11971,Caulifla,8,0,78965 (18%),178883,22240720 (51%)
+5,12009,Gohan (Teen),0,0,78965 (18%),190723,22049997 (51%)
+5,12114,Super Saiyan 2 Gohan (Youth),0,0,78965 (18%),2224309,19825688 (46%)
+6,11751,Gohan (Kid),heal,heal,438170 (100%),heal,heal
+6,11751,Gohan (Kid),4,125238,312932 (71%),2226126,17599562 (40%)
+6,11029,Masked Saiyan,2,151815,161117 (37%),1950807,15648755 (36%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,68946,92171 (21%),1097734,14551021 (33%)
+7,11971,Caulifla,5,0,92171 (21%),26182,14524839 (33%)
+7,12009,Gohan (Teen),2,98,92073 (21%),1734465,12790374 (29%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,181030,0 (0%),3066048,9724326 (22%)
+Result:,Team defeated
+
+Average damage received per turn:,75303.86
+Average damage dealt per turn:,4825096.29

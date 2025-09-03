@@ -1,0 +1,59 @@
+Imbalances Analysis: Goku (Ultra Instinct) vs Meta Units
+
+From the dataset, Goku (Ultra Instinct) stands out as overpowered compared to the other top-tier meta units. Here's an overview of the main issues, followed by specific rebalancing suggestions.
+Main Imbalances
+
+    Passive Defense Buff (150%):
+
+        Goku (Ultra Instinct) has a huge defensive boost of ATK & DEF +150%, which is significantly higher than other meta units' passives, which generally range from 70% to 120%. This gives him both an unusually high offensive and defensive ceiling.
+
+    Evasion Mechanic:
+
+        The passive mentions a great chance of evading attacks (including Super Attacks) without a clear limitation, unlike other units which may have "high" or "medium" chances or specific conditions.
+
+        Combined with the DEF +30% boost after evading, this makes Goku almost invulnerable for several turns, especially with his revival mechanic.
+
+    Ki Generation:
+
+        Goku's ability to gain Ki after evading each attack (up to +5 Ki) allows him to continuously chain attacks, making him even harder to stop or outpace in terms of damage output.
+
+    Revival Mechanic:
+
+        The revival with 70% HP when KO'd or when an ally is KO'd is a huge advantage that most units don't have. It allows him to survive through otherwise lethal situations, adding another layer of power that feels unbalanced.
+
+    Ultra Super Attack (High Critical Chance):
+
+        The high critical hit chance on both his super and ultra super attacks, combined with the possibility of a high chance of launching an additional super attack, makes him deal an absurd amount of damage consistently.
+
+Suggested Rebalancing
+
+To make Goku (Ultra Instinct) viable but fair, we should adjust his defensive power, evasion mechanic, and revival condition. Here’s a more balanced version:
+Attribute	Current Goku (UI)	Meta Average	Rebalanced Goku (UI)
+HP	22,350	21,713 – 25,300	22,350
+Attack	20,700	19,975 – 22,630	20,700
+Defense	14,525	11,175 – 14,338	13,000
+Passive ATK & DEF Buff	+150%	+70% – +120%	+120%
+Evasion Chance	Great chance (evade Super Attacks)	High chance	Medium chance (evade normal & Super Attacks)
+Ki Generation	+1 Ki per evaded attack (up to +5)	Ki +1 per Sphere	Ki +1 per evaded attack (up to +3)
+Additional Effects	+30% DEF after evading; Medium chance to launch additional Super Attack	Launch additional Super Attack	+20% DEF after evading; Medium chance to launch additional Super Attack
+Revival Mechanic	Revives with 70% HP (once)	N/A	No revival mechanic
+Active Skill	Greatly raises ATK temporarily and causes ultimate damage	Same	Same
+Changes Explained
+
+    Passive ATK & DEF: Reduced from 150% to 120% to bring it closer to other top-tier units like Goku & Vegeta (Angel), Gogeta, and others, without making him too underwhelming.
+
+    Evasion Mechanic:
+
+        Instead of a "great chance" to evade all attacks, reduce it to a "medium chance" of evading both normal and Super Attacks, ensuring he is still evasive but not overly so.
+
+        Limit Ki generation to +3 Ki (up to 3) instead of the current +5 to avoid constant chain attacks that make him too dominant.
+
+    Additional DEF Boost: Reduce the additional DEF +30% after evading an attack to +20%. This maintains Goku’s defensive power, but makes it more reasonable, aligning it with other units’ defensive traits.
+
+    Revival Mechanic: Remove the revival mechanic entirely. While interesting, this introduces too much sustainability and unfairly impacts the pacing of battle. Players should rely on defensive stats and evasion instead of revival to recover from damage.
+
+    Critical Hit Chance: Keep the high critical chance but slightly reduce the consistency of additional Super Attacks from medium chance to low chance, making his damage output a bit more balanced.
+
+Conclusion
+
+With these adjustments, Goku (Ultra Instinct) would remain a top-tier unit, but he wouldn’t have overwhelming defensive power or constant offense, especially with the added risk of removing his revival mechanic and limiting his evasiveness and Ki generation. This would balance his viability while making him feel more fair compared to the other meta units.

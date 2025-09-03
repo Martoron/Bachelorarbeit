@@ -1,0 +1,25 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) is significantly overpowered due to its combination of high evasion, revival ability, and the consistently strong offensive capabilities. The high chance of evading attacks, especially Super Attacks, combined with a revival mechanic and an additional Super Attack, pushes his performance far beyond that of the other meta units. This creates a statistical outlier in terms of durability and offensive potential, making him too dominant.
+
+Proposed Changes:
+
+    Evasion: Great chance → High chance (to reduce his near-immunity to damage)
+
+    Revival: Revive condition triggered after receiving 3 attacks → Revive condition triggered after receiving 4 attacks (making the revival more situational)
+
+    Attack Boosts: ATK & DEF +150% → ATK & DEF +130% (slightly reduce his overall power to balance the offense)
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	23,513
+Attack	20,700	20,700	21,188
+Defense	14,525	14,525	13,638
+Super Attack	Colossal damage; high chance of crit	Colossal damage; high chance of crit	Colossal damage
+Ultra Super Attack	Mega-colossal damage; high chance of crit	Mega-colossal damage; high chance of crit	Mega-colossal damage
+Passive	ATK & DEF +150%; great chance of evasion; Ki +1 per evaded attack; additional DEF +30% after evading; medium chance for additional Super Attack; revival at 3 attacks	ATK & DEF +130%; high chance of evasion; Ki +1 per evaded attack; additional DEF +30% after evading; medium chance for additional Super Attack; revival at 4 attacks	Varies (generally 70–120% ATK & DEF, with different utility)
+Active Skill	Greatly raises ATK; ultimate damage	Greatly raises ATK; ultimate damage	Greatly raises ATK
+
+Viability Check:
+Post-nerf, Goku (Ultra Instinct) remains a strong unit, but with slightly reduced tankiness and offensive power. His utility is still top-tier, and he maintains his place in competitive teams without overwhelming other units.

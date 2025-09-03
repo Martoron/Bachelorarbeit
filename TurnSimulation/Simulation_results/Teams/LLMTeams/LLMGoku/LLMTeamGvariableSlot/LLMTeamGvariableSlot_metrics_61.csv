@@ -1,0 +1,29 @@
+RNG Seed: 103
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12031,Goku (Ultra Instinct),4,227227,226977 (50%),452452,43047548 (99%)
+1,12009,Gohan (Teen),1,114,226863 (50%),1336998,41710550 (96%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,255,226608 (50%),883672,40826878 (94%)
+2,11971,Caulifla,4,0,226608 (50%),1421,40825457 (94%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,77,226531 (50%),2230276,38595181 (89%)
+2,11751,Gohan (Kid),2,149443,77088 (17%),565195,38029986 (87%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,12031,Goku (Ultra Instinct),3,46926,30162 (7%),2793239,35236747 (81%)
+3,12009,Gohan (Teen),3,173,29989 (7%),1498214,33738533 (78%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,96,29893 (7%),3920833,29817700 (69%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,6,0,29893 (7%),149317,29668383 (68%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,177,29716 (7%),3207610,26460773 (61%)
+4,12114,Super Saiyan 2 Gohan (Youth),0,0,29716 (7%),3014341,23446432 (54%)
+5,11751,Gohan (Kid),heal,heal,454204 (100%),heal,heal
+5,11751,Gohan (Kid),3,124749,329455 (73%),297462,23148970 (53%)
+5,12031,Goku (Ultra Instinct),4,73846,255609 (56%),1710555,21438415 (49%)
+5,12009,Gohan (Teen),1,90,255519 (56%),1630293,19808122 (46%)
+6,11971,Caulifla,3,0,255519 (56%),159471,19648651 (45%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,97579,157940 (35%),4720668,14927983 (34%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,206558,0 (0%),4389653,10538330 (24%)
+Result:,Team defeated
+
+Average damage received per turn:,83803.67
+Average damage dealt per turn:,5493611.67

@@ -1,0 +1,30 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) stands out as significantly overpowered due to a combination of high evasion, critical hit chances, and powerful revival mechanics. The unit's evasion and revival combined with immense offensive damage potential make it outclass most other units, skewing overall team performance and making it an excessive contributor to damage output while also providing near invincibility in certain conditions.
+
+Proposed Changes:
+
+    Passive Ability (Evasion) Adjustment:
+
+        Current: Great chance (4) of evading enemy's attack (including Super Attack).
+
+        Adjusted: Medium chance (2) of evading enemy's attack (including Super Attack).
+
+    Passive Ability (Defense Boost after Evasion) Adjustment:
+
+        Current: Additional DEF +30% within the same turn after evading an attack.
+
+        Adjusted: Additional DEF +15% within the same turn after evading an attack.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Super Attack	Colossal damage, high chance of critical hit	Colossal damage, medium chance of critical hit	Similar damage potential but less guaranteed output
+Ultra Super Attack	Mega-colossal damage, high chance of critical hit	Mega-colossal damage, medium chance of critical hit	High damage but less frequent critical hits
+Passive (ATK/DEF)	ATK & DEF +150%	ATK & DEF +150%	Similar to meta
+Passive (Evasion)	Great chance to evade enemy's attack	Medium chance to evade enemy's attack	Meta units often have evasion or defense bonuses but at lower rates
+Passive (Defense after Evasion)	Additional DEF +30%	Additional DEF +15%	Other units have moderate defense boosts but not combined with evasion
+Revive Mechanic	Revives with 70% HP when KO'd	Revives with 50% HP when KO'd	Revives are rare, so this remains unique
+
+Viability Check:
+With these adjustments, Goku (Ultra Instinct) retains its viability as a strong offensive unit with reasonable survivability, but it will no longer dominate through excessive evasion and defense boosts. This makes the unit more balanced while still performing well in most scenarios.

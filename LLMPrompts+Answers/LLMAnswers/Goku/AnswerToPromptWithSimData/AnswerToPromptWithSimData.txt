@@ -1,0 +1,25 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) currently has an overwhelming combination of evasion, offensive power, and self-sustain, creating a massive advantage over the other units in the team. His ability to evade, along with a high chance of performing critical hits and his revival mechanic, makes him disproportionately impactful compared to other meta units.
+
+Proposed Changes:
+
+    Evasion: Reduce the great chance of evading enemy's attack to a medium chance.
+
+    Revival: Adjust the revive mechanic to only trigger if HP is 30% or less, rather than 50%. This will limit his sustain while keeping him viable.
+
+Meta Comparison Table
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22350	22350	22980
+Attack	20700	20700	21070
+Defense	14525	14525	13700
+Super Attack	Colossal damage; high chance of crit	Colossal damage; high chance of crit	Colossal damage
+Ultra Super Attack	Mega-colossal damage; high chance of crit	Mega-colossal damage; high chance of crit	Mega-colossal damage
+Passive	ATK & DEF +150%; great chance of evading	ATK & DEF +150%; medium chance of evading	ATK & DEF +120–150%
+Evasion	Great chance to evade (including Super)	Medium chance to evade (including Super)	Medium to high chance of evading
+Additional Super Attack	Medium chance to launch an additional SA	Medium chance to launch an additional SA	Medium chance to launch an SA
+Revival	Revives with 70% HP if KO’d or an ally is	Revives with 70% HP if HP is 30% or less and KO’d or an ally is KO’d	No revival
+Viability Check:
+
+Post-nerf, Goku (Ultra Instinct) will still remain highly effective with his substantial ATK/DEF boost, but the changes to his evasion and revival mechanics will prevent him from being a one-man army and will bring him closer to the performance of other high-tier units. He will remain viable in most scenarios but with a more balanced role.

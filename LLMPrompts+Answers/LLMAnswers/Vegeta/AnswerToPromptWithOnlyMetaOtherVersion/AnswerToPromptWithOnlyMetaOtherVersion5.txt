@@ -1,0 +1,125 @@
+Thanks for the detailed dataset. Let's evaluate the balance of "Super Saiyan God SS Evolved Vegeta", compare him to the current top-tier meta units, and determine why he's considered overpowered (OP). We'll follow this structure:
+🔍 Key Areas of Analysis
+
+We’ll focus on:
+
+    Stats (HP, ATK, DEF)
+
+    Passives and Damage Reduction
+
+    Crit and Additional Attack Potential
+
+    Revival Condition
+
+    Comparative Table
+
+    Recommended Nerfs / Rebalancing
+
+📊 1. Base Stat Comparison
+Unit	HP	ATK	DEF
+SSGSS Evolved Vegeta (OP)	21,688	19,850	15,719
+Gogeta	24,025	22,630	11,175
+Goku & Vegeta (Angel)	25,300	21,650	11,600
+Majin Buu (Gotenks)	25,063	19,975	14,256
+SS2 Gohan (Youth)	21,713	21,780	13,594
+Jiren (Full Power)	20,863	21,525	14,338
+Meta Average	23,160	21,602	13,327
+Difference (OP vs Avg)	-1,472	-1,752	+2,392
+
+📌 Observation:
+
+    Vegeta's DEF is the highest by a notable margin (+18% above meta average).
+
+    Slightly lower HP/ATK, but compensated by superior defense and damage mitigation.
+
+⚔️ 2. Passive Skill Breakdown
+
+SSGSS Evolved Vegeta Passive:
+
+    ATK & DEF +150%
+
+    10% Damage Reduction (DR)
+
+    +10% more DR per hit taken (max 30%)
+
+    Ki +1 per attack (up to +5)
+
+    Medium chance of additional super
+
+    Revives with 70% HP if:
+
+        HP ≤ 50% and
+
+        Character received 7+ attacks and
+
+        A unit dies in the same turn
+
+📌 Total Mitigation (after 3 hits):
+
+    40% Damage Reduction
+
+    15719 DEF * 150% passive buff = 39,297 base DEF
+
+        With 40% DR, he becomes absurdly tanky even against red-zone bosses.
+
+💥 3. Crit & Additional Attack Potential
+Unit	Built-in Crit	Additional Super	Notes
+SSGSS Evolved Vegeta	High chance (50%) from both SA and Ultra SA	Medium chance (30%)	Can stack crits
+Gogeta	No crit	Medium chance (30%)	Evasion options
+Goku & Vegeta (Angel)	Medium chance (30%)	Medium chance (30%)	Crit after transform
+Majin Buu	None	Medium chance (30%)	Heals instead
+SS2 Gohan	Conditional guaranteed crit	Medium chance (30%)	Based on team & HP
+Jiren	Crit when enemy is stunned	None	Situation-based
+
+📌 Observation:
+
+    Vegeta essentially has a built-in 50% crit chance for both Supers every turn (stacked).
+
+    His crit chance is passive-safe and easy to activate, unlike conditional crits for others.
+
+🛡️ 4. Revival Mechanic
+
+Trigger:
+
+    After 7 attacks received
+
+    HP ≤ 50%
+
+    Someone on rotation dies
+
+Effect:
+
+    Revives with 70% HP — tied for best revive in the game.
+
+📌 Issue: Too reliable and forgiving. Once the setup is done, he gives the team a second life and remains highly durable himself.
+⚠️ 5. Summary of Issues
+Category	Issue
+DEF	Highest among meta; combined with 40% DR = over-tanking
+Crit Chance	Built-in high chance on both SAs is unmatched
+Revival	Too easy to activate, especially in long events
+Versatility	Consistent crits, tanking, and healing make him shine in all modes
+Synergy	Gains Ki easily, meaning Ultra Supers and crits happen very often
+✅ 6. Suggested Rebalance for Fairness
+
+We’ll tone him down slightly, not gut him.
+🛠 Recommended Changes:
+Aspect	Current	Suggested	Reason
+DEF Boost	+150%	🔽 +120%	Still strong, but reduces tankiness margin
+Damage Reduction	10% base, +10%/hit (up to 30%)	➡️ 10% base, +5%/hit (max 25%)	Caps at 35% DR instead of 40%
+Crit Chance (SA)	High chance (50%) on both Supers	🔽 Medium chance (30%) on Super only	Less crit-stacking abuse
+Revive Condition	7 hits taken, HP ≤50%, KO in rotation	➡️ 9 hits taken, HP ≤40%, KO in turn	Harder setup for a powerful revive
+✅ Final Verdict: Rebalanced but Still Meta
+
+After adjustments, Vegeta still:
+
+    Has strong defense and some DR
+
+    Can crit reliably on occasion
+
+    Offers revival (but harder to trigger)
+
+    Remains top-tier in Red Zone and difficult content
+
+He becomes less of a solo carry but maintains his meta value, especially in longer events.
+
+Let me know if you'd like visual charts or an adjusted unit description text!

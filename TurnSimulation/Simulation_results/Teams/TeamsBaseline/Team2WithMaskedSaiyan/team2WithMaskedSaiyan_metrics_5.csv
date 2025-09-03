@@ -1,0 +1,31 @@
+RNG Seed: 47
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),1,23866,414304 (95%),745003,42754997 (98%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,104703,309601 (71%),4181997,38573000 (89%)
+1,12114,Super Saiyan 2 Gohan (Youth),4,45830,263771 (60%),126123,38446877 (88%)
+2,11971,Caulifla,3,0,263771 (60%),6552,38440325 (88%)
+2,11029,Masked Saiyan,4,323,263448 (60%),1931366,36508959 (84%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,5086,258362 (59%),2096636,34412323 (79%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,11751,Gohan (Kid),5,131113,127249 (29%),123798,34288525 (79%)
+3,12009,Gohan (Teen),1,52,127197 (29%),1394118,32894407 (76%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,244,126953 (29%),5045980,27848427 (64%)
+4,11971,Caulifla,4,0,126953 (29%),14837,27833590 (64%)
+4,11029,Masked Saiyan,2,139,126814 (29%),2114593,25718997 (59%)
+4,12114,Super Saiyan 2 Gohan (Youth),2,91464,35350 (8%),2341719,23377278 (54%)
+5,11751,Gohan (Kid),heal,heal,438170 (100%),heal,heal
+5,11751,Gohan (Kid),4,61706,376464 (86%),1831974,21545304 (50%)
+5,12009,Gohan (Teen),2,179,376285 (86%),1589691,19955613 (46%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,43017,333268 (76%),2321950,17633663 (41%)
+6,11971,Caulifla,2,0,333268 (76%),26647,17607016 (40%)
+6,11029,Masked Saiyan,3,284,332984 (76%),2079831,15527185 (36%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,56771,276213 (63%),2029891,13497294 (31%)
+7,11751,Gohan (Kid),2,299304,0 (0%),0,13497294 (31%)
+7,12009,Gohan (Teen),0,0,0 (0%),0,13497294 (31%)
+7,12114,Super Saiyan 2 Gohan (Youth),0,0,0 (0%),0,13497294 (31%)
+Result:,Team defeated
+
+Average damage received per turn:,65894.43
+Average damage dealt per turn:,4286100.86

@@ -1,0 +1,28 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) significantly outperforms the other meta units due to his very high evasion, offensive scaling, and the combination of critical hit chances and revive ability, allowing him to both tank and deal enormous amounts of damage with minimal risk. His passive provides both defensive and offensive benefits, creating a near-perfect balance that leaves other units at a disadvantage.
+
+Proposed Changes:
+
+    Passive Skill:
+
+        Current: "ATK & DEF +150%; great chance[4] of evading enemy's attack (including Super Attack); Ki +1 (up to +5) with each attack evaded (including Super Attack); plus an additional DEF +30% within the same turn after evading an attack; medium chance[5] of launching an additional Super Attack; if HP is 50% or less at start of character's attacking turn after the character receives attack 3 or more times in battle, revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)"
+
+        Adjusted: "ATK & DEF +140%; high chance[5] of evading enemy's attack (including Super Attack); Ki +1 (up to +5) with each attack evaded (including Super Attack); plus an additional DEF +20% within the same turn after evading an attack; medium chance[5] of launching an additional Super Attack; if HP is 50% or less at start of character's attacking turn after the character receives attack 3 or more times in battle, revives with 50% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)"
+
+    Super Attack:
+
+        Current: "Causes colossal damage to enemy; high chance of performing a critical hit for 1 turn."
+
+        Adjusted: "Causes colossal damage to enemy; medium chance of performing a critical hit for 1 turn."
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+ATK & DEF (Passive)	ATK & DEF +150%	ATK & DEF +140%	120% - 150% (range across meta)
+Evasion (Chance)	Great chance (4)	High chance (5)	35-50% (typically 3-5)
+Critical Hit (Super Attack)	High chance (Critical Hit for 1 turn)	Medium chance (Critical Hit for 1 turn)	25-35%
+Revive	Revives with 70% HP (once only)	Revives with 50% HP (once only)	No revival mechanics in most meta units
+Super Attack Damage	Colossal damage (Mega-Colossal for Ultra)	Colossal damage (Mega-Colossal for Ultra)	Meta units range from Colossal to Mega-Colossal
+Viability Check:
+Post-nerf, Goku (Ultra Instinct) remains a top-tier unit with exceptional evasion and damage output, though he will no longer overshadow the team as much. The reduction in his revive amount and critical hit chance balances his performance while retaining his key strengths.

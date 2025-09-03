@@ -1,0 +1,29 @@
+RNG Seed: 68
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,481387 (100%),7924,43492076 (100%)
+1,12034,Super Saiyan God SS Evolved Vegeta,2,110,481277 (100%),2424623,41067453 (94%)
+1,12009,Gohan (Teen),4,199,481078 (100%),1354148,39713305 (91%)
+2,11029,Masked Saiyan,5,27909,453169 (94%),1718372,37994933 (87%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,104500,348669 (72%),1755939,36238994 (83%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,85,348584 (72%),3134115,33104879 (76%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,2,0,348584 (72%),176130,32928749 (76%)
+3,12034,Super Saiyan God SS Evolved Vegeta,2,118,348466 (72%),958889,31969860 (73%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,132126,216340 (45%),3678626,28291234 (65%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,12009,Gohan (Teen),4,324,216016 (45%),99845,28191389 (65%)
+4,11029,Masked Saiyan,2,44,215972 (45%),1843915,26347474 (61%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,96092,119880 (25%),5146887,21200587 (49%)
+5,12034,Super Saiyan God SS Evolved Vegeta,active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11971,Caulifla,4,0,119880 (25%),192725,21007862 (48%)
+5,12034,Super Saiyan God SS Evolved Vegeta,2,144,119736 (25%),2154589,18853273 (43%)
+5,12114,Super Saiyan 2 Gohan (Youth),2,22460,97276 (20%),3376140,15477133 (36%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,12009,Gohan (Teen),2,100787,0 (0%),0,15477133 (36%)
+6,11029,Masked Saiyan,0,0,0 (0%),0,15477133 (36%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,0 (0%),2329098,13148035 (30%)
+Result:,Team defeated
+
+Average damage received per turn:,80816.33
+Average damage dealt per turn:,5058660.83

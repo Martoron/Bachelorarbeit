@@ -1,0 +1,16 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s damage output and survivability are significantly above meta norms due to stacking damage reduction each attack (up to 30%) combined with a 10% baseline damage reduction, plus a strong revive mechanic with 70% HP recovery. Additionally, the passive’s 150% ATK & DEF boost is on the higher end, contributing to excessive durability and damage potential.
+
+Proposed Changes:
+
+    Passive damage reduction stacking: 10% base + up to 30% stacking → 10% base + up to 20% stacking (max 30% → max 20%)
+
+    Revive HP recovery: 70% HP → 50% HP
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive Damage Reduction	10% + up to 30% stacking	10% + up to 20% stacking	~30% (Goku & Vegeta Angel)
+Revive HP Recovery	70% HP	50% HP	50% HP (Super Vegito, Majin Buu)
+Passive ATK & DEF Boost	+150%	+150% (unchanged)	120%-150% range
+Viability Check:
+The nerfs reduce survivability without gutting the unit’s power, preserving strong damage and revive utility while curbing dominance in prolonged fights.

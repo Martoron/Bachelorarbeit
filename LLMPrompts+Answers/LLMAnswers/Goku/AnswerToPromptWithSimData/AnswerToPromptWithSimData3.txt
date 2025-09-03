@@ -1,0 +1,34 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) exhibits a combination of extremely high damage output, evasion, and revival mechanics, making him a statistical outlier in terms of both offensive and defensive performance. His passive ability, particularly the evasion and revival mechanics, significantly increases his survivability and DPS, which is causing him to outshine other meta units.
+
+Proposed Changes:
+
+    Passive - Evasion:
+
+        Current: Great chance[4] of evading enemy's attack (including Super Attack).
+
+        Adjusted: High chance[5] of evading enemy's attack (including Super Attack).
+        Reason: A slight reduction in the evasion rate would still retain some of his core survivability but would not make him too elusive compared to other units in the meta.
+
+    Passive - Revival Condition:
+
+        Current: Revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only).
+
+        Adjusted: Revives with 50% HP recovered when the character or an ally attacking in the same turn is KO'd (once only).
+        Reason: Reducing the revival HP percentage would significantly reduce the impact of his revival mechanic without removing it completely. This would make him less dominant in prolonged battles while still offering the unique revival advantage.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22350	22350	24000
+Attack	20700	20700	21200
+Defense	14525	14525	14000
+Super Attack	Causes colossal damage; high chance of performing a critical hit for 1 turn	Causes colossal damage; high chance of performing a critical hit for 1 turn	N/A
+Ultra Super Attack	Causes mega-colossal damage; high chance of performing a critical hit for 1 turn	Causes mega-colossal damage; high chance of performing a critical hit for 1 turn	N/A
+Passive (Evasion)	Great chance of evading enemy's attack (including Super Attack)	High chance of evading enemy's attack (including Super Attack)	Medium chance[3]
+Passive (Ki Bonus)	Ki +1 (up to +5) with each attack evaded (including Super Attack)	Ki +1 (up to +5) with each attack evaded (including Super Attack)	+1 per attack evaded
+Revival	Revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd	Revives with 50% HP recovered when the character or an ally attacking in the same turn is KO'd	N/A
+Active Skill	Greatly raises ATK temporarily and causes ultimate damage	Greatly raises ATK temporarily and causes ultimate damage	N/A
+Viability Check:
+After the nerf, Goku (Ultra Instinct) remains a powerful unit with strong damage output and some survivability mechanics, but will no longer dominate the battlefield with excessive evasion and revival, allowing for a more balanced team dynamic.

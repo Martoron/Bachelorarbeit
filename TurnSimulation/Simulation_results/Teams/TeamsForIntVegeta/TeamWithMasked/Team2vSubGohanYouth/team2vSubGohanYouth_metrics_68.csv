@@ -1,0 +1,33 @@
+RNG Seed: 110
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11029,Masked Saiyan,2,10025,436730 (98%),1697785,41802215 (96%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,11215,425515 (95%),2113802,39688413 (91%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,22800,402715 (90%),896548,38791865 (89%)
+2,11751,Gohan (Kid),2,23542,379173 (85%),768217,38023648 (87%)
+2,12034,Super Saiyan God SS Evolved Vegeta,3,164,379009 (85%),717410,37306238 (86%)
+2,12009,Gohan (Teen),3,208,378801 (85%),1364537,35941701 (83%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,3,0,378801 (85%),14969,35926732 (83%)
+3,11029,Masked Saiyan,2,68935,309866 (69%),2023385,33903347 (78%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,229,309637 (69%),1745591,32157756 (74%)
+4,11751,Gohan (Kid),4,0,309637 (69%),770771,31386985 (72%)
+4,12034,Super Saiyan God SS Evolved Vegeta,1,75,309562 (69%),1386306,30000679 (69%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,104913,204649 (46%),4260646,25740033 (59%)
+5,11971,Caulifla,5,0,204649 (46%),18495,25721538 (59%)
+5,12009,Gohan (Teen),1,27,204622 (46%),1568674,24152864 (56%)
+5,11029,Masked Saiyan,2,150681,53941 (12%),1943969,22208895 (51%)
+6,11751,Gohan (Kid),heal,heal,446755 (100%),heal,heal
+6,11751,Gohan (Kid),5,64648,382107 (86%),1742476,20466419 (47%)
+6,12034,Super Saiyan God SS Evolved Vegeta,1,11959,370148 (83%),1388279,19078140 (44%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,50240,319908 (72%),3852267,15225873 (35%)
+7,11971,Caulifla,5,0,319908 (72%),21133,15204740 (35%)
+7,12009,Gohan (Teen),0,0,319908 (72%),1728507,13476233 (31%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,28605,291303 (65%),3011158,10465075 (24%)
+8,11751,Gohan (Kid),2,0,291303 (65%),129336,10335739 (24%)
+8,12034,Super Saiyan God SS Evolved Vegeta,3,352597,0 (0%),811007,9524732 (22%)
+8,11029,Masked Saiyan,0,0,0 (0%),0,9524732 (22%)
+Result:,Team defeated
+
+Average damage received per turn:,63506.12
+Average damage dealt per turn:,4246908.50

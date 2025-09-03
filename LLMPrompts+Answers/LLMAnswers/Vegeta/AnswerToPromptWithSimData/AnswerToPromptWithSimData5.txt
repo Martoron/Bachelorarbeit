@@ -1,0 +1,17 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s passive provides an extremely high total damage reduction (up to 40% per turn) combined with a sizable 150% ATK & DEF boost, plus a powerful revive mechanic that triggers under relatively forgiving conditions, making it a defensive and offensive outlier compared to other meta units. His active skill causing mega-colossal damage to all enemies without a significant drawback also heavily skews team performance.
+
+Proposed Changes:
+
+    Passive Damage Reduction: reduces damage received by 10% + an additional 10% per attack received (up to 30%) → reduces damage received by 10% + an additional 5% per attack received (up to 20%)
+
+    Revive Trigger: HP ≤ 50% after 7+ attacks received → HP ≤ 40% after 9+ attacks received
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive ATK & DEF	+150%	+150% (unchanged)	~118%
+Damage Reduction	10% base + up to 30% (stacking per attack)	10% base + up to 20% (stacking per attack)	~20–30% (max)
+Revive Condition	HP ≤ 50%, 7+ attacks received, revives 70%	HP ≤ 40%, 9+ attacks received, revives 70%	No comparable revive mechanic
+Active Skill Damage	Mega-colossal damage to all enemies	Mega-colossal damage to all enemies	Usually colossal or multi-target but less common mega-colossal
+Viability Check:
+These adjustments retain Vegeta’s strong offensive presence and utility while significantly reducing his sustain and survivability, preventing dominance without making him unviable in meta teams.

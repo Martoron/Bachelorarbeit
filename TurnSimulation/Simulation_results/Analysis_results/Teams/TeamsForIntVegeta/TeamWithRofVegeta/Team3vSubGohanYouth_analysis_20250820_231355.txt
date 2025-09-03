@@ -1,0 +1,65 @@
+Analysis of Teams\TeamsForIntVegeta\TeamWithRofVegeta\Team3vSubGohanYouth dataset
+==========================================================================================
+Timestamp: 2025-08-20 23:13:55
+Total simulations analyzed: 100
+
+Battle Outcome Metrics:
+------------------------------------------------------------------------------------------
+Team defeated: 61 times (61.0%)
+Boss defeated: 39 times (39.0%)
+
+Special Actions Triggered:
+------------------------------------------------------------------------------------------
+Active Skill: 192 times
+Heal: 50 times (50.0% of simulations)
+Revive: 31 times (31.0% of simulations)
+Item Used: 200 times
+
+Weighted Averages (Total Damage/Total Turns):
+------------------------------------------------------------------------------------------
+Total turns: 800
+Avg damage received per turn: 88384.09
+Avg damage dealt per turn: 4237947.22
+
+Unweighted Averages (Per Simulation):
+------------------------------------------------------------------------------------------
+Avg turns per simulation: 8.0
+Avg damage received per simulation: 91031.79
+Avg damage dealt per simulation: 4190901.56
+
+Unit Offensive Performance:
+------------------------------------------------------------------------------------------
+Unit ID  | Unit Name            |  Avg Dmg/App |    Total Dmg |  Appearances
+------------------------------------------------------------------------------------------
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) |   2934861.78 | 830565885.00 |          283
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) |   2885375.76 | 828102844.00 |          287
+12034    | Super Saiyan God SS Evolved Vegeta |   1417527.88 | 548583288.00 |          387
+11879    | Super Saiyan God SS Vegeta |   1329268.40 | 418719547.00 |          315
+12009    | Gohan (Teen)         |   1293440.36 | 477279494.00 |          369
+11751    | Gohan (Kid)          |    689999.00 | 258059626.00 |          374
+11971    | Caulifla             |     75447.00 |  29047094.00 |          385
+
+Unit Defensive Performance:
+------------------------------------------------------------------------------------------
+Unit ID  | Unit Name            |    Dmg/Hit |   Hits/App |    Dmg/App |    Total Dmg |   Total Hits |  Appearances
+------------------------------------------------------------------------------------------
+11971    | Caulifla             |       0.00 |       3.98 |       0.00 |         0.00 |         1533 |          385
+12009    | Gohan (Teen)         |    3686.06 |       2.12 |    7831.63 |   2889872.00 |          784 |          369
+11879    | Super Saiyan God SS Vegeta |   10581.50 |       1.93 |   20423.97 |   6433549.00 |          608 |          315
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend) |   15206.82 |       1.69 |   25750.92 |   7390515.00 |          486 |          287
+12034    | Super Saiyan God SS Evolved Vegeta |   19471.62 |       1.97 |   38289.15 |  14817900.00 |          761 |          387
+11751    | Gohan (Kid)          |   20459.22 |       3.63 |   74178.36 |  27742707.00 |         1356 |          374
+11681    | Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid) |   22911.28 |       1.76 |   40398.33 |  11432727.00 |          499 |          283
+
+Metrics Interpretation Guide:
+------------------------------------------------------------------------------------------
+Offensive Metrics:
+Avg Dmg/App - Average damage dealt per appearance (higher = better)
+Total Dmg   - Total damage dealt across all appearances
+
+Defensive Metrics:
+Dmg/Hit     - Damage taken per hit (lower = better defense)
+Hits/App    - Hits taken per appearance (higher = more targeted)
+Dmg/App     - Damage taken per appearance
+Total Dmg   - Total damage taken across all appearances
+Total Hits  - Total hits taken across all appearances

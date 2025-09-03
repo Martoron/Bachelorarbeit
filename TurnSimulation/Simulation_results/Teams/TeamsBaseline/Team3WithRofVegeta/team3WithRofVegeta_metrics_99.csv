@@ -1,0 +1,30 @@
+RNG Seed: 141
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,4,0,432780 (100%),4491,43495509 (100%)
+1,12009,Gohan (Teen),2,104,432676 (100%),1402682,42092827 (97%)
+1,12114,Super Saiyan 2 Gohan (Youth),2,207,432469 (100%),3537740,38555087 (89%)
+2,11879,Super Saiyan God SS Vegeta,3,31227,401242 (93%),2059674,36495413 (84%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,11475,389767 (90%),3584887,32910526 (76%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,17826,371941 (86%),2202465,30708061 (71%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,5,0,371941 (86%),23762,30684299 (71%)
+3,12009,Gohan (Teen),2,110,371831 (86%),1564456,29119843 (67%)
+3,11751,Gohan (Kid),1,21996,349835 (81%),699172,28420671 (65%)
+4,11879,Super Saiyan God SS Vegeta,3,136,349699 (81%),2868973,25551698 (59%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,88107,261592 (60%),4954786,20596912 (47%)
+4,12114,Super Saiyan 2 Gohan (Youth),1,60,261532 (60%),2632410,17964502 (41%)
+5,11971,Caulifla,6,0,261532 (60%),25870,17938632 (41%)
+5,12009,Gohan (Teen),1,111,261421 (60%),1707648,16230984 (37%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,21946,239475 (55%),2858330,13372654 (31%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11751,Gohan (Kid),4,62485,176990 (41%),763678,12608976 (29%)
+6,11879,Super Saiyan God SS Vegeta,1,13367,163623 (38%),951048,11657928 (27%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,53418,110205 (25%),7543431,4114497 (9%)
+7,11971,Caulifla,4,0,110205 (25%),156303,3958194 (9%)
+7,12009,Gohan (Teen),1,59,110146 (25%),1875907,2082287 (5%)
+7,12114,Super Saiyan 2 Gohan (Youth),0,0,110146 (25%),2182442,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,46090.57
+Average damage dealt per turn:,6228593.57

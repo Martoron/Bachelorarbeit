@@ -1,0 +1,33 @@
+RNG Seed: 130
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,454204 (100%),142587,43357413 (100%)
+1,12009,Gohan (Teen),3,44707,409497 (90%),1411598,41945815 (96%)
+1,11751,Gohan (Kid),3,68334,341163 (75%),697769,41248046 (95%)
+2,12031,Goku (Ultra Instinct),3,0,341163 (75%),2786442,38461604 (88%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,179,340984 (75%),4461620,33999984 (78%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,149,340835 (75%),1382165,32617819 (75%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,5,0,340835 (75%),19580,32598239 (75%)
+3,12009,Gohan (Teen),2,82,340753 (75%),1548673,31049566 (71%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,111,340642 (75%),1289259,29760307 (68%)
+4,11751,Gohan (Kid),5,21578,319064 (70%),775343,28984964 (67%)
+4,12031,Goku (Ultra Instinct),2,0,319064 (70%),5005014,23979950 (55%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,70,318994 (70%),2891109,21088841 (48%)
+5,11971,Caulifla,2,0,318994 (70%),19732,21069109 (48%)
+5,12009,Gohan (Teen),2,95,318899 (70%),1703680,19365429 (45%)
+5,12114,Super Saiyan 2 Gohan (Youth),4,16360,302539 (67%),2231135,17134294 (39%)
+6,11751,Gohan (Kid),4,0,302539 (67%),773437,16360857 (38%)
+6,12031,Goku (Ultra Instinct),2,0,302539 (67%),6645558,9715299 (22%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,70949,231590 (51%),3125239,6590060 (15%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,6,0,231590 (51%),165280,6424780 (15%)
+7,12009,Gohan (Teen),0,0,231590 (51%),1841048,4583732 (11%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,638,230952 (51%),4376918,206814 (0%)
+8,11751,Gohan (Kid),1,0,230952 (51%),768333,0 (0%)
+8,12031,Goku (Ultra Instinct),0,0,230952 (51%),0,0 (0%)
+8,12114,Super Saiyan 2 Gohan (Youth),0,0,230952 (51%),0,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,27906.50
+Average damage dealt per turn:,5507689.88

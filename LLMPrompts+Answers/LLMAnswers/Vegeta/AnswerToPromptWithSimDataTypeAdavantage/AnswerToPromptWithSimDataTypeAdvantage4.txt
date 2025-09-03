@@ -1,0 +1,15 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+Super Saiyan God SS Evolved Vegeta’s passive damage reduction stacking (up to 30% within the same turn) combined with a 10% baseline reduction grants him an unusually high effective damage mitigation that surpasses the meta average by a large margin. Additionally, his revive mechanic with 70% HP recovery under fairly accessible conditions is a significant outlier in survivability compared to the meta, allowing extended presence and damage output far beyond typical units.
+
+Proposed Changes:
+Damage Reduction Passive: 10% base + up to 30% stacking within turn → 10% base + up to 15% stacking within turn (max 25% total)
+Revive HP Recovery: 70% HP recovered → 50% HP recovered
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Damage Reduction	10% base + up to 30% stack	10% base + up to 15% stack	~20% total (varies by unit)
+Revive HP Recovery	70% HP	50% HP	~50% HP (typical revive)
+Viability Check:
+These nerfs reduce his extreme survivability while preserving strong damage output and utility, keeping him a competitive but no longer dominant unit in the meta.

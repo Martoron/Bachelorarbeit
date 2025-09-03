@@ -1,0 +1,18 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s defensive scaling and damage reduction stack are significantly higher than meta averages, resulting in extreme survivability and sustained damage output. Additionally, the revive mechanic triggers too frequently due to low activation conditions and high HP recovery, enabling excessive longevity without meaningful counterplay.
+
+Proposed Changes:
+
+    Passive Damage Reduction: Total 20%-30% per turn (10% base + up to 20% stacking) → Reduce stacking cap to 10% (10% base + up to 10% stacking).
+
+    Revive Condition & HP Recovery: Revives with 70% HP after 7+ attacks received when ≤50% HP → Change to revive only if HP ≤30% and after 10+ attacks received; HP recovered lowered to 50%.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive Damage Reduction	10% base + up to 20% stacking	10% base + up to 10% stacking	~30% flat damage reduction (non-stacking)
+Revive Condition	HP ≤ 50%, 7+ attacks received; Revives with 70% HP	HP ≤ 30%, 10+ attacks received; Revives with 50% HP	Usually no revive or conditional on much lower HP
+ATK & DEF Boost	+150% ATK & DEF	+150% ATK & DEF	120%-200% typical
+Ki Gain	+1 Ki per attack (up to +5)	+1 Ki per attack (up to +5)	+1 Ki typical
+Additional Super Attack Chance	Medium chance (40%)	Medium chance (40%)	Medium chance (40%)
+Viability Check:
+These nerfs maintain Vegeta’s strong offensive and defensive presence but curb excessive damage mitigation and revive reliability, preventing him from dominating through sheer survivability while keeping him a top-tier contender.

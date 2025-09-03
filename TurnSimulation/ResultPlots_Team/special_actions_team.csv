@@ -1,0 +1,12 @@
+Condition,ItemsUsed,HealsUsed,RevivesUsed
+AGL_UI_adv,200,30,5
+AGL_UI_adv_LLM,200,38,18
+AGL_UI_no_adv,200,49,20
+AGL_UI_no_adv_LLM,199,42,39
+Baseline1,200,52,0
+Baseline2,200,44,0
+Baseline3,200,46,0
+INT_Vegeta_adv,200,43,20
+INT_Vegeta_adv_LLM,200,44,20
+INT_Vegeta_no_adv,200,50,36
+INT_Vegeta_no_adv_LLM,200,46,13

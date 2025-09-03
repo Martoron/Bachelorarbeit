@@ -1,0 +1,26 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+
+Problem:
+Evolved Vegeta is significantly overtuned defensively due to stacking up to 40% damage reduction (10% flat + 30% conditional) paired with high base DEF (15.7k), giving him extreme tankiness far above meta norms. Additionally, his revive condition is both generous and powerful, giving a second life in difficult content with relatively low activation cost (7 hits + HP <50%).
+Proposed Changes
+
+    Passive Damage Reduction:
+
+        Current: Reduces damage received by 10%; plus an additional 10% per hit received (up to 30%)
+
+        Adjusted: Reduces damage received by 5%; plus an additional 8% per hit received (up to 24%)
+
+    Revive Condition:
+
+        Current: Revives with 70% HP when HP is ≤50% after receiving 7+ hits and an ally or self is KO’d
+
+        Adjusted: Revives with 70% HP when HP is ≤50% after receiving 10+ hits and an ally or self is KO’d
+
+Meta Comparison Table
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Base Damage Reduction	10% flat + 30% stacking (up to 40% total)	5% flat + 24% stacking (up to 29% total)	~20-30% (only 1 unit has it, Vegito)
+DEF Stat	15,719	15,719 (unchanged)	13,392
+Revive Condition	7+ hits taken, HP ≤50%, ally/self KO	10+ hits taken, HP ≤50%, ally/self KO	No revive among meta units
+Viability Check
+
+Post-nerf, Vegeta remains a strong defensive unit with access to a revive and scaling DR, but is no longer disproportionately tanky compared to other meta units.

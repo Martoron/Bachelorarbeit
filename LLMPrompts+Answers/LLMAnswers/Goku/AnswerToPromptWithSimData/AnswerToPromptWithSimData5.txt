@@ -1,0 +1,22 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) is performing exceptionally well in offensive and defensive metrics, notably due to his high chance of performing critical hits, evading attacks, and defensive bonuses after evading. These mechanics, when paired with his high base stats and revive condition, make him a clear outlier in comparison to the other meta units. His ability to consistently deal immense damage while being highly evasive creates a significant imbalance.
+Proposed Changes:
+
+    Super Attack/Ultra Super Attack: Currently, his super and ultra super attacks have a high chance of performing critical hits. This should be reduced to a medium chance to decrease his over-reliance on critical hits.
+
+    Passive (Evasion + Defense Boost after Evasion): Goku currently has a great chance of evading enemy attacks and receives a DEF +30% boost after evading. This evasive mechanic should be adjusted to a medium chance of evasion, and the DEF boost should be reduced to +20%.
+
+    Revival Condition: The revival mechanic triggers when Goku's HP drops below 50% after receiving 3 or more attacks. This is a strong defensive net and should be toned down to require 4 or more attacks received before the revival condition triggers.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Super Attack (Crit Chance)	High Chance (70%)	Medium Chance (50%)	Medium Chance (50%)
+Ultra Super Attack (Crit Chance)	High Chance (70%)	Medium Chance (50%)	Medium Chance (50%)
+Evasion Chance	Great Chance (70%)	Medium Chance (50%)	Medium Chance (50%)
+DEF Boost after Evasion	DEF +30%	DEF +20%	DEF +15%
+Revival Trigger Condition	3+ attacks, 50% HP or less	4+ attacks, 50% HP or less	4+ attacks, 50% HP or less
+Viability Check:
+
+Post-nerf, Goku (Ultra Instinct) retains solid offensive and defensive capabilities but is no longer an overwhelming presence, aligning more closely with other top-tier units. He still has solid evasion, damage, and revival potential, ensuring his viability while avoiding overpowered performance.

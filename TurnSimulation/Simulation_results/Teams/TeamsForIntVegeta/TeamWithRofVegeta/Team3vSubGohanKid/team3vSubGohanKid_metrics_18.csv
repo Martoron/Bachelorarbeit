@@ -1,0 +1,28 @@
+RNG Seed: 60
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12009,Gohan (Teen),2,26,475971 (100%),160922,43339078 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,101144,374827 (79%),263518,43075560 (99%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,111,374716 (79%),1922376,41153184 (95%)
+2,11971,Caulifla,2,0,374716 (79%),159020,40994164 (94%)
+2,11879,Super Saiyan God SS Vegeta,2,41640,333076 (70%),122518,40871646 (94%)
+2,12114,Super Saiyan 2 Gohan (Youth),4,75691,257385 (54%),2982326,37889320 (87%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,12034,Super Saiyan God SS Evolved Vegeta,4,371,257014 (54%),2608936,35280384 (81%)
+3,12009,Gohan (Teen),4,306,256708 (54%),1373451,33906933 (78%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,256708 (54%),3540205,30366728 (70%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,6,0,256708 (54%),181048,30185680 (69%)
+4,11879,Super Saiyan God SS Vegeta,1,28,256680 (54%),1741611,28444069 (65%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,20,256660 (54%),5800212,22643857 (52%)
+5,12034,Super Saiyan God SS Evolved Vegeta,4,52672,203988 (43%),555174,22088683 (51%)
+5,12009,Gohan (Teen),1,77,203911 (43%),180863,21907820 (50%)
+5,12114,Super Saiyan 2 Gohan (Youth),3,203431,480 (0%),2130630,19777190 (45%)
+6,11971,Caulifla,4,0,480 (0%),27717,19749473 (45%)
+6,11879,Super Saiyan God SS Vegeta,1,27303,0 (0%),979677,18769796 (43%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,0 (0%),0,18769796 (43%)
+Result:,Team defeated
+
+Average damage received per turn:,83803.33
+Average damage dealt per turn:,4121700.67

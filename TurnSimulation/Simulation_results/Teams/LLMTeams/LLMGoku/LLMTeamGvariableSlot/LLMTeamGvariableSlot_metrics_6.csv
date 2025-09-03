@@ -1,0 +1,29 @@
+RNG Seed: 48
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12031,Goku (Ultra Instinct),5,173,454031 (100%),676319,42823681 (98%)
+1,12009,Gohan (Teen),2,165,453866 (100%),1354368,41469313 (95%)
+1,12114,Super Saiyan 2 Gohan (Youth),1,37,453829 (100%),2488988,38980325 (90%)
+2,11971,Caulifla,3,0,453829 (100%),20491,38959834 (90%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,18572,435257 (96%),1926425,37033409 (85%)
+2,11751,Gohan (Kid),2,0,435257 (96%),666344,36367065 (84%)
+3,Item,used,for,40,percent,damage,reduction
+3,12031,Goku (Ultra Instinct),3,324854,110403 (24%),2792136,33574929 (77%)
+3,12009,Gohan (Teen),2,85,110318 (24%),176073,33398856 (77%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,262,110056 (24%),900455,32498401 (75%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,6,0,110056 (24%),20523,32477878 (75%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,94,109962 (24%),3809757,28668121 (66%)
+4,12114,Super Saiyan 2 Gohan (Youth),1,14,109948 (24%),3037927,25630194 (59%)
+5,11751,Gohan (Kid),heal,heal,454204 (100%),heal,heal
+5,11751,Gohan (Kid),5,306227,147977 (33%),297722,25332472 (58%)
+5,12031,Goku (Ultra Instinct),1,115216,32761 (7%),982203,24350269 (56%)
+5,12009,Gohan (Teen),2,137,32624 (7%),178667,24171602 (56%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11971,Caulifla,5,0,32624 (7%),24136,24147466 (56%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,17330,15294 (3%),6717048,17430418 (40%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,27446,0 (0%),6727001,10703417 (25%)
+Result:,Team defeated
+
+Average damage received per turn:,77726.00
+Average damage dealt per turn:,5466097.17

@@ -1,0 +1,15 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s passive damage reduction stacking up to 30% per turn combined with a base 10% reduction is significantly higher than meta averages, creating excessive survivability. Additionally, the revival condition (with 70% HP recovery) triggers too reliably due to the low activation threshold (50% HP + 7 attacks received), amplifying his staying power beyond comparable units.
+
+Proposed Changes:
+
+    Passive Damage Reduction: 10% base + 10% per attack (up to 30%) → 10% base + 5% per attack (up to 15%)
+
+    Revival Condition HP Threshold: 50% HP or less → 40% HP or less
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive Damage Reduction	10% base + 10% per attack (max 30%)	10% base + 5% per attack (max 15%)	~10–20% flat / conditional
+Revival HP Threshold	50% HP or less	40% HP or less	Often 30–40% or conditional
+Viability Check:
+The nerfs lower his extreme survivability while keeping his offensive power intact, ensuring he remains a strong, viable unit without overshadowing meta competition.

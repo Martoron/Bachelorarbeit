@@ -1,0 +1,28 @@
+RNG Seed: 60
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,12009,Gohan (Teen),2,26,440498 (100%),160922,43339078 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),4,101144,339354 (77%),263518,43075560 (99%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,111,339243 (77%),1922376,41153184 (95%)
+2,11971,Caulifla,2,0,339243 (77%),127171,41026013 (94%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,82,339161 (77%),1120019,39905994 (92%)
+2,11751,Gohan (Kid),4,188160,151001 (34%),564463,39341531 (90%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,41355,Goku (Ultra Instinct) int,4,0,151001 (34%),111675,39229856 (90%)
+3,12009,Gohan (Teen),4,337,150664 (34%),1365528,37864328 (87%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,150664 (34%),3427432,34436896 (79%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,4,0,150664 (34%),18285,34418611 (79%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,120,150544 (34%),4645876,29772735 (68%)
+4,12114,Super Saiyan 2 Gohan (Youth),3,283,150261 (34%),2883591,26889144 (62%)
+5,11751,Gohan (Kid),7,64063,86198 (20%),780930,26108214 (60%)
+5,41355,Goku (Ultra Instinct) int,0,0,86198 (20%),1097451,25010763 (57%)
+5,12009,Gohan (Teen),1,106,86092 (20%),179844,24830919 (57%)
+6,11971,Caulifla,4,0,86092 (20%),162734,24668185 (57%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,48733,37359 (8%),4463899,20204286 (46%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,39161,0 (0%),2913444,17290842 (40%)
+Result:,Team defeated
+
+Average damage received per turn:,73721.00
+Average damage dealt per turn:,4368193.00

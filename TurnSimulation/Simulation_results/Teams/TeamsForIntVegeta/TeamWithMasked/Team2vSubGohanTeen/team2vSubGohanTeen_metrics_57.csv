@@ -1,0 +1,30 @@
+RNG Seed: 99
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,6,0,457122 (100%),155191,43344809 (100%)
+1,11029,Masked Saiyan,0,0,457122 (100%),1963566,41381243 (95%)
+1,12114,Super Saiyan 2 Gohan (Youth),2,29409,427713 (94%),147722,41233521 (95%)
+2,11751,Gohan (Kid),5,0,427713 (94%),124567,41108954 (95%)
+2,12034,Super Saiyan God SS Evolved Vegeta,1,97,427616 (94%),1781511,39327443 (90%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,11958,415658 (91%),2385287,36942156 (85%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,4,0,415658 (91%),177400,36764756 (85%)
+3,11029,Masked Saiyan,2,239,415419 (91%),2010827,34753929 (80%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,12016,403403 (88%),304920,34449009 (79%)
+4,11751,Gohan (Kid),2,47661,355742 (78%),132133,34316876 (79%)
+4,12034,Super Saiyan God SS Evolved Vegeta,2,86,355656 (78%),888016,33428860 (77%)
+4,12114,Super Saiyan 2 Gohan (Youth),4,58286,297370 (65%),4838539,28590321 (66%)
+5,11971,Caulifla,5,0,297370 (65%),194820,28395501 (65%)
+5,11029,Masked Saiyan,2,155,297215 (65%),2115437,26280064 (60%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,33931,263284 (58%),2308000,23972064 (55%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11751,Gohan (Kid),3,127915,135369 (30%),776259,23195805 (53%)
+6,12034,Super Saiyan God SS Evolved Vegeta,1,12878,122491 (27%),2069012,21126793 (49%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,111664,10827 (2%),5062023,16064770 (37%)
+7,11971,Caulifla,4,0,10827 (2%),205445,15859325 (36%)
+7,11029,Masked Saiyan,1,154736,0 (0%),226814,15632511 (36%)
+7,12114,Super Saiyan 2 Gohan (Youth),0,0,0 (0%),0,15632511 (36%)
+Result:,Team defeated
+
+Average damage received per turn:,85861.57
+Average damage dealt per turn:,3981069.86

@@ -1,0 +1,32 @@
+RNG Seed: 44
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),5,24757,435739 (95%),110586,43389414 (100%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,6413,429326 (93%),2042433,41346981 (95%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,12229,417097 (91%),2003025,39343956 (90%)
+2,12034,Super Saiyan God SS Evolved Vegeta,3,228,416869 (91%),1677910,37666046 (87%)
+2,12009,Gohan (Teen),1,64,416805 (91%),160142,37505904 (86%)
+2,12114,Super Saiyan 2 Gohan (Youth),4,69121,347684 (76%),2307820,35198084 (81%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,1,0,347684 (76%),20703,35177381 (81%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,195,347489 (75%),4081001,31096380 (71%)
+3,11751,Gohan (Kid),4,48062,299427 (65%),113464,30982916 (71%)
+4,12034,Super Saiyan God SS Evolved Vegeta,3,164,299263 (65%),2446707,28536209 (66%)
+4,12009,Gohan (Teen),1,89,299174 (65%),1371929,27164280 (62%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,226,298948 (65%),4071097,23093183 (53%)
+5,11971,Caulifla,3,0,298948 (65%),20731,23072452 (53%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),3,202332,96616 (21%),3752440,19320012 (44%)
+5,12114,Super Saiyan 2 Gohan (Youth),2,177,96439 (21%),3094975,16225037 (37%)
+6,11751,Gohan (Kid),heal,heal,460496 (100%),heal,heal
+6,11751,Gohan (Kid),6,253977,206519 (45%),1746930,14478107 (33%)
+6,12034,Super Saiyan God SS Evolved Vegeta,1,15,206504 (45%),3400745,11077362 (25%)
+6,12009,Gohan (Teen),1,94716,111788 (24%),1507804,9569558 (22%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,5,0,111788 (24%),24445,9545113 (22%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),0,0,111788 (24%),8964472,580641 (1%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,111788 (24%),2603714,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,49815.43
+Average damage dealt per turn:,6503296.14

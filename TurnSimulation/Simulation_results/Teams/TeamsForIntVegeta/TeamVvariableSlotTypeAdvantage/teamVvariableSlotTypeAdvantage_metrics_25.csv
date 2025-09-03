@@ -1,0 +1,30 @@
+RNG Seed: 67
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,460496 (100%),143042,43356958 (100%)
+1,12009,Gohan (Teen),1,99,460397 (100%),1418651,41938307 (96%)
+1,11751,Gohan (Kid),5,89364,371033 (81%),687982,41250325 (95%)
+2,12034,Super Saiyan God SS Evolved Vegeta,4,161,370872 (81%),3122566,38127759 (88%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,143,370729 (81%),2409959,35717800 (82%)
+2,12114,Super Saiyan 2 Gohan (Youth),2,165,370564 (80%),3002479,32715321 (75%)
+3,Item,used,for,40,percent,damage,reduction
+3,11971,Caulifla,5,0,370564 (80%),165235,32550086 (75%)
+3,12009,Gohan (Teen),2,168,370396 (80%),1560437,30989649 (71%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,21,370375 (80%),306149,30683500 (71%)
+4,11751,Gohan (Kid),4,47305,323070 (70%),779888,29903612 (69%)
+4,12034,Super Saiyan God SS Evolved Vegeta,3,175,322895 (70%),2900504,27003108 (62%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,67,322828 (70%),2896047,24107061 (55%)
+5,11971,Caulifla,6,0,322828 (70%),24348,24082713 (55%)
+5,12009,Gohan (Teen),2,17212,305616 (66%),1710799,22371914 (51%)
+5,12114,Super Saiyan 2 Gohan (Youth),0,0,305616 (66%),2018731,20353183 (47%)
+6,11751,Gohan (Kid),4,63978,241638 (52%),781289,19571894 (45%)
+6,12034,Super Saiyan God SS Evolved Vegeta,2,28,241610 (52%),5431296,14140598 (33%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,70590,171020 (37%),2909496,11231102 (26%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,3,0,171020 (37%),25536,11205566 (26%)
+7,12009,Gohan (Teen),3,288,170732 (37%),1845812,9359754 (22%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,174678,0 (0%),7387664,1972090 (5%)
+Result:,Team defeated
+
+Average damage received per turn:,66348.86
+Average damage dealt per turn:,5932558.57

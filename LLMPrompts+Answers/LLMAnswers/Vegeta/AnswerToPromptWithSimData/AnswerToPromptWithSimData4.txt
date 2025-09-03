@@ -1,0 +1,13 @@
+Analysis for Super Saiyan God SS Evolved Vegeta
+Problem: The unit’s passive damage reduction stacking up to 30% in the same turn combined with a base 10% reduction, plus a revive that triggers at 50% HP or below after 7 attacks received, makes him significantly more durable than meta units who have higher single-value damage reduction but no stacking or conditional revive. His medium chance of additional Super Attacks with high critical hit chance on both Super and Ultra Super Attacks further inflates his damage output, making him a strong outlier in survivability and sustained DPS.
+
+Proposed Changes:
+Passive damage reduction stacking: 10% base + 10% per attack up to 30% → 10% base + 5% per attack up to 20%
+Revive HP threshold: Revive triggers if HP ≤ 50% after 7 attacks → Revive triggers if HP ≤ 30% after 7 attacks
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+Passive Damage Reduction	10% base + up to 20% stacked (max 30%)	10% base + up to 10% stacked (max 20%)	~30% flat (Goku & Vegeta Angel 30%, others mostly none or 10–20%)
+Revive Condition (HP ≤)	50%	30%	None except Majin Buu (recovers 50% HP once)
+Super Attack Critical Chance	High chance[1] on SA & Ultra SA	Unchanged	Medium or none on meta units
+Viability Check: The unit remains a strong offensive and defensive INT type with reliable damage and survivability but loses excessive damage reduction stacking and early revive reliability, preventing him from dominating team durability without losing his core identity.

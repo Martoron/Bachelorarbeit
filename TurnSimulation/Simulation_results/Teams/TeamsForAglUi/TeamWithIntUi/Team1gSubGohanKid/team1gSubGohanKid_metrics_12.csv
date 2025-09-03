@@ -1,0 +1,33 @@
+RNG Seed: 54
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11971,Caulifla,2,0,477449 (100%),145768,43354232 (100%)
+1,12031,Goku (Ultra Instinct),1,13,477436 (100%),1960405,41393827 (95%)
+1,12114,Super Saiyan 2 Gohan (Youth),5,88320,389116 (81%),2487843,38905984 (89%)
+2,12009,Gohan (Teen),1,132,388984 (81%),1367639,37538345 (86%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,72,388912 (81%),1519514,36018831 (83%)
+2,11354,Goku (Ultra Instinct -Sign-),5,345206,43706 (9%),995190,35023641 (81%)
+3,Item,used,for,40,percent,damage,reduction
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+3,11971,Caulifla,3,0,43706 (9%),23147,35000494 (80%)
+3,12031,Goku (Ultra Instinct),4,68,43638 (9%),3943409,31057085 (71%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,106036,0 (0%),6764104,24292981 (56%)
+3,12031,Goku (Ultra Instinct),revive,revive,334214 (70%),revive,revive
+4,12009,Gohan (Teen),3,93,334122 (70%),25854,24267127 (56%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,173,333949 (70%),3103329,21163798 (49%)
+4,12114,Super Saiyan 2 Gohan (Youth),3,194,333755 (70%),2198890,18964908 (44%)
+5,11971,Caulifla,4,0,333755 (70%),168163,18796745 (43%)
+5,12031,Goku (Ultra Instinct),1,0,333755 (70%),2733506,16063239 (37%)
+5,11354,Goku (Ultra Instinct -Sign-),3,154824,178931 (37%),1283190,14780049 (34%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,12009,Gohan (Teen),5,401,178530 (37%),4270,14775779 (34%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,10518,168012 (35%),1870984,12904795 (30%)
+6,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,31303,136709 (29%),2715155,10189640 (23%)
+7,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+7,11971,Caulifla,4,0,136709 (29%),26494,10163146 (23%)
+7,12031,Goku (Ultra Instinct),1,107811,28898 (6%),3063803,7099343 (16%)
+7,12114,Super Saiyan 2 Gohan (Youth),2,43933,0 (0%),2438462,4660881 (11%)
+Result:,Team defeated
+
+Average damage received per turn:,70354.86
+Average damage dealt per turn:,5548445.57

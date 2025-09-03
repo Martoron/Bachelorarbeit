@@ -1,0 +1,29 @@
+RNG Seed: 50
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11751,Gohan (Kid),2,45914,399526 (90%),112769,43387231 (100%)
+1,12031,Goku (Ultra Instinct),4,97,399429 (90%),561624,42825607 (98%)
+1,11879,Super Saiyan God SS Vegeta,2,221,399208 (90%),1887838,40937769 (94%)
+2,11971,Caulifla,3,0,399208 (90%),136850,40800919 (94%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,120189,279019 (63%),1973465,38827454 (89%)
+2,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),3,17805,261214 (59%),2486135,36341319 (84%)
+3,Item,used,for,40,percent,damage,reduction
+3,11751,Gohan (Kid),5,45116,216098 (49%),120442,36220877 (83%)
+3,12031,Goku (Ultra Instinct),1,0,216098 (49%),2319078,33901799 (78%)
+3,12114,Super Saiyan 2 Gohan (Youth),2,140,215958 (48%),3375103,30526696 (70%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+4,11971,Caulifla,5,0,215958 (48%),25961,30500735 (70%)
+4,11879,Super Saiyan God SS Vegeta,2,233,215725 (48%),1842328,28658407 (66%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,48,215677 (48%),5792242,22866165 (53%)
+5,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+5,11751,Gohan (Kid),6,123452,92225 (21%),780538,22085627 (51%)
+5,12031,Goku (Ultra Instinct),1,0,92225 (21%),3349315,18736312 (43%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),1,29752,62473 (14%),6055420,12680892 (29%)
+6,11971,Caulifla,5,0,62473 (14%),25754,12655138 (29%)
+6,11879,Super Saiyan God SS Vegeta,2,155,62318 (14%),1925643,10729495 (25%)
+6,12114,Super Saiyan 2 Gohan (Youth),1,191709,0 (0%),2769763,7959732 (18%)
+Result:,Team defeated
+
+Average damage received per turn:,95805.17
+Average damage dealt per turn:,5923378.00

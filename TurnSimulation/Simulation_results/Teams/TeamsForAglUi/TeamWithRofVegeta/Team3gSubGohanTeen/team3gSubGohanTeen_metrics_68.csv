@@ -1,0 +1,31 @@
+RNG Seed: 110
+Turn,Unit ID,Unit Name,Hits Taken,Damage Received,Team HP,Damage Dealt,Boss HP
+1,Item,used,for,40,percent,damage,reduction
+1,11879,Super Saiyan God SS Vegeta,2,133,445307 (100%),2049932,41450068 (95%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,10919,434388 (98%),3764619,37685449 (87%)
+1,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),4,23854,410534 (92%),306544,37378905 (86%)
+2,11971,Caulifla,3,0,410534 (92%),4628,37374277 (86%)
+2,12031,Goku (Ultra Instinct),2,111,410423 (92%),1347253,36027024 (83%)
+2,11751,Gohan (Kid),3,21564,388859 (87%),649132,35377892 (81%)
+3,Item,used,for,40,percent,damage,reduction
+3,11879,Super Saiyan God SS Vegeta,6,382,388477 (87%),2204726,33173166 (76%)
+3,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),1,57,388420 (87%),3426023,29747143 (68%)
+3,12114,Super Saiyan 2 Gohan (Youth),1,107,388313 (87%),6523892,23223251 (53%)
+4,11971,Caulifla,5,0,388313 (87%),24573,23198678 (53%)
+4,12031,Goku (Ultra Instinct),1,0,388313 (87%),2254119,20944559 (48%)
+4,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),2,193,388120 (87%),4901022,16043537 (37%)
+5,11751,Gohan (Kid),5,0,388120 (87%),131746,15911791 (37%)
+5,11879,Super Saiyan God SS Vegeta,1,216838,171282 (38%),115452,15796339 (36%)
+5,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid),2,47124,124158 (28%),4724234,11072105 (25%)
+6,12031,Goku (Ultra Instinct),active skill,active skill,active skill,active skill,active skill,ACTIVE SKILL USED
+6,11971,Caulifla,5,0,124158 (28%),24434,11047671 (25%)
+6,12031,Goku (Ultra Instinct),2,0,124158 (28%),779080,10268591 (24%)
+6,12114,Super Saiyan 2 Gohan (Youth),1,181821,0 (0%),2982548,7286043 (17%)
+6,12031,Goku (Ultra Instinct),revive,revive,311808 (70%),revive,revive
+7,11751,Gohan (Kid),5,0,311808 (70%),764290,6521753 (15%)
+7,11879,Super Saiyan God SS Vegeta,0,0,311808 (70%),1313496,5208257 (12%)
+7,11681,Super Saiyan Gohan (Teen) & Super Saiyan Goten (Kid)(Friend),0,0,311808 (70%),5347142,0 (0%)
+Result:,Boss defeated
+
+Average damage received per turn:,19090.29
+Average damage dealt per turn:,6234126.43

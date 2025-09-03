@@ -1,0 +1,42 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) exhibits a combination of very high evasion, a powerful revival mechanic, and an extraordinary ATK/DEF boost, making him overperform in both damage output and survivability. His passive grants both a high chance of evasion and an additional 30% DEF boost after evading, which combined with his revival mechanic, creates a unit that can dominate with minimal risk of being defeated. Additionally, his revival ability is a safety net that further exacerbates his overpowered nature.
+
+Proposed Changes:
+
+    Evasion Mechanic:
+
+        Current: "Great chance of evading enemy's attack (including Super Attack)"
+
+        Adjusted: "Medium chance of evading enemy's attack (including Super Attack)"
+
+    Reasoning: The high chance of evasion makes him incredibly hard to hit, especially in the context of Dokkan Battle's existing meta. Reducing the evasion chance will make him more balanced without completely removing his dodging ability.
+
+    Passive Defensive Boost after Evasion:
+
+        Current: "An additional DEF +30% within the same turn after evading an attack"
+
+        Adjusted: "An additional DEF +20% within the same turn after evading an attack"
+
+    Reasoning: The 30% DEF boost is a bit excessive considering the high evasion chance. A reduction to 20% will still keep his defensive power high but in line with other units that don't have such potent evasion.
+
+    Revival Mechanic Activation Condition:
+
+        Current: "Revives with 70% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)"
+
+        Adjusted: "Revives with 50% HP recovered when the character or an ally attacking in the same turn is KO'd (once only)"
+
+    Reasoning: The 70% revival is too high given the powerful evasive mechanics. Lowering the revival amount to 50% reduces his comeback potential without completely diminishing the ability.
+
+Meta Comparison Table:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	24,741
+Attack	20,700	20,700	21,572
+Defence	14,525	14,525	13,598
+Evasion (Chance)	Great chance[4]	Medium chance[3]	—
+Passive DEF Boost after Evasion	+30% after evasion	+20% after evasion	—
+Revival Mechanic (HP Restored)	70% HP	50% HP	—
+
+Viability Check:
+Post-nerf, Goku (Ultra Instinct) will still be a top-tier unit with high evasion and solid offense, but the changes will reduce his ability to evade consistently and tank damage while retaining his general viability. He will be less dominant but still highly functional in the right team compositions.

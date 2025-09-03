@@ -1,0 +1,26 @@
+Analysis for Goku (Ultra Instinct)
+
+Problem:
+Goku (Ultra Instinct) exhibits an excessive synergy between his evasion-based passive, high critical hit chance, and powerful offensive capabilities, particularly with his medium chance for an additional Super Attack. The combination of high evasion, critical hit bonuses, and reviving under specific conditions significantly skews his performance, contributing to an overpowered role, especially in long fights.
+
+Proposed Changes:
+
+    Passive - Evasion Chance: Great chance of evading attacks → High chance of evading attacks.
+    Reducing the evasion from a "great" chance to a "high" chance ensures he isn't too evasive, which in turn makes him slightly more vulnerable and balances his offensive presence. This doesn't completely remove his ability to evade but reduces the effectiveness, making him less of an unkillable tank.
+
+    Passive - Additional DEF Buff: DEF +30% after evading an attack → DEF +20% after evading an attack.
+    Reducing the defense bonus after evading an attack ensures that Goku (Ultra Instinct) isn’t able to sustain damage reduction over long periods in battle, reducing his overall tankiness and indirectly balancing his offensive power.
+
+Meta Comparison:
+Stat/Skill	OP Unit (Before)	OP Unit (After)	Meta Avg.
+HP	22,350	22,350	23,221
+Attack	20,700	20,700	21,022
+Defense	14,525	14,525	13,795
+Evasion Chance	Great Chance	High Chance	Medium to High Chance
+Additional DEF Buff (after evading)	+30%	+20%	~+20%
+Critical Hit Chance	High Chance (for 1 turn)	High Chance (for 1 turn)	High Chance (for 1 turn)
+Medium Chance of Additional Super Attack	Yes	Yes	Yes
+Revive (when HP is ≤ 50% and attacked 3 times)	Yes (Revives with 70% HP)	Yes (Revives with 70% HP)	Yes (typically 1-2 turns)
+
+Viability Check:
+Post-nerf, Goku (Ultra Instinct) retains his impressive offensive and evasive capabilities but is less invincible, making him more balanced in extended fights while still remaining a potent threat in battle.
